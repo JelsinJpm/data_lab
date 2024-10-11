@@ -43,3 +43,5 @@ plt.show()
 
 # Mostramos los primeros registros del DataFrame con precios originales, formateados y transformados
 print(df_precios[['precio', 'precio_formateado', 'precio_log']].head())
+
+print(df_precios)

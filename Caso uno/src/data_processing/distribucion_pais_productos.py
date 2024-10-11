@@ -45,3 +45,5 @@ plt.show()
 
 # Mostramos los primeros registros del DataFrame con el país de origen extraído
 print(df_detalles[['detalles', 'pais_origen']].head())
+
+print(top_paises)

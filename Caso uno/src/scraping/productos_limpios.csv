@@ -1,0 +1,1448 @@
+producto_id,nombre,precio,descuento,categoria,subcategoria,color,talla
+15,Zapato Casual con Suela Corrida Y Detalles de Color 35435,240900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos","Café, Gris Granito",42
+16,Zapato Business con Suela Corrida 35434,249900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos","Azul Marino, Canela",42
+19,Blazer Business para Hombre 36889,509900.0,0.0,HOMBRE,"Ropa, Blazers",Gris Grafito,L
+23,Traje Colección Especial Diseño Cuadros Semi Slim Fit 05083,465985.0,-35.0,HOMBRE,"Ropa, Trajes",Taupe,38
+24,Camiseta Básica Regular Fit para Hombre 25997,50915.0,-15.0,HOMBRE,"Ropa, Camisetas","Azul Marino, Negro, Blanco",L
+25,Camiseta Básica Regular Fit para Hombre 25997,50915.0,-15.0,HOMBRE,"Ropa, Camisetas","Azul Marino, Negro, Blanco",L
+26,Blazer Business con Forro y Silueta Justa 21887,340425.0,-25.0,HOMBRE,"Ropa, Blazers",Ganache,L
+27,Chaleco Acolchado Unicolor para Hombre 11924,119900.0,0.0,HOMBRE,"Ropa, Chalecos, Chalecos Casuales","Negro, Navy",L
+28,Traje Colección Especial Regular Fit para Hombre 37172,1849900.0,0.0,HOMBRE,"Ropa, Trajes",Azul Marino,42
+29,Camiseta Básica Regular Fit para Hombre 25996,50915.0,-15.0,HOMBRE,"Ropa, Camisetas","Azul Marino, Negro, Blanco",L
+30,Chaqueta Deportiva con Capota para Hombre 23607,234900.0,0.0,HOMBRE,"Ropa, Chaquetas","Azul Marino, Granate, Negro, Gris Granito",L
+32,Zapato Casual Talonera en Contraste 31601,254900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos","Café, Azul Prusia",42
+33,Polo Premium Regular Fit para Hombre 36133,76415.0,-15.0,HOMBRE,"Polos, Ropa","Gris Oscuro, Rojo Persa",L
+34,Pantalón Unicolor Regular Fit para Hombre 12338,99900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales","Navy, Abeto",42
+35,Zapatos Casuales con Placa de Puntos 31617,254900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos","Azul Prusia, Ganache",42
+36,Zapato Casual con Suela Corrida Y Detalles de Color 35435,240900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos","Café, Gris Granito",42
+37,Zapato Casual Moderno con Suela Liviana en Eva 37879,239900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos","Canela, Negro",42
+39,Camiseta Oversize Unicolor 04731,46665.0,-15.0,HOMBRE,"Ropa, Camisetas","Café, Negro, Turquesa, Sandía, Blanco",L
+40,Boina Unicolor para Hombre 35713,54900.0,0.0,HOMBRE,"Accesorios, Gorras, Gorros y Boinas",Abeto,UNICA
+41,Zapato Formal en Cuero para Hombre 39238,229900.0,0.0,HOMBRE,"Zapatos Formales, Zapatos",Negro,42
+42,Chaqueta Unicolor Cuello Alto para Hombre 23585,257175.0,-25.0,HOMBRE,"Ropa, Chaquetas","Gris Granito, Azul Prusia",L
+43,Zapato Formal Tipo Oxford con Costura en Puntera 23965,269900.0,0.0,HOMBRE,"Zapatos Formales, Zapatos","Negro, Navy",38
+46,Camisa Formal Unicolor para Hombre 33376,148900.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+48,Suéter Cuello Redondo para Hombre 36379,129900.0,0.0,HOMBRE,"Ropa, Suéteres y Cardigans",Verde Oscuro,L
+49,Jean Silueta Slim con Lavado Azul Medio 38368,149900.0,0.0,HOMBRE,"Ropa, Jeans",Azul Claro,38
+50,Gorra Beisbolera para Hombre 12423,35900.0,0.0,HOMBRE,"Accesorios, Gorras, Gorros y Boinas",Negro,UNICA
+51,Zapato Casual con Suela Rustica y Capellada con Placa 35119,240900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos",Azul Prusia,42
+53,Camisa en Denim Liviano para Hombre 05231,149900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Negro,L
+54,Gorra Beisbolera para Hombre 37941,49900.0,0.0,HOMBRE,"Accesorios, Gorras, Gorros y Boinas",Lima,UNICA
+55,Blazer Business Desestructurado Slim Fit para Hombre 21070,277425.0,-25.0,HOMBRE,"Ropa, Blazers",Azul Prusia,L
+56,Zapato Casual Gamuzado con Suela en Contraste 36497,264900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos",Marrón,42
+61,Blazer Business Slim Fit para Hombre 12200,219900.0,0.0,HOMBRE,"Ropa, Blazers",Gris Granito,L
+63,Camisa Guayabera en Lino para Hombre 02977,350000.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Lino",Turquesa,M
+64,Bota Casual Deportiva con Suela en Contraste y Vintage 36498,279900.0,0.0,HOMBRE,"Zapatos, Botas",Gris Granito,42
+66,Traje Unicolor Regular para Hombre 21349,457535.0,-35.0,HOMBRE,"Ropa, Trajes",Negro,42
+67,Pantalón Unicolor Slim Fit para Hombre 12354,99900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales","Azul Marino, Negro, Gris",38
+68,Jean en Silueta Skinny para Hombre 37047,149900.0,0.0,HOMBRE,"Ropa, Jeans",Aguamarina,36
+69,Gorra Trucker con Malla para Hombre 36194,49900.0,0.0,HOMBRE,"Accesorios, Gorras, Gorros y Boinas",Blanco,UNICA
+70,Pantalón Formal Slim Fit para Hombre 37282,109900.0,0.0,HOMBRE,"Pantalones, Pantalones Formales, Ropa",Azul Prusia,38
+71,Camisa para Hombre Composición en Algodón 02831,220000.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Lino",Carmesí,L
+73,Suéter Cuello V Unicolor para Hombre 12576,69900.0,0.0,HOMBRE,"Ropa, Suéteres y Cardigans",Navy,L
+74,Chaqueta de Jean en Lavado Negro 33828,249900.0,0.0,HOMBRE,"Ropa, Chaquetas",Negro,L
+75,Camisa con Bolsillos para Hombre 05248,149900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Negro,L
+76,Zapato Casual Talonera en Contraste 31601,254900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos","Café, Azul Prusia",42
+77,Bermuda Unicolor Regular Fit para Hombre 38396,101915.0,-15.0,HOMBRE,"Ropa, Bermudas",Azul Prusia,42
+78,Sandalia de Pala con Plantilla Confort 37738,110415.0,-15.0,HOMBRE,"Zapatos, Sandalias",Negro,42
+79,Bota Formal con Detalles Brogue Y Conratse de Texturas 38556,289900.0,0.0,HOMBRE,"Zapatos, Botas",Negro,42
+80,Gorra Beisbolera Aplique para Hombre 12426,35900.0,0.0,HOMBRE,"Accesorios, Gorras, Gorros y Boinas",Verde Pino,UNICA
+81,Camisilla Cuello Redondo para Hombre 12352,24900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Camisillas","Negro, Blanco",L
+82,Traje Colección Especial Silueta Semi Slim Fit para Hombre 36454,999900.0,0.0,HOMBRE,"Ropa, Trajes",Azul Prusia,42
+83,Gorra Combinada Malla para Hombre 36198,49900.0,0.0,HOMBRE,"Accesorios, Gorras, Gorros y Boinas",Blanco,UNICA
+84,Camiseta Básica para Hombre 29845,33915.0,-15.0,HOMBRE,"Ropa, Camisetas","Negro, Azul Prusia, Blanco",L
+85,Gorra de Malla para Hombre 13402,39900.0,0.0,HOMBRE,"Accesorios, Gorras, Gorros y Boinas",Verde Oscuro,UNICA
+86,Pantalón para Hombre en Mezclas Lino 02502,350000.0,0.0,HOMBRE,"Pantalones, Pantalones Lino, Ropa",Turquesa,40
+88,Chaqueta con Cuello Alto Cremallera Frontal Y Bolsillos 35803,319900.0,0.0,HOMBRE,"Ropa, Chaquetas",Taupe,L
+89,Tenis en Gamuza de Colores con Suela de Caja 36502,254900.0,0.0,HOMBRE,"Tenis, Zapatos","Mostaza, Gris, Verde Pino",42
+90,Abrigo Business para Hombre 36277,719900.0,0.0,HOMBRE,"Ropa, Blazers",Gris,L
+91,Correa Casual en Cuero para Hombre 35663,76900.0,0.0,HOMBRE,"Accesorios, Correas, Cinturones y Correas",Café,42
+92,Chaqueta Unicolor Deportiva para Hombre 12467,99900.0,0.0,HOMBRE,"Ropa, Chaquetas","Negro, Azul Prusia, Blanco",M
+93,Camiseta Deportiva para Hombre 12218,29665.0,-15.0,HOMBRE,"Ropa, Camisetas","Negro, Navy",L
+94,Suéter Cuello Redondo Unicolor para Hombre 20015,114900.0,0.0,HOMBRE,"Ropa, Suéteres y Cardigans","Gris Oscuro, Negro, Azul Prusia",L
+95,Mocasín Formal en Cuero para Hombre 35427,254900.0,0.0,HOMBRE,"Mocasines, Zapatos","Negro, Ganache",42
+96,Chaqueta Cuello Alto para Hombre 36400,319900.0,0.0,HOMBRE,"Ropa, Chaquetas",Negro,M
+97,Camisa Smoking para Hombre 36745,134900.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+99,Traje Colección Especial Diseño Cuadros Semi Slim Fit para Hombre 32024,662925.0,-25.0,HOMBRE,"Ropa, Trajes",Negro,42
+100,Camisa Casual Textura Manga Larga para Hombre 09622,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Gris Carbón,L
+101,Bermuda Unicolor Slim Fit para Hombre 40163,98515.0,-15.0,HOMBRE,"Ropa, Bermudas",Azul Prusia,32
+103,Gorra Malla con Aplique para Hombre 12427,35900.0,0.0,HOMBRE,"Accesorios, Gorras, Gorros y Boinas",Negro,UNICA
+104,Jogger en Denim para Hombre 05211,139900.0,0.0,HOMBRE,"Ropa, Jeans",Azul Prusia,L
+105,Suéter Clásico en Algodón para Hombre 36371,129900.0,0.0,HOMBRE,"Ropa, Suéteres y Cardigans",Arena,L
+106,Camisa A Cuadros Manga Larga para Hombre 36351,139900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Beige,L
+107,Camisa Casual Cuadros para Hombre 12462,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Verde Enebro,L
+108,Chaqueta con Cuello Alto en Imitación Cuero 35987,274900.0,0.0,HOMBRE,"Ropa, Chaquetas","Negro, Ganache",L
+109,Zapatos Casuales con Pieza Contorno en Contraste en Cuero para Hombre 23981,269900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos","Azul Prusia, Ganache",42
+110,Polo Moda Regular Fit para Hombre 36799,84915.0,-15.0,HOMBRE,"Polos, Ropa",Multicolor,L
+111,Jean en Silueta Slim Lavado Blanco 35846,149900.0,0.0,HOMBRE,"Ropa, Jeans",Blanco,32
+112,Gorro Tejido para Hombre 34223,44900.0,0.0,HOMBRE,"Accesorios, Gorras, Gorros y Boinas","Azul Marino, Rojo Carmín",UNICA
+113,Gorra Beisbolera Bordada para Hombre 12161,35900.0,0.0,HOMBRE,"Accesorios, Gorras, Gorros y Boinas",Escarlata,UNICA
+114,Blazer Unicolor para Hombre 12201,234900.0,0.0,HOMBRE,"Ropa, Blazers",Khaki,L
+115,Camisa Business Algodón Europeo para Hombre 30488,179900.0,0.0,HOMBRE,"Camisas, Camisas Business, Ropa",Blanco,L
+116,Gorra Beisbolera para Hombre 12425,35900.0,0.0,HOMBRE,"Accesorios, Gorras, Gorros y Boinas",Gris Oscuro,UNICA
+117,Jogger en Tejido de Punto para Hombre 12611,64900.0,0.0,HOMBRE,"Pantalones, Ropa, Joggers",Azul Prusia,L
+118,Pantaloneta Estampada para Hombre 37308,76415.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Verde Malaquita,L
+119,Zapato Formal con Contraste de Placa 31598,239900.0,0.0,HOMBRE,"Zapatos Formales, Zapatos","Café, Negro",42
+120,Pantalón Unicolor para Hombre 12556,99900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Azul Prusia,38
+121,Blazer Business para Hombre 21883,305175.0,-25.0,HOMBRE,"Ropa, Blazers",Gris Carbón,L
+122,Gorra Beisbolera para Hombre 12428,39900.0,0.0,HOMBRE,"Accesorios, Gorras, Gorros y Boinas",Blanco,UNICA
+124,Chaqueta Casual para Hombre 23589,319900.0,0.0,HOMBRE,"Ropa, Chaquetas","Azul Prusia, Gris Grafito",L
+125,Camisa Hawaiana para Hombre 03155,170000.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Lima,M
+126,Pantalón Unicolor Regular Fit para Hombre 12480,99900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Café Oscuro,42
+127,Camiseta Estampada para Hombre 12658,29665.0,-15.0,HOMBRE,"Ropa, Camisetas",Mostaza,L
+128,Zapato Formal con Corte Lateral 35429,240900.0,0.0,HOMBRE,"Zapatos Formales, Zapatos","Negro, Chocolate",42
+129,Blazer Business para Hombre 37931,309900.0,0.0,HOMBRE,"Ropa, Blazers",Negro,L
+130,Zapatos en Cuero para Hombre 12004,149900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos",Blanco,42
+131,Bota Casual con Suela de Caja Deportiva Y Contraste de Texturas 38651,289900.0,0.0,HOMBRE,"Zapatos, Botas",Canela,42
+132,Medias Formales con Diseño para Hombre 37078,19900.0,0.0,HOMBRE,"Medias, Ropa Interior, Ropa",Gris,10-12
+133,Pantaloneta de Baño Estampada para Niño 03013,144500.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Habano,L
+134,Camiseta Deportiva para Hombre 12168,33915.0,-15.0,HOMBRE,"Ropa, Camisetas","Negro, Navy",L
+135,Camiseta Estampada Slim Fit para Hombre 37868,50915.0,-15.0,HOMBRE,"Ropa, Camisetas",Azul Prusia,L
+136,Pantaloneta de Baño a Rayas para Hombre 38350,76415.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Multicolor,L
+137,Zapatos Casuales con Placa de Puntos 31617,254900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos","Azul Prusia, Ganache",42
+138,Bóxer Medio Ajuste Ergonómico para Hombre 39146,36900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Bóxers",Blanco,L
+139,Camisa Business para Hombre 27323,119900.0,0.0,HOMBRE,"Camisas, Camisas Business, Ropa",Blanco,L
+140,Camisa Casual Unicolor Manga Corta para Hombre 12506,69900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Rojo,L
+141,Camisa Unicolor Manga Corta para Hombre 02976,210000.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Lino",Fucsia,M
+142,Chaqueta Cuello Alto para Hombre 36401,249900.0,0.0,HOMBRE,"Ropa, Chaquetas",Aguamarina,L
+144,Pantaloneta Estampada para Hombre 35390,76415.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Esmeralda,L
+145,Zapato Business con Suela Corrida 35434,249900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos","Azul Marino, Canela",42
+146,Camisa Casual Textura Manga Larga para Hombre 12468,69900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Marino,L
+147,Chaqueta Moda con Frase Estampada para Hombre 05338,229900.0,0.0,HOMBRE,"Ropa, Chaquetas",Habano,L
+150,Camisa Estampada Manga Larga para Hombre 36317,126900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Khaki,L
+151,Pantalón Unicolor Regular Fit para Hombre 34152,142425.0,-25.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Khaki,42
+152,Chaleco con Cremallera para Hombre 23609,170175.0,-25.0,HOMBRE,"Ropa, Chalecos, Chalecos Casuales","Navy, Vinotinto",L
+154,Camisilla Esqueleto para Hombre 12353,21900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Camisillas","Negro, Blanco",L
+155,Pantaloneta de Baño Estampada para Hombre 03044,144500.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Rosa Amaranto,M
+156,Calzoncillo Brief para Hombre 37767,39900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Prusia,L
+157,Chaqueta de Cuero para Hombre 36754,719900.0,0.0,HOMBRE,"Ropa, Chaquetas",Negro,L
+158,Camiseta Estampada Regular Fit para Hombre 36395,49215.0,-15.0,HOMBRE,"Ropa, Camisetas",Hueso,L
+159,Gorra Beisbolera para Hombre 12712,39900.0,0.0,HOMBRE,"Accesorios, Gorras, Gorros y Boinas",Índigo,UNICA
+160,Buzo Unicolor para Hombre 37008,159900.0,0.0,HOMBRE,"Ropa, Buzos",Abeto,L
+162,Camiseta Estampada para Hombre 36392,49215.0,-15.0,HOMBRE,"Ropa, Camisetas",Blanco,L
+164,Polo Moda Slim Fit 36798,84915.0,-15.0,HOMBRE,"Polos, Ropa",Naranja,S
+168,Pantaloneta de Baño Unicolor para Hombre 02556,144500.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Negro,L
+169,Pantaloneta Estampada para Hombre 35845,76415.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Azul Prusia,L
+170,Tenis en Cuero para Hombre 35440,259900.0,0.0,HOMBRE,"Tenis, Zapatos",Gris,42
+171,Pantaloneta Estampada para Hombre 02647,102000.0,-40.0,HOMBRE,"Ropa, Pantalonetas",Coral,XL
+175,Pantalón Unicolor con Prenses para Hombre 05183,54950.0,-50.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Negro,L
+178,Pantaloneta Ibiza para Hombre 03047,144500.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Aguamarina,M
+180,Chaqueta Denim para Hombre 37694,239900.0,0.0,HOMBRE,"Ropa, Chaquetas",Azul Claro,L
+183,Pantaloneta de Baño Estampada para Hombre 03048,144500.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Habano,M
+184,Chaqueta Tipo Cazadora en Color Blanco 37693,239900.0,0.0,HOMBRE,"Ropa, Chaquetas",Blanco,L
+185,Camisa Formal Semi Slim Fit 36741,139900.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Menta,42
+186,Medias Formales con Diseño para Hombre 35115,12900.0,0.0,HOMBRE,"Medias, Ropa Interior, Ropa",Avellana,10-12
+187,Pantalón Unicolor Regular Fit para Hombre 12338,99900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales","Navy, Abeto",42
+188,Tenis en Cuero Clásicos con Suela de Caja 31137,267900.0,0.0,HOMBRE,"Tenis, Zapatos","Negro, Chocolate",42
+189,Gorro Tejido para Hombre 37565,44900.0,0.0,HOMBRE,"Accesorios, Gorras, Gorros y Boinas",Hoja Seca,UNICA
+192,Blazer Business Lino para Hombre 21883 35075,499900.0,0.0,HOMBRE,"Ropa, Blazers",Azul Prusia,42
+194,Buzo Unicolor para Hombre 12567,64900.0,0.0,HOMBRE,"Ropa, Buzos",Negro,L
+195,Traje en Mezclas de Lino Semi Slim Fit para Hombre 36626,789900.0,0.0,HOMBRE,"Ropa, Trajes",Arena,42
+196,Bermuda con Bolsillos Tipo Parche para Hombre 05378,97665.0,-15.0,HOMBRE,"Ropa, Bermudas","Hueso, Negro",38
+197,Gorro Tejido para Hombre 34222,44900.0,0.0,HOMBRE,"Accesorios, Gorras, Gorros y Boinas",Verde Pino,UNICA
+198,Polo Premium Slim Fit para Hombre 25938,76415.0,-15.0,HOMBRE,"Polos, Ropa","Azul Marino, Negro, Blanco",L
+199,Camisa Denim Manga Corta para Hombre 36333,114900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Prusia,L
+201,Tenis para Hombre en Cuero 36501,254900.0,0.0,HOMBRE,"Tenis, Zapatos","Abeto, Ganache",42
+202,Set de Pijama Tejido Plano Manga Corta Pantalón Largo para Hombre 34778,159900.0,0.0,HOMBRE,"Ropa, Pijamas",Gris Ceniza,L
+203,Pantalón Business Slim Fit para Hombre 37683,169900.0,0.0,HOMBRE,"Pantalones Business, Ropa, Pantalones",Navy,38
+204,Camisa Casual Estampada Manga Corta para Hombre 11502,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Granate,L
+205,Bóxer Largo Medio para Hombre 12554,16900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Bóxers",Multicolor,L
+206,Pantalón Bussines Slim Fit para Hombre 35218,140925.0,-25.0,HOMBRE,"Pantalones Business, Ropa, Pantalones",Vinotinto,36
+207,Pantalón Casual Wf Unicolor Regular Fit para Hombre 32451,169900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales","Azul Prusia, Marrón, Khaki, Gris",42
+208,Medias Caña Medias para Hombre 08926,19900.0,0.0,HOMBRE,"Medias, Ropa Interior, Ropa","Negro, Gris Carbón, Azul Prusia",10-12
+209,Polo Unicolor Regular Fit para Hombre 36649,50915.0,-15.0,HOMBRE,"Polos, Ropa","Escarlata, Negro, Navy, Blanco",L
+210,Polo Unicolor Regular Fit para Hombre 36649,50915.0,-15.0,HOMBRE,"Polos, Ropa","Escarlata, Negro, Navy, Blanco",L
+211,Blazer Business para Hombre 37930,309900.0,0.0,HOMBRE,"Ropa, Blazers",Navy,L
+213,Camisilla Cuello V para Hombre 12351,24900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Camisillas","Negro, Blanco",L
+214,Camisilla Cuello V para Hombre 12351,24900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Camisillas","Negro, Blanco",L
+215,Jean Tipo Cargo Bota Recta para Hombre 05366,159900.0,0.0,HOMBRE,"Ropa, Jeans",Azul Prusia,38
+216,Mocasín Formal con Bigotera Minimalista 23975,259900.0,0.0,HOMBRE,"Mocasines, Zapatos","Café, Negro",42
+217,Polo Unicolor Jersey para Hombre 12253,33915.0,-15.0,HOMBRE,"Polos, Ropa",Amarillo Pastel,L
+218,Camisa Casual Unicolor Manga Larga para Hombre 09734,45435.0,-35.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Marino,L
+219,Polo Moda Slim Fit para Hombre 35637,84915.0,-15.0,HOMBRE,"Polos, Ropa",Ámbar,L
+220,Bermuda Lino Slim Fit para Hombre 36360,135915.0,-15.0,HOMBRE,"Ropa, Bermudas",Blanco,42
+221,Bóxer Medio Silueta Confort para Hombre 36577,119900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Bóxers",Blanco,L
+223,Pantaloneta Unicolor para Hombre 34477,76415.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Amarillo,L
+224,Chaqueta Acolchada Unicolor para Hombre 11923,144900.0,0.0,HOMBRE,"Ropa, Chaquetas","Gris Oscuro, Negro, Navy, Verde Pino",L
+225,Camisilla Cuello Redondo para Hombre 12352,24900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Camisillas","Negro, Blanco",L
+226,Camiseta Deportiva para Hombre 12178,29665.0,-15.0,HOMBRE,"Ropa, Camisetas","Negro, Carmesí, Blanco",L
+227,Bermuda Unicolor Regular Fit para Hombre 04361,98515.0,-15.0,HOMBRE,"Ropa, Bermudas","Navy, Blanco",42
+228,Bermuda Unicolor Regular Fit para Hombre 04361,98515.0,-15.0,HOMBRE,"Ropa, Bermudas","Navy, Blanco",42
+229,Camisa Casual Cuadros Manga Corta para Hombre 12459,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Esmeralda,L
+230,Buzo con Estampado Snoopy para Hombre 36189,109900.0,0.0,HOMBRE,"Ropa, Buzos",Negro,L
+231,Camisa Casual Cuadros Manga Corta para Hombre 12485,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Verde Pino,L
+232,Bermuda Unicolor para Hombre 12603,63665.0,-15.0,HOMBRE,"Ropa, Bermudas",Blanco,42
+233,Gorro Tejido para Hombre 32505,44900.0,0.0,HOMBRE,"Accesorios, Gorras, Gorros y Boinas","Café, Navy, Gris Ceniza",UNICA
+234,Camisa Denim Manga Corta para Hombre 35155,119900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Prusia,L
+235,Camisa Textura Manga Larga para Hombre 36283,108675.0,-25.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Blanco,L
+236,Botas en Cuero para Hombre 35437,263900.0,0.0,HOMBRE,"Zapatos, Botas","Café, Negro",42
+237,Camisa Casual con Textura para Hombre 09639,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Malibú,L
+238,Pantaloneta Estampada para Hombre 24837,44950.0,-50.0,HOMBRE,"Ropa, Pantalonetas",Escarlata,L
+239,Pantalón para Hombre en Mezclas Algodón 02521,279500.0,-35.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Gris Claro,42
+240,Chaleco Business Premium Slim Fit para Hombre 30503,299900.0,0.0,HOMBRE,"Ropa, Chalecos Business, Chalecos",Negro,40
+241,Bermuda Unicolor para Hombre 05467,106165.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Sandía,L
+242,Blazer Business para Hombre 21881,218925.0,-25.0,HOMBRE,"Ropa, Blazers",Negro,L
+243,Buzo Unicolor para Hombre 12290,64900.0,0.0,HOMBRE,"Ropa, Buzos","Azul Prusia, Negro, Gris",L
+244,Camiseta Premium Regular Fit para Hombre 36155,50915.0,-15.0,HOMBRE,"Ropa, Camisetas",Amarillo Limón,L
+245,Bermuda de Hombre en Denim con Lavandería 05421,101915.0,-15.0,HOMBRE,"Ropa, Bermudas",Azul Prusia,36
+246,Camisa Business Cuadros para Hombre 11533,64900.0,0.0,HOMBRE,"Camisas, Camisas Business, Ropa",Gris Grafito,L
+247,Camisa Formal Silueta Regular Fit para Hombre 25394,126900.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Turquesa,42
+248,Camisa Business Estampada para Hombre 11567,69900.0,0.0,HOMBRE,"Camisas, Camisas Business, Ropa",Blanco,L
+249,Pantaloneta de Baño Estampada para Hombre 38349,76415.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Azul Malibú,L
+250,Suéter Cuello Redondo Unicolor para Hombre 20015,114900.0,0.0,HOMBRE,"Ropa, Suéteres y Cardigans","Gris Oscuro, Negro, Azul Prusia",L
+251,Camisa para Hombre Mezcla Viscosa 02829,160000.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Lino",Azul Prusia,L
+252,Pantalón Unicolor Slim Fit para Hombre 35814,169900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Hueso,42
+253,Pantorrillera Deportiva de Compresión para Hombre 30642,42900.0,0.0,HOMBRE,"Medias, Ropa Interior, Ropa",Negro,UNICA
+254,Jean Silueta Slim con Lavado Azul Medio 37041,154900.0,0.0,HOMBRE,"Ropa, Jeans",Aguamarina,38
+255,Polo Rayas para Hombre 12617,38165.0,-15.0,HOMBRE,"Polos, Ropa",Gris Granito,L
+256,Mocasín Formal con Brogue Lateral 23973,227900.0,0.0,HOMBRE,"Mocasines, Zapatos","Negro, Chocolate",42
+257,Camisa Formal Unicolor para Hombre 36744,87900.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Gris Grafito,42
+258,Pantaloneta de Baño Estampada para Hombre 03046,144500.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Beige,L
+260,Jean Slim Unicolor en Tono Oscuro para Hombre 05370,149900.0,0.0,HOMBRE,"Ropa, Jeans",Azul Prusia,36
+261,Chaqueta Cazadora en Denim 35807,236900.0,0.0,HOMBRE,"Ropa, Chaquetas",Azul Prusia,L
+262,Bermuda Para Hombre Mezclas Algodón 02908,178500.0,-15.0,HOMBRE,"Ropa, Bermudas",Aguamarina,40
+263,Pantaloneta de Baño Estampada para Hombre 12502,42415.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Azul Malibú,L
+264,Medias Deportivas de Compresión para Hombre 30640,54900.0,0.0,HOMBRE,"Medias, Ropa Interior, Ropa",Negro,10-12
+265,Chaqueta Acolchada para Hombre 32435,196900.0,0.0,HOMBRE,"Ropa, Chaquetas","Azul Marino, Granate, Negro, Verde Oscuro",L
+266,Pantalón Unicolor Slim Fit para Hombre 12356,99900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales","Gris Oscuro, Marrón",38
+267,Chaleco Casual Doble Faz con Cremallera Frontal 37120,209900.0,0.0,HOMBRE,"Ropa, Chalecos, Chalecos Casuales",Carmesí,L
+268,Mocasín Casual en Nobuck Y Suela A Tono 36512,249900.0,0.0,HOMBRE,"Mocasines, Zapatos",Azul Prusia,42
+269,Camisa Formal Regular Fit para Hombre 11506,74900.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+270,Camiseta Oversize Unicolor 04731,46665.0,-15.0,HOMBRE,"Ropa, Camisetas","Café, Negro, Turquesa, Sandía, Blanco",L
+271,Set de Pijama Tejido de Punto para Hombre 37654,89900.0,0.0,HOMBRE,"Ropa, Pijamas",Ocre,L
+272,Camiseta Básica Regular Fit para Hombre 25997,50915.0,-15.0,HOMBRE,"Ropa, Camisetas","Azul Marino, Negro, Blanco",L
+273,Camiseta Moda Regular Fit para Hombre 36144,67915.0,-15.0,HOMBRE,"Ropa, Camisetas",Azul Prusia,L
+274,Zapato de Atadura Casual con Capellada Texturizada 23979,269900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos",Canela,42
+275,Camiseta Regular Unicolor 05316,38165.0,-15.0,HOMBRE,"Ropa, Camisetas","Negro, Blanco",L
+276,Camisa Casual Slim Fit para Hombre 12134,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Naranja,L
+277,Camisa Guayabera en Lino para Hombre 25355,244900.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Lino",Celeste,L
+278,Jean en Silueta Skinny para Hombre 37050,134900.0,0.0,HOMBRE,"Ropa, Jeans",Azul Prusia,36
+279,Pantaloneta de Baño Estampada para Hombre 12504,42415.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Navy,L
+280,Pantaloneta de Baño Estampada para Hombre 12500,42415.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Azul Marino,L
+281,Camisa Cuadros Manga Larga para Hombre 36328,139900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Royal,L
+282,Jean Silueta Baggy para Hombre 05416,139900.0,0.0,HOMBRE,"Ropa, Jeans",Aguamarina,36
+283,Camiseta Business Maga Corta para Hombre 36275,59415.0,-15.0,HOMBRE,"Ropa, Camisetas",Beige,L
+284,Medias Caña Media para Hombre 25863,12900.0,0.0,HOMBRE,"Medias, Ropa Interior, Ropa","Negro, Azul Prusia",10-12
+285,Camisa Formal Textura Unicolor Semi Slim Fit 94740,129900.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Formales","Turquesa, Blanco",42
+286,Pantaloneta Estampada para Hombre 35598,76415.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Aguamarina,L
+287,Camisa Casual Unicolor Manga Larga para Hombre 12478,69900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Navy,L
+288,Buzo Unicolor con Estampado para Hombre 12422,59900.0,0.0,HOMBRE,"Ropa, Buzos",Abeto,L
+289,Chaleco Casual Unicolor para Hombre 36402,229900.0,0.0,HOMBRE,"Ropa, Chalecos, Chalecos Casuales",Canela,L
+290,Tenis con Inserto en Denim 38502,274900.0,0.0,HOMBRE,"Tenis, Zapatos",Blanco,42
+291,Camiseta Estampada para Hombre 12653,29665.0,-15.0,HOMBRE,"Ropa, Camisetas",Índigo,L
+292,Camisa Casual Textura Manga Larga para Hombre 11695,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Gris Carbón,L
+293,Polo Unicolor Slim Fit para Hombre 36650,50915.0,-15.0,HOMBRE,"Polos, Ropa","Escarlata, Amarillo, Navy, Blanco",L
+294,Polo Unicolor Slim Fit para Hombre 36650,50915.0,-15.0,HOMBRE,"Polos, Ropa","Escarlata, Amarillo, Navy, Blanco",L
+295,Camisa Business Unicolor para Hombre 12398,69900.0,0.0,HOMBRE,"Camisas, Camisas Business, Ropa",Negro,L
+296,Pantaloneta de Baño para Hombre Poliéster 02399,59500.0,-65.0,HOMBRE,"Ropa, Pantalonetas",Beige,L
+297,Calzado Tipo Sneaker Unicolor para Hombre 05073,159900.0,0.0,HOMBRE,"Tenis, Zapatos",Negro,42
+298,Pantalón para Hombre en Mezclas Algodón 02520,149500.0,-35.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Azul Malibú,42
+300,Camisa Business a Cuadros Manga Larga para Hombre 33969,104925.0,-25.0,HOMBRE,"Camisas, Camisas Business, Ropa",Blanco,L
+301,Camisa Casual Unicolor Regular para Hombre 10435,84900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Índigo,L
+302,Camiseta Moda Regular Fit para Hombre 35517,59415.0,-15.0,HOMBRE,"Ropa, Camisetas",Beige,L
+303,Camiseta Básica Regular Fit para Hombre 25996,50915.0,-15.0,HOMBRE,"Ropa, Camisetas","Azul Marino, Negro, Blanco",L
+304,Camiseta Básica para Hombre 29845,33915.0,-15.0,HOMBRE,"Ropa, Camisetas","Negro, Azul Prusia, Blanco",L
+305,Bermuda Cinco Bolsillos con Lavado Azul Oscuro 38415,110415.0,-15.0,HOMBRE,"Ropa, Bermudas",Azul Prusia,42
+306,Sandalias en Cuero para Hombre 35716,93415.0,-15.0,HOMBRE,"Zapatos, Sandalias",Negro,42
+307,Polo con Mezclas Poliéster para Hombre 03049,102000.0,-15.0,HOMBRE,"Polos, Ropa",Lima,L
+308,Suéter Cuello Redondo con Botones para Hombre 36381,134900.0,0.0,HOMBRE,"Ropa, Suéteres y Cardigans",Gris Oscuro,L
+309,Camisa Formal Algodón Pima para Hombre Semi Slim Fit 33932,104925.0,-25.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+310,Camisa Casual Textura Manga Corta para Hombre 12461,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Malva,L
+311,Camiseta Unicolor Slim Fit para Hombre 38163,33915.0,-15.0,HOMBRE,"Ropa, Camisetas",Salmón,L
+312,Chaqueta con Cuello Alto Y Bolsillos Frontales 37118,249900.0,0.0,HOMBRE,"Ropa, Chaquetas",Arena,L
+313,Pantalón de Vestir Unicolor para Hombre 05146,74950.0,-50.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Gris Plata,L
+314,Pantaloneta Estampada para Hombre 30927,76415.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Magenta,L
+315,Camiseta Estampada Regular Fit para Hombre 37870,49215.0,-15.0,HOMBRE,"Ropa, Camisetas",Rosa,L
+316,Camisa Formal Unicolor para Hombre 36735,82425.0,-25.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+317,Camiseta Básica para Hombre 29846,33915.0,-15.0,HOMBRE,"Ropa, Camisetas","Negro, Rojo, Azul Prusia, Blanco",L
+318,Camisa Business Estampada para Hombre 11465,59900.0,0.0,HOMBRE,"Camisas, Camisas Business, Ropa",Negro,L
+319,Tenis de Cuero con Contraste para Hombre 09179,254900.0,0.0,HOMBRE,"Tenis, Zapatos","Azul Marino, Canela, Azul Prusia, Ganache",42
+320,Pantaloneta de Baño Estampada para Hombre 02650,102000.0,-40.0,HOMBRE,"Ropa, Pantalonetas",Azul Claro,S
+321,Pantalón Business Slim Fit para Hombre 30450,379900.0,0.0,HOMBRE,"Pantalones Business, Ropa, Pantalones",Navy,36
+322,Camisa Casual Preteñida Cuadros 10597,69900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Gris Grafito,L
+323,Jean Silueta Straight con Lavado Azul Oscuro 38363,149900.0,0.0,HOMBRE,"Ropa, Jeans",Azul Prusia,40
+324,Pantalón Business Slim Fit para Hombre 39107,149900.0,0.0,HOMBRE,"Pantalones Business, Ropa, Pantalones",Negro,40
+325,Camisa Casual Estampada Manga Larga para Hombre 12471,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Prusia,L
+326,Camisa Casual Textura Manga Corta para Hombre 09633,38935.0,-35.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Prusia,L
+327,Camisa Casual Slim Fit de Cuadros para Hombre 10593,74900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Aguamarina,L
+328,Camisa Casual Estampada Manga Corta para Hombre 11501,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Turquesa,L
+329,Bermuda Unicolor 5 Bolsillos para Hombre 12415,63665.0,-15.0,HOMBRE,"Ropa, Bermudas","Negro, Blanco",42
+330,Chaqueta de Cuero con Cuello Militar y Cuero Liso 36752,719900.0,0.0,HOMBRE,"Ropa, Chaquetas",Ganache,L
+331,Camisa Business Unicolor Manga Larga para Hombre 30497,119900.0,0.0,HOMBRE,"Camisas, Camisas Business, Ropa",Habano,L
+332,Camisa Formal Algodón Pima para Hombre Regular Fit 33930,139900.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+333,Pantalón Unicolor Slim Fit para Hombre 37531,119900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Khaki,42
+334,Chaqueta Parka Unicolor para Hombre 35806,344900.0,0.0,HOMBRE,"Ropa, Chaquetas",Azul Prusia,L
+335,Mocasín Formal con Costura Frontal 30070,268900.0,0.0,HOMBRE,"Mocasines, Zapatos","Negro, Ganache",42
+336,Pantaloneta de Baño para Hombre Poliéster 02406,59500.0,-65.0,HOMBRE,"Ropa, Pantalonetas",Beige,S
+337,Reata Trenzada en Cuero con Hebilla en Zamac 02736,130000.0,0.0,HOMBRE,"Accesorios, Reatas, Cinturones y Correas",Blanco,36
+338,Buzo Unicolor para Hombre 36187,129900.0,0.0,HOMBRE,"Ropa, Buzos",Verde Enebro,L
+339,Medias Caña Larga para Hombre 24749,19900.0,0.0,HOMBRE,"Medias, Ropa Interior, Ropa","Negro, Azul Prusia",10-12
+340,Reata Trenzada en Cuero con Hebilla en Zamac 02734,120000.0,0.0,HOMBRE,"Accesorios, Reatas, Cinturones y Correas",Chocolate,36
+341,Camiseta para Hombre en Mezclas Algodón 02511,55000.0,-50.0,HOMBRE,"Ropa, Camisetas",Amarillo Zinc,L
+342,Bermuda Unicolor Slim Fit para Hombre 35988,98515.0,-15.0,HOMBRE,"Ropa, Bermudas",Rosa,40
+343,Camisa Casual Estampada Slim Fit para Hombre 11253,69900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Negro,L
+344,Zapato Formal con Corte en Puntera 23967,168935.0,-35.0,HOMBRE,"Zapatos Formales, Zapatos","Negro, Vinotinto, Ganache",42
+345,Polo Textura Unicolor para Hombre 12992,46665.0,-15.0,HOMBRE,"Ropa, Camisetas",Azul Royal,L
+346,Pantalón Casual Wf Unicolor Regular Fit para Hombre 32451,169900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales","Azul Prusia, Marrón, Khaki, Gris",42
+347,Camisa Casual Estampada Slim Fit para Hombre 11247,74900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Turquesa,L
+348,Chaqueta Casual para Hombre 23589,319900.0,0.0,HOMBRE,"Ropa, Chaquetas","Azul Prusia, Gris Grafito",L
+349,Set de Pijama Manga Larga Tejido de Punto 34443,97425.0,-25.0,HOMBRE,"Ropa, Pijamas",Gris Plata,L
+350,Zapato Formal con Corte Lateral 35429,240900.0,0.0,HOMBRE,"Zapatos Formales, Zapatos","Negro, Chocolate",42
+351,Camisa Lino Manga Corta para Hombre 36420,134900.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Lino",Blanco,L
+352,Pantaloneta Deportiva Unicolor para Hombre 33238,93415.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Índigo,L
+353,Camisa Business A Rayas para Hombre 30460,119900.0,0.0,HOMBRE,"Camisas, Camisas Business, Ropa",Blanco,L
+354,Bermuda Mezclas Algodón para Hombre 02818,195500.0,-15.0,HOMBRE,"Ropa, Bermudas",Hueso,42
+355,Jean Silueta Slim con Lavado Azul Medio 37040,149900.0,0.0,HOMBRE,"Ropa, Jeans",Aguamarina,32
+356,Botas Unicolor en Cuero con Cordones 04032,174785.0,-35.0,HOMBRE,"Zapatos, Botas",Negro,42
+357,Jean Classic Fit para Hombre 35898,129900.0,0.0,HOMBRE,"Ropa, Jeans",Aguamarina,42
+358,Traje Diseño Cuadros Semi Slim Fit para Hombre 02359,370450.0,-50.0,HOMBRE,"Ropa, Trajes",Taupe,40
+359,Tenis para Hombre en Cuero 36501,254900.0,0.0,HOMBRE,"Tenis, Zapatos","Abeto, Ganache",42
+361,Zapatos Casuales en Cuero para Hombre 23819,270900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos","Azul Marino, Chocolate, Ganache",42
+362,Polo para Hombre Composición Algodón 02847,172500.0,-25.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Khaki,42
+363,Camisa Formal Unicolor Regular Fit 81897,87900.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+364,Camisa Business a Rayas para Hombre 30490,119900.0,0.0,HOMBRE,"Camisas, Camisas Business, Ropa",Blanco,L
+366,Chaqueta Unicolor Cuello Alto para Hombre 23585,257175.0,-25.0,HOMBRE,"Ropa, Chaquetas","Gris Granito, Azul Prusia",L
+367,Camisa Formal Textura Unicolor Semi Slim Fit 94740,129900.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Formales","Turquesa, Blanco",42
+368,Camisa Business Cuadros para Hombre 10538,58435.0,-35.0,HOMBRE,"Camisas, Camisas Business, Ropa",Azul Prusia,L
+369,Pack x 3 Camisilla Antibacterial para Hombre 11996,134900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Camisillas",Blanco,L
+370,Pantalón Unicolor Regular Fit para Hombre 33890,164900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Khaki,40
+371,Sobrecamisa en Pana Manga Larga Unisex 04594,74950.0,-50.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Prusia,L
+372,Polo Premium Regular Fit para Hombre 36136,76415.0,-15.0,HOMBRE,"Polos, Ropa",Rosa Amaranto,L
+373,Camisa Business Cuadros para Hombre 10539,58435.0,-35.0,HOMBRE,"Camisas, Camisas Business, Ropa",Gris Oscuro,L
+374,Camisa Business a Rayas Manga Larga para Hombre 33970,104925.0,-25.0,HOMBRE,"Camisas, Camisas Business, Ropa",Blanco,L
+375,Suéter Cuello V Básico para Hombre 10860,74925.0,-25.0,HOMBRE,"Ropa, Suéteres y Cardigans","Negro, Abeto, Gris Grafito",L
+376,Pantalón para Hombre en Composición Lino 02536,320000.0,0.0,HOMBRE,"Pantalones, Pantalones Lino, Ropa",Blanco,42
+377,Mocasín Casual en Cuero para Hombre 33311,116450.0,-50.0,HOMBRE,"Mocasines, Zapatos","Café, Azul Prusia",40
+378,Camiseta Estampada Regular Fit para Hombre 35782,34740.0,-40.0,HOMBRE,"Ropa, Camisetas",Azul Malibú,L
+379,Bermuda Unicolor Regular Fit para Hombre 38395,110415.0,-15.0,HOMBRE,"Ropa, Bermudas",Arena,42
+380,Pantalón para Hombre Mezclas Algodón 02814,230000.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Blanco,42
+381,Zapato Casual Moderno con Suela Liviana en Eva 37879,239900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos","Canela, Negro",42
+382,Pantaloneta de Baño Estampada para Hombre 03012,144500.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Navy,L
+383,Bermuda con Bolsillos Tipo Parche para Hombre 05378,97665.0,-15.0,HOMBRE,"Ropa, Bermudas","Hueso, Negro",38
+384,Pantalón Formal para Hombre Regular Fit 30307,148950.0,-50.0,HOMBRE,"Pantalones, Pantalones Formales, Ropa",Taupe,40
+385,Traje con Textura Regular Fit para Hombre 37709,899900.0,0.0,HOMBRE,"Ropa, Trajes",Gris Granito,42
+386,Pantalón Formal Silueta Regular Fit para Hombre 37650,264900.0,0.0,HOMBRE,"Pantalones, Pantalones Formales, Ropa",Azul Marino,42
+387,Camiseta Deportiva para Hombre 12218,29665.0,-15.0,HOMBRE,"Ropa, Camisetas",Navy,L
+388,Pantalón Unicolor Super Slim Fit para Hombre 35824,114900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Abeto,40
+389,Polo Premium Slim Fit para Hombre 35612,76415.0,-15.0,HOMBRE,"Polos, Ropa","Royal Purple, Rosa Lavanda, Azul Malibú, Gris Claro, Amarillo Limón, Lavanda",L
+390,Suéter Liso Cerrado Regular Fit 94859,109900.0,0.0,HOMBRE,"Ropa, Suéteres y Cardigans","Gris Oscuro, Negro, Azul Prusia",L
+391,Mocasín Formal en Cuero para Hombre 35427,254900.0,0.0,HOMBRE,"Mocasines, Zapatos","Negro, Ganache",42
+392,Pantalón Tipo Parachutte para Hombre 05270,184900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Hueso,L
+393,Camisilla Antibacterial para Hombre 11997,46900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Camisillas",Blanco,L
+394,Polo Rayas para Hombre 12348,38165.0,-15.0,HOMBRE,"Polos, Ropa",Marrón,L
+395,Camiseta Premium Regular Fit para Hombre 25107,50915.0,-15.0,HOMBRE,"Ropa, Camisetas","Azul Malibú, Naranja, Turquesa",L
+396,Zapato Formal con Placa en Lateral Localizada 31132,283900.0,0.0,HOMBRE,"Zapatos Formales, Zapatos","Negro, Chocolate, Gris Granito",42
+397,Set de Pijama Tejido de Punto para Mujer 37280,119900.0,0.0,HOMBRE,"Ropa, Pijamas",Azul Prusia,L
+398,Zapatos Casuales con Pieza Contorno en Contraste en Cuero para Hombre 23981,269900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos","Azul Prusia, Ganache",42
+399,Camisa Casual Cuadros Manga Corta para Hombre 10556,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Malibú,L
+400,Pantalón Unicolor para Hombre 12482,109900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales","Avellana, Café Oscuro, Arena",38
+401,Pantaloneta de Baño Estampada para Hombre 12622,42415.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Turquesa,L
+402,Camiseta Estampada Manga Corta para Hombre 05379,119900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Multicolor,L
+403,Camisa Business Textura Manga Larga para Hombre 09605,45435.0,-35.0,HOMBRE,"Camisas, Camisas Business, Ropa",Azul Marino,L
+404,Polo Moda Regular Fit para Hombre 36819,84915.0,-15.0,HOMBRE,"Polos, Ropa",Amarillo Limón,L
+405,Pantaloneta Estampada para Hombre 37311,76415.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Multicolor,L
+406,Zapato Business Ultraliviano con Placa en Puntera 35433,240900.0,0.0,HOMBRE,"Zapatos Casual, Zapatos","Café, Negro",42
+407,Jean con Costuras de Realce para Hombre 05367,159900.0,0.0,HOMBRE,"Ropa, Jeans",Negro,38
+408,Camiseta Estampada Slim Fit para Hombre 26998,28950.0,-50.0,HOMBRE,"Ropa, Camisetas",Mostaza,L
+409,Camisa Rayas Manga Larga para Hombre 34428,134900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Blanco,L
+410,Pantaloneta Deportiva para Hombre 29134,52450.0,-50.0,HOMBRE,"Ropa, Pantalonetas",Negro,L
+411,Suéter Cuello V Moda para Hombre 11311,74925.0,-25.0,HOMBRE,"Ropa, Suéteres y Cardigans",Negro,L
+412,Pantalón Business Slim Fit para Hombre 30449,379900.0,0.0,HOMBRE,"Pantalones Business, Ropa, Pantalones",Azul Marino,36
+413,Reata Trenzada en Cuero con Hebilla en Zamac 02735,120000.0,0.0,HOMBRE,"Accesorios, Reatas, Cinturones y Correas",Café,32
+414,Bóxer Medio Silueta Confort para Hombre 37755,119900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Bóxers",Blanco,L
+415,Tenis con Cortes para Hombre 12909,174900.0,0.0,HOMBRE,"Tenis, Zapatos",Blanco,42
+416,Botas Casuales Chukka en Cuero Rustico con Atadura 27646,291900.0,0.0,HOMBRE,"Zapatos, Botas","Negro, Ganache",42
+417,Chaqueta de Cuero Doble Faz 32403,849900.0,0.0,HOMBRE,"Ropa, Chaquetas",Ganache,L
+418,Camisa Business Estampada para Hombre 09771,45435.0,-35.0,HOMBRE,"Camisas, Camisas Business, Ropa",Azul Prusia,L
+419,Suéter Cuello Redondo para Hombre 36373,134900.0,0.0,HOMBRE,"Ropa, Suéteres y Cardigans",Canela,XL
+420,Tenis de Cuero con Contraste para Hombre 09179,254900.0,0.0,HOMBRE,"Tenis, Zapatos","Azul Marino, Canela, Azul Prusia, Ganache",42
+421,Camisa Formal Algodón Pima para Hombre Semi Slim Fit 33927,104925.0,-25.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Menta,42
+423,Pack x 3 Camisilla Antibacterial para Hombre 12012,138900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Camisillas",Blanco,L
+424,Camisa Casual Rayas Manga Corta para Hombre 11799,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Prusia,L
+425,Pantalón Unicolor Slim Fit para Hombre 12356,99900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales","Gris Oscuro, Marrón",38
+426,Polo con Miniprint para Hombre 12515,50915.0,-15.0,HOMBRE,"Polos, Ropa",Verde Enebro,L
+427,Pantalón Formal Regular Fit para Hombre 12060,94900.0,0.0,HOMBRE,"Pantalones Business, Ropa, Pantalones",Gris Granito,34
+428,Camiseta Unicolor para Hombre 03035,85000.0,-15.0,HOMBRE,"Ropa, Camisetas",Rosa Amaranto,M
+429,Camiseta Moda para Hombre 35549,59415.0,-15.0,HOMBRE,"Ropa, Camisetas",Naranja,L
+430,Camisa Casual Textura para Hombre 08389,52425.0,-25.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Gris Granito,L
+431,Sneaker Que Combina Cuero Nobuck Suave con Detalles en Tela de Jean 38503,199900.0,0.0,HOMBRE,"Tenis, Zapatos",Azul Marino,42
+432,Medias Caña Media para Hombre 02729,22900.0,0.0,HOMBRE,"Medias, Ropa Interior, Ropa","Granate, Negro, Abeto, Azul Prusia",10-12
+433,Pantalón Unicolor Slim Fit para Hombre 12483,99900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Navy,38
+434,Zapato Formal con Suela en Contraste para Hombre 31597,239900.0,0.0,HOMBRE,"Zapatos Formales, Zapatos","Negro, Chocolate",42
+435,Camisa Manga Larga para Hombre 03020,210000.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Fucsia,M
+436,Camisa Casual Rayas Manga Larga para Hombre 12470,69900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Navy,L
+438,Camisa A Rayas Manga Larga para Hombre 36349,144900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Blanco,L
+439,Camisa Casual Textura Manga Corta para Hombre 12207,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Marino,L
+440,Pantalón Unicolor Regular Fit Para Hombre 37535,129900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Gris Granito,42
+441,Camisa Formal Regular Fit para Hombre 10740,55185.0,-35.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Turquesa,42
+442,Camisa de Cuadros Manga Larga para Hombre 10600,69900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Malibú,L
+443,Camisa Business Manga Larga para Hombre 24315,110925.0,-25.0,HOMBRE,"Camisas, Camisas Business, Ropa",Azul Claro,L
+444,Camiseta Premium Regular Fit para Hombre 17549,50915.0,-15.0,HOMBRE,"Ropa, Camisetas",Rojo Persa,L
+445,Polo Unicolor Regular Fit para Hombre 36651,50915.0,-15.0,HOMBRE,"Polos, Ropa","Navy, Blanco",L
+446,Camisa Business a Cuadros para Hombre 27104,70450.0,-50.0,HOMBRE,"Camisas, Camisas Business, Ropa",Gris Plata,L
+447,Mocasín Casual para Hombre 35722,219900.0,0.0,HOMBRE,"Mocasines, Zapatos",Café Oscuro,42
+448,Camisa Básica A Rayas Regular Fit para Hombre 05452,119900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Turquesa,L
+449,Camisa Business Manga Larga para Hombre 33964,139900.0,0.0,HOMBRE,"Camisas, Camisas Business, Ropa",Gris Ceniza,L
+450,Pantaloneta de Baño Estampada para Hombre 02557,85000.0,-50.0,HOMBRE,"Ropa, Pantalonetas",Esmeralda,L
+451,Camisa Casual Regular Fit para Hombre 08333,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Verde Enebro,L
+452,Bermuda con Pretina Enresortada para Hombre 05140,80665.0,-15.0,HOMBRE,"Ropa, Bermudas",Arena,L
+453,Camisilla Antibacterial para Hombre 12000,49900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Camisillas",Blanco,L
+454,Pack x 2 Camisillas Antibacterial para Hombre 11998,89900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Camisillas",Blanco,L
+456,Camisilla Antibacterial para Hombre 12011,49900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Camisillas",Blanco,L
+457,Pantaloneta de Baño Estampada para Hombre 12501,42415.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Navy,L
+458,Jogger en Tejido de Punto para Hombre 12611,64900.0,0.0,HOMBRE,"Pantalones, Ropa, Joggers","Negro, Azul Prusia",L
+460,Suéter Cuello Redondo para Hombre 35867,124900.0,0.0,HOMBRE,"Ropa, Suéteres y Cardigans",Blanco,L
+461,Bermuda Unicolor Regular Fit para Hombre 35825,84915.0,-15.0,HOMBRE,"Ropa, Bermudas",Azul Marino,42
+462,Camisa Casual Regular Fit A Rayas para Hombre 12469,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Negro,L
+463,Camisa para Hombre en Mezclas Viscosa 02661,97500.0,-35.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Lavanda,L
+464,Pantaloneta de Baño Estampada para Hombre 11652,50915.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Sandía,L
+465,Camisa de Rayas Manga para Hombre 05095,109900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Multicolor,L
+466,Medias Deportivas de Compresión para Hombre 30641,54900.0,0.0,HOMBRE,"Medias, Ropa Interior, Ropa",Blanco,10-12
+467,Polo A Rayas Jersey Slim Fit para Hombre 35634,84915.0,-15.0,HOMBRE,"Polos, Ropa",Azul Prusia,L
+468,Buzo con Estampado para Hombre 05253,94900.0,0.0,HOMBRE,"Ropa, Buzos",Habano,L
+469,Camichaqueta Unicolor Manga Larga para Hombre 33880,159900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Abeto,L
+470,Chaqueta Cuello Alto para Hombre 18057,262425.0,-25.0,HOMBRE,"Ropa, Chaquetas","Negro, Ganache",L
+471,Chaqueta de Cuero Cuello Alto 32402,829900.0,0.0,HOMBRE,"Ropa, Chaquetas",Café Oscuro,L
+472,Polo Rayas para Hombre 12614,38165.0,-15.0,HOMBRE,"Polos, Ropa",Azul Marino,L
+473,Polo Premium Regular Fit para Hombre 25937,76415.0,-15.0,HOMBRE,"Polos, Ropa","Azul Marino, Negro, Blanco",L
+474,Polo Premium Slim Fit para Hombre 25938,76415.0,-15.0,HOMBRE,"Polos, Ropa","Azul Marino, Negro, Blanco",L
+475,Pack x 2 Camisillas Antibacterial para Hombre 12001,96900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Camisillas",Blanco,L
+476,Medias de Compresión Graduada Formal para Hombre 30639,64900.0,0.0,HOMBRE,"Medias, Ropa Interior, Ropa",Negro,10-12
+477,Camiseta Premium Regular Fit para Hombre 22118,50915.0,-15.0,HOMBRE,"Ropa, Camisetas","Mostaza, Blanco",L
+478,Pack x 2 Camisillas Antibacterial para Hombre 12013,96900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Camisillas",Blanco,L
+479,Camiseta Oversize Unicolor 04731,46665.0,-15.0,HOMBRE,"Ropa, Camisetas","Café, Negro, Turquesa, Sandía, Blanco",L
+480,Camisa Formal Semi Slim Fit 36742,139900.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Negro,42
+481,Medias de Compresión Graduada Formal para Hombre 30637,54900.0,0.0,HOMBRE,"Medias, Ropa Interior, Ropa",Negro,10-12
+482,Polo Unicolor en Textura para Hombre 36123,84915.0,-15.0,HOMBRE,"Polos, Ropa",Abeto,L
+483,Tenis para Hombre 25469,149900.0,0.0,HOMBRE,"Tenis, Zapatos","Negro, Blanco",42
+485,Camisa Casual Slim Fit para Hombre 12205,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Prusia,L
+486,Camisa Formal para Hombre Silueta Semi Slim Fit 33933,139900.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+487,Bermuda para Hombre Composición en Lino 02853,221000.0,-15.0,HOMBRE,"Ropa, Bermudas",Azul Prusia,42
+488,Jean Silueta Straight para Hombre Freedom 05209,74950.0,-50.0,HOMBRE,"Ropa, Jeans",Azul Prusia,36
+489,Chaqueta Tipo Bomber en Cuero 32400,849900.0,0.0,HOMBRE,"Ropa, Chaquetas",Ganache,L
+490,Zapatos Formales en Cuero para Hombre 21153,281900.0,0.0,HOMBRE,"Zapatos Formales, Zapatos","Canela, Negro",42
+491,Camiseta Básica Unicolor para Hombre 12408,25415.0,-15.0,HOMBRE,"Ropa, Camisetas","Negro, Navy",L
+492,Pantalón Unicolor Slim Fit para Hombre 34157,184900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Negro,38
+493,Jean Silueta Skinny con Lavado Gris Oscuro 37052,134900.0,0.0,HOMBRE,"Ropa, Jeans",Gris Carbón,36
+494,Camisa Casual Cuadros Manga Corta para Hombre 12460,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Navy,L
+495,Zapato Formal Tipo Oxford con Costura en Puntera 23965,269900.0,0.0,HOMBRE,"Zapatos Formales, Zapatos","Negro, Navy",42
+496,Camisa Denim Manga Larga para Hombre 33287,144900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Aguamarina,L
+497,Camisa Casual Estampada Manga Larga para Hombre 12133,38935.0,-35.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Prusia,L
+498,Suéter Cuello Redondo Unicolor para Hombre 35864,129900.0,0.0,HOMBRE,"Ropa, Suéteres y Cardigans",Gris Grafito,L
+499,Camiseta Deportiva para Hombre 12465,29665.0,-15.0,HOMBRE,"Ropa, Camisetas","Índigo, Gris Granito",L
+500,Polo Unicolor Jersey para Hombre 12441,33915.0,-15.0,HOMBRE,"Polos, Ropa",Lila,L
+501,Blazer Formal en Lana para Hombre 34733,421135.0,-35.0,HOMBRE,"Ropa, Blazers",Azul Prusia,42
+502,Set de Pijama Tejido Plano para Hombre 37249,149900.0,0.0,HOMBRE,"Ropa, Pijamas",Azul Prusia,L
+503,Pantalón Chino Regular Unicolor para Hombre 03687,169900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales","Negro, Navy, Habano",42
+504,Pantaloneta Estampada para Hombre 35595,76415.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Sandía,L
+505,Jogger en Tejido de Punto para Hombre 12316,89900.0,0.0,HOMBRE,"Pantalones, Ropa, Joggers",Gris Granito,L
+506,Polo Textura Bicolor para Hombre 33518,59940.0,-40.0,HOMBRE,"Polos, Ropa","Verde Malaquita, Carmesí",L
+507,Polo Textura Bicolor para Hombre 33518,59940.0,-40.0,HOMBRE,"Polos, Ropa","Verde Malaquita, Carmesí",L
+508,Chaleco Cuello Alto para Hombre 23611,148785.0,-35.0,HOMBRE,"Ropa, Chalecos, Chalecos Casuales","Índigo, Gris Oscuro",L
+509,Chaqueta Cuello Alto para Hombre 23594,245925.0,-25.0,HOMBRE,"Ropa, Chaquetas","Negro, Ganache",L
+510,Chaleco con Cremallera para Hombre 23609,170175.0,-25.0,HOMBRE,"Ropa, Chalecos, Chalecos Casuales","Navy, Vinotinto",L
+511,Camisa Unicolor Manga Larga para Hombre 26294,158900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Malibú,L
+512,Camisa Manga Larga Estampada para Hombre 04968,62450.0,-50.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Beige,L
+513,Chaqueta Acolchada Unicolor para Hombre 11923,144900.0,0.0,HOMBRE,"Ropa, Chaquetas","Gris Oscuro, Negro, Navy, Verde Pino",L
+514,Chaqueta Acolchada Unicolor para Hombre 11923,144900.0,0.0,HOMBRE,"Ropa, Chaquetas","Gris Oscuro, Negro, Navy, Verde Pino",L
+515,Pantalón Unicolor Slim Fit para Hombre 12484,99900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Verde Oscuro,38
+516,Bermuda Unicolor Slim Fit para Hombre 35952,98515.0,-15.0,HOMBRE,"Ropa, Bermudas",Ámbar,40
+517,Camiseta Unicolor para Hombre 03001,85000.0,-15.0,HOMBRE,"Ropa, Camisetas",Fucsia,L
+518,Zapato Formal en Cuero para Hombre 35426,271900.0,0.0,HOMBRE,"Zapatos Formales, Zapatos","Canela, Negro",42
+519,Camisa Casual Slim Fit con Textura para Hombre 09611,69900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Índigo,L
+520,Pantalón Tipo Jogger Unicolor para Hombre 08481,119900.0,0.0,HOMBRE,"Pantalones, Ropa, Joggers",Abeto,L
+521,Pantaloneta de Baño Estampada para Hombre 02648,102000.0,-40.0,HOMBRE,"Ropa, Pantalonetas",Orquídea,L
+522,Buzo Textura de Borreguito Unicolor para Hombre 05093,84950.0,-50.0,HOMBRE,"Ropa, Buzos",Beige,L
+523,Camisa Casual Estampada Manga Corta para Hombre 11500,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Rosado,L
+524,Pantaloneta de Baño Estampada para Hombre 02585,144500.0,-15.0,HOMBRE,"Ropa, Pantalonetas",Morado,L
+525,Camisa Casual Rayas Manga Corta para Hombre 12059,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Malibú,L
+526,Bermuda 5 Bolsillos para Hombre 11290,63665.0,-15.0,HOMBRE,"Ropa, Bermudas",Vinotinto,42
+527,Pantalón Unicolor Slim Fit para Hombre 10928,74925.0,-25.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales","Negro, Verde Oscuro, Navy, Gris Oscuro, Ganache",38
+528,Camisa Pana Manga Larga para Hombre 34424,139900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Arena,L
+529,Polo Unicolor Regular Fit para Hombre 33516,65940.0,-40.0,HOMBRE,"Polos, Ropa","Negro, Arena",L
+530,Camisa Business Estampada para Hombre 11464,69900.0,0.0,HOMBRE,"Camisas, Camisas Business, Ropa",Navy,L
+531,Camisa Business Cuadros para Hombre 12203,59900.0,0.0,HOMBRE,"Camisas, Camisas Business, Ropa",Gris Grafito,L
+532,Pantalón Unicolor Súper Slim Fit para Hombre 34146,132900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Azul Prusia,38
+533,Bota Formal Chelsea Suela Bicolor 23977,175435.0,-35.0,HOMBRE,"Zapatos, Botas","Negro, Chocolate",42
+534,Camiseta para Hombre en Mezclas Poliéster 02508,60000.0,-40.0,HOMBRE,"Ropa, Camisetas",Rosado,L
+535,Pantalón Unicolor Súper Slim Fit para Hombre 35821,109900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Azul,36
+536,Camisa Casual Slim Fit a Rayas para Hombre 11308,69900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Malibú,L
+537,Suéter Liso Cerrado Regular Fit 94859,114900.0,0.0,HOMBRE,"Ropa, Suéteres y Cardigans","Gris Oscuro, Negro, Azul Prusia",L
+538,Mocasín Casual en Cuero para Hombre 33311,116450.0,-50.0,HOMBRE,"Mocasines, Zapatos","Café, Azul Prusia",42
+539,Pantalón Formal Regular Fit para Hombre 35896,109900.0,0.0,HOMBRE,"Pantalones, Pantalones Formales, Ropa",Navy,42
+540,Camisa de Cuadros Manga Larga para Hombre 05128,124900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Prusia,L
+541,Camiseta para Hombre en Algodón. 02845,60000.0,-40.0,HOMBRE,"Ropa, Camisetas",Blanco,L
+542,Bermuda Unicolor Regular Fit para Hombre 04361,98515.0,-15.0,HOMBRE,"Ropa, Bermudas","Verde Manzana, Oro, Khaki",42
+543,Mocasín Formal con Brogue Lateral 23973,227900.0,0.0,HOMBRE,"Mocasines, Zapatos","Negro, Chocolate",42
+544,Camisa Business Textura para Hombre 10542,74900.0,0.0,HOMBRE,"Camisas, Camisas Business, Ropa",Navy,L
+545,Pack x 3 Camisillas Antibacterial para Hombre 11999,138900.0,0.0,HOMBRE,"Ropa, Ropa Interior, Camisillas",Blanco,L
+546,Bermuda Mezclas Algodón para Hombre 02816,204000.0,-15.0,HOMBRE,"Ropa, Bermudas",Esmeralda,42
+547,Pantalón Unicolor Super Slim Fit para Hombre 35822,109900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Hueso,40
+548,Camisa Casual Rayas Slim Fit para Hombre 11250,69900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Rosa,L
+550,Set de Pijama Tejido Plano para Hombre 33584,108675.0,-25.0,HOMBRE,"Ropa, Pijamas",Cereza,L
+551,Set de Pijama Manga Larga Pantalón Largo Tejido de Punto 34717,89925.0,-25.0,HOMBRE,"Ropa, Pijamas",Gris Plata,L
+552,Traje Diseño Cuadros Silueta Slim Fit para Hombre 32461,474675.0,-25.0,HOMBRE,"Ropa, Trajes",Azul Marino,40
+553,Pantalón Textura Regular Fit para Hombre 37533,119900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Café Oscuro,42
+554,Pantalón Unicolor Slim Fit para Hombre 35817,169900.0,0.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Gris Ceniza,40
+555,Camisa Lino Manga Corta para Hombre 38028,149900.0,0.0,HOMBRE,"Camisas, Ropa, Camisas Lino",Malva,L
+556,Camisa Casual de Textura para Hombre 09619,69900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Gris Plata,L
+557,Polo Unicolor Slim Fit para Hombre 36650,50915.0,-15.0,HOMBRE,"Polos, Ropa","Escarlata, Amarillo, Navy, Blanco",L
+558,Traje Textura Regular Fit para Hombre 05071,503035.0,-35.0,HOMBRE,"Ropa, Trajes",Gris Oscuro,42
+559,Zapato Cerrado para Hombre 02932,142500.0,-25.0,HOMBRE,"Zapatos Casual, Zapatos",Azul Prusia,40
+560,Camisa Casual Textura Manga Larga para Hombre 11516,59900.0,0.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Negro,L
+565,Gaban en Denim Largo con Cinturón para Mujer 05184,229900.0,0.0,MUJER,"Ropa, Chaquetas",Negro,L
+566,Camiseta Básica Regular Fit Unicolor para Mujer 05180,38165.0,-15.0,MUJER,"Ropa, Camisetas","Negro, Blanco",L
+569,Zuecos para Mujer 32436,101915.0,-15.0,MUJER,"Zapatos, Sandalias",Carmesí,40
+574,Jean Tipo Flare con Aberturas para Mujer 05304,154900.0,0.0,MUJER,"Ropa, Jeans",Aguamarina,14
+579,Camisa de Hojalillo para Mujer 05258,124900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Negro,L
+582,Pantalón Formal Unicolor para Mujer 36310,169900.0,0.0,MUJER,"Pantalones, Ropa",Negro,14
+584,Buzo con Cremallera y Capota para Mujer 05250,134900.0,0.0,MUJER,"Ropa, Buzos",Marrón,L
+588,Abrigo Largo Unicolor para Mujer 38473,359900.0,0.0,MUJER,"Ropa, Abrigos y Blazers",Navy,S
+589,Buzo Estampado con Mangas Bombachas para Mujer 05252,84900.0,0.0,MUJER,"Ropa, Buzos",Hueso,L
+591,Bermuda Unicolor para Mujer 38255,97665.0,-15.0,MUJER,"Shorts, Ropa","Azul Claro, Ámbar",14
+595,Botas Estilo Chelsea para Mujer 05441,209900.0,0.0,MUJER,"Botas y Botines, Zapatos",Canela,40
+599,Chaleco Unicolor para Mujer 38579,169900.0,0.0,MUJER,"Ropa, Chalecos",Blanco,L
+601,Cárdigan con Motivo de Sirenas para Mujer 05281,129900.0,0.0,MUJER,"Ropa, Suéteres y Cardigans",Beige,L
+605,Chaqueta de Lino para Mujer 34836,259900.0,0.0,MUJER,"Ropa, Chaquetas",Navy,L
+607,Chaqueta Formal Unicolor para Mujer 38180,239900.0,0.0,MUJER,"Ropa, Chaquetas",Celeste,L
+608,Vestido Estampado Manga Larga para Mujer 05267,104900.0,0.0,MUJER,"Ropa, Vestidos y Enterizos",Multicolor,L
+611,Vestido en Malla Unicolor para Mujer 04917,63675.0,-25.0,MUJER,"Ropa, Vestidos y Enterizos",Negro,L
+612,Mocasines con Plataforma para Mujer 05444,199900.0,0.0,MUJER,Zapatos,Negro,40
+613,Botas Estilo Militar para Mujer 05442,209900.0,0.0,MUJER,"Botas y Botines, Zapatos",Negro,40
+614,Chaqueta Estampada para Mujer 05246,184900.0,0.0,MUJER,"Ropa, Chaquetas",Multicolor,L
+616,Falda para Mujer en Mezclas Poliéster 02770,100000.0,0.0,MUJER,"Ropa, Faldas",Beige,S
+618,Correa en Yute para Mujer 02961,70000.0,0.0,MUJER,"Accesorios, Cinturones y Correas",Verde Manzana,L
+621,Cárdigan Tejido para Mujer 36846,129900.0,0.0,MUJER,"Ropa, Suéteres y Cardigans",Arena,L
+622,Blusa Unicolor para Mujer 38201,99900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Habano,L
+624,Falda Unicolor para Mujer 03070,130000.0,0.0,MUJER,"Ropa, Faldas",Beige,S
+625,Collar para Mujer 03181,52500.0,-25.0,MUJER,"Accesorios, Esmaltes y Bisutería, Otros accesorios",Dorado,UNICA
+626,Jean Silueta Balloon para Mujer Freedom 05280,74950.0,-50.0,MUJER,"Ropa, Jeans",Negro,14
+627,Tenis Cómodos de Inspiración Futurista para Mujer 05438,169900.0,0.0,MUJER,"Tenis, Zapatos",Blanco,37
+628,Jean Silueta Skinny para Mujer 38673,119900.0,0.0,MUJER,"Ropa, Jeans",Azul Prusia,14
+629,Chaqueta Unicolor para Mujer 38181,229900.0,0.0,MUJER,"Ropa, Chaquetas",Sandía,L
+631,Camiseta Unicolor para Mujer 38196,50915.0,-15.0,MUJER,"Ropa, Camisetas",Avellana,L
+632,Collar Elegante para Mujer 03169,67500.0,-25.0,MUJER,"Accesorios, Esmaltes y Bisutería, Otros accesorios",Dorado,UNICA
+634,Mini Falda en Jean Negro con Lavandería para Mujer 05315,104900.0,0.0,MUJER,"Ropa, Faldas",Negro,14
+635,Chaqueta Denim Rosada para Mujer 05422,164900.0,0.0,MUJER,"Ropa, Chaquetas",Lavanda,L
+637,Tenis Cómodos con Plataforma Baja para Mujer 05437,159900.0,0.0,MUJER,"Tenis, Zapatos",Blanco,37
+638,Tenis Cómodos con Suela Moderna para Mujer 05440,169900.0,0.0,MUJER,"Tenis, Zapatos",Rosa Claro,37
+640,Botas Biker para Mujer 05439,219900.0,0.0,MUJER,"Botas y Botines, Zapatos",Negro,40
+641,Jean Silueta Flare para Mujer 36822,149900.0,0.0,MUJER,"Ropa, Jeans",Aguamarina,06
+642,Blusa Manga Larga para Mujer 38241,129900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Blanco,L
+643,"Salida de Baño para Mujer, Mezclas Viscosa. 02777",108000.0,-40.0,MUJER,"Vestidos de Baño, Ropa",Azul Prusia,L
+644,Correa en Yute para Mujer 02943,60000.0,0.0,MUJER,"Accesorios, Cinturones y Correas",Arena,L
+645,Blusa Escote en V para Mujer 38239,139900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Khaki,S
+646,Collar para Mujer 03177,52500.0,-25.0,MUJER,"Accesorios, Esmaltes y Bisutería, Otros accesorios",Dorado,UNICA
+647,Aretes en Zamac para Mujer 03174,60000.0,0.0,MUJER,"Accesorios, Esmaltes y Bisutería, Otros accesorios",Plateado,UNICA
+648,Vestido Largo de Malla para Mujer 05269,109900.0,0.0,MUJER,"Ropa, Vestidos y Enterizos",Esmeralda,L
+649,Camisa Oversize con Textura para Mujer 05194,119900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Arena,L
+650,"Enterizo para Mujer, Composición Algodón. 02756",130000.0,0.0,MUJER,"Ropa, Vestidos y Enterizos",Turquesa,S
+651,Aretes para Mujer en Material de Zamac 03172,45000.0,-25.0,MUJER,"Accesorios, Esmaltes y Bisutería, Otros accesorios",Dorado,UNICA
+652,Camiseta para Mujer Mezclas Poliéster 02964,93500.0,-15.0,MUJER,"Ropa, Camisetas",Azul Prusia,L
+654,Camiseta Unicolor Manga Corta para Mujer 36249,63665.0,-15.0,MUJER,"Ropa, Camisetas",Habano,L
+655,Camiseta Tejida con Tirantes para Mujer 05260,80665.0,-15.0,MUJER,"Ropa, Camisetas",Multicolor,L
+656,Vestido de Baño para Mujer en Poliamida 02774,178500.0,-15.0,MUJER,"Vestidos de Baño, Ropa",Escarlata,L
+658,Blusa con Volantes Manga Larga para Mujer 38240,99900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Azul,S
+660,Jean Silueta Mom Fit para Mujer 37873,129900.0,0.0,MUJER,"Ropa, Jeans",Aguamarina,14
+661,Aretes en Zamac para Mujer 03175,45000.0,-25.0,MUJER,"Accesorios, Esmaltes y Bisutería, Otros accesorios",Dorado,UNICA
+663,Vestido para Mujer Mezclas Algodón 02754,150000.0,-25.0,MUJER,"Ropa, Vestidos y Enterizos",Escarlata,S
+664,Aretes en Zamac para Mujer 03173,45000.0,-25.0,MUJER,"Accesorios, Esmaltes y Bisutería, Otros accesorios",Dorado,UNICA
+665,Kimono para Mujer Composición Viscosa 02753,136500.0,-35.0,MUJER,"Kimono, Ropa",Multicolor,L
+666,Camiseta Básica Regular Fit Unicolor para Mujer 05180,38165.0,-15.0,MUJER,"Ropa, Camisetas","Negro, Blanco",L
+667,"Camiseta para Mujer, Mezclas Poliéster. 02763",59500.0,-15.0,MUJER,"Ropa, Camisetas",Beige,S
+668,Top Tejido Escote Corazón para Mujer 05189,80665.0,-15.0,MUJER,"Ropa, Camisetas",Negro,L
+669,Camiseta Escote Asimétrico para Mujer 05365,46665.0,-15.0,MUJER,"Ropa, Camisetas",Beige,L
+670,Camiseta Tipo Malla para Mujer 05259,33915.0,-15.0,MUJER,"Ropa, Camisetas",Verde Manzana,L
+671,"Camisa para Mujer, Composición Viscosa. 02758",110000.0,0.0,MUJER,"Ropa, Blusas y Camisas",Rosado,S
+672,Vestido de Baño para Mujer de Poliamida 02693,126000.0,-40.0,MUJER,"Vestidos de Baño, Ropa",Lavanda,L
+673,Vestido de Baño para Mujer de Poliamida 02694,126000.0,-40.0,MUJER,"Vestidos de Baño, Ropa",Negro,L
+674,Camiseta en Mesh Unicolor para Mujer 05431,29665.0,-15.0,MUJER,"Ropa, Camisetas",Negro,L
+676,Chaleco Elegante para Mujer 35062,229900.0,0.0,MUJER,"Ropa, Chalecos",Gris Plata,L
+677,Camiseta con Escote en Espalda para Mujer 05188,33915.0,-15.0,MUJER,"Ropa, Camisetas","Escarlata, Khaki",L
+678,Blusa Liviana Efecto Desgaste para Mujer 05193,119900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Negro,L
+680,Blusa de Mujer en Mezclas Algodón 02696,65000.0,-35.0,MUJER,"Ropa, Blusas y Camisas",Rosa Claro,L
+681,Enterizo Unicolor para Mujer 05139,119900.0,0.0,MUJER,"Ropa, Vestidos y Enterizos",Negro,M/L
+684,Blazer Formal Unicolor para Mujer 38182,279900.0,0.0,MUJER,"Ropa, Abrigos y Blazers",Azul Claro,L
+686,Pantalón Bota Recta con Abertura para Mujer 04915,78675.0,-25.0,MUJER,"Pantalones, Ropa",Gris Ceniza,L
+688,Camisa para Mujer Mezclas Algodón 02767,93500.0,-15.0,MUJER,"Ropa, Camisetas",Escarlata,L
+689,Sandalias para Mujer en Cuero 02780,168000.0,-40.0,MUJER,"Zapatos, Sandalias",Tabaco,40
+690,Sandalias para Mujer en Cuero 02779,120000.0,-40.0,MUJER,"Zapatos, Sandalias",Azul Prusia,40
+691,Falda de Jean para Mujer 38677,119900.0,0.0,MUJER,"Ropa, Faldas",Azul Claro,14
+692,Kimono para Mujer Composición Poliéster 02750,195000.0,-25.0,MUJER,"Kimono, Ropa",Azul Malibú,L
+693,Camisa para Mujer Mezclas Viscosa 02762,90000.0,-25.0,MUJER,"Ropa, Blusas y Camisas",Escarlata,L
+694,Camiseta para Mujer Mezclas Algodón 02764,66000.0,-40.0,MUJER,"Ropa, Camisetas",Rosado,L
+695,Sandalias para Mujer Playeras 02709,42500.0,-15.0,MUJER,"Zapatos, Sandalias",Índigo,37-38
+696,Pantalón Clásico Skinny para Mujer 05369,139900.0,0.0,MUJER,"Ropa, Jeans",Azul Prusia,14
+700,Jean Silueta Flare para Mujer 38664,149900.0,0.0,MUJER,"Ropa, Jeans",Aguamarina,14
+701,Camiseta Estampada para Mujer 37623,50915.0,-15.0,MUJER,"Ropa, Camisetas",Blanco,L
+703,Camiseta moda con Hombros Caídos para Mujer 05190,42415.0,-15.0,MUJER,"Ropa, Camisetas",Beige,L
+704,Chaqueta para Mujer 37315,199900.0,0.0,MUJER,"Ropa, Chaquetas",Azul,L
+705,Pantalón Bota Recta para Mujer 36265,159900.0,0.0,MUJER,"Pantalones, Ropa",Habano,14
+706,Vestido de Baño Dos Piezas para Mujer 01439,73465.0,-65.0,MUJER,"Vestidos de Baño, Ropa",Fucsia,L
+708,Sandalias Plana con Detalle en Capellada para Mujer 35208,101940.0,-40.0,MUJER,"Zapatos, Sandalias",Gris Claro,40
+710,Botas en Cuero para Mujer 37201,299900.0,0.0,MUJER,"Botas y Botines, Zapatos",Negro,40
+711,Mocasines Unicolor en Cuero para Mujer 37221,229900.0,0.0,MUJER,"Mocasines, Zapatos Planos, Zapatos",Beige,38
+712,Blusa Unicolor para Mujer 38238,129900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Aguamarina,L
+714,Camiseta de Tirantes para Mujer 05266,99900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Menta,L
+715,Camisa de Rayas para Mujer 36700,114900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Lavanda,L
+716,Sneakers para Mujer 37226,219900.0,0.0,MUJER,"Tenis, Zapatos",Gris Granito,38
+717,Blusa Estampada con Escote en Espalda para Mujer 37122,99900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Multicolor,L
+718,Pantalón Unicolor para Mujer 37561,119900.0,0.0,MUJER,"Pantalones, Ropa",Mostaza,14
+719,Chaqueta Corta con Bolsillos de Parche para Mujer 36642,179900.0,0.0,MUJER,"Ropa, Chaquetas",Negro,L
+720,Botas con Plataforma y Tacon para Mujer 05436,189900.0,0.0,MUJER,"Botas y Botines, Zapatos",Negro,38
+721,Salida de Baño con Flecos para Mujer 01303,175000.0,-50.0,MUJER,"Vestidos de Baño, Ropa",Beige,L
+722,Vestido para Mujer Composición Algodón 02960,250000.0,0.0,MUJER,"Ropa, Vestidos y Enterizos",Beige,L
+723,Top Tirantes Unicolor para Mujer 05063,32940.0,-40.0,MUJER,"Ropa, Camisetas",Fucsia,L
+726,Kimono Largo Estampado para Mujer 01402,150000.0,-50.0,MUJER,"Kimono, Ropa",Beige,L
+727,Calzado Tacón en Punta para Mujer 35919,199900.0,0.0,MUJER,"Tacones, Zapatos",Celeste,40
+729,Chaqueta en Denim Hombro Caído con Detalle de Flecos 04973,77450.0,-50.0,MUJER,"Ropa, Chaquetas",Negro,L
+730,Abrigo 4 Botones para Mujer 37289,319900.0,0.0,MUJER,"Ropa, Abrigos y Blazers",Gris Granito,L
+731,Blusa con Escote en Espalda para Mujer 34825,58435.0,-35.0,MUJER,"Ropa, Blusas y Camisas",Menta,L
+732,Sandalias para Mujer de Color Plateado 02656,132000.0,-40.0,MUJER,"Zapatos, Sandalias",Plateado,38
+733,Pantalón para Mujer Composición Poliéster 02581,104000.0,-35.0,MUJER,"Pantalones, Ropa",Verde Manzana,L
+734,Blusa de Mujer en Composición de Lino 02572,200000.0,0.0,MUJER,"Ropa, Blusas y Camisas",Rosa Claro,L
+735,Jean Wide Leg con Textura Molidos para Mujer 05301,149900.0,0.0,MUJER,"Ropa, Jeans",Azul Prusia,14
+736,Camiseta Básica Cuello Redondo para Mujer 02463,21165.0,-15.0,MUJER,"Ropa, Camisetas",Negro,L
+737,Camisa Clásica de Mujer 35731,119900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Azul Marino,L
+738,Jean Silueta Balloon para Mujer Freedom 05279,74950.0,-50.0,MUJER,"Ropa, Jeans",Azul Prusia,14
+739,Sandalias para Mujer de Color Crema 02657,150000.0,-40.0,MUJER,"Zapatos, Sandalias",Beige,40
+740,Blusa Unicolor Cuello Nerú para Mujer 36844,99900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Habano,L
+741,Camiseta Básica Unicolor para Mujer 39035,59415.0,-15.0,MUJER,"Ropa, Camisetas",Blanco,L
+742,Pantalón Bota Recta para Mujer 37547,149900.0,0.0,MUJER,"Pantalones, Ropa",Hueso,14
+743,Camisa en Ojalillo para Mujer 37539,139900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Blanco,L
+744,Camisa Tejida Sisa para Mujer 36680,119900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Beige,L
+745,Correa en Cuero para Mujer 38034,99900.0,0.0,MUJER,"Accesorios, Cinturones y Correas",Hueso,L
+746,Botas Tipo Chunky con Cierre para Mujer 05432,199900.0,0.0,MUJER,"Botas y Botines, Zapatos",Negro,40
+747,Pantalón Estampado para Mujer 03166,170000.0,0.0,MUJER,"Pantalones, Ropa",Beige,08
+748,Chaleco en Denim para Mujer 38676,129900.0,0.0,MUJER,"Ropa, Chalecos",Azul Claro,L
+749,Sneakers para Mujer 37225,149900.0,0.0,MUJER,"Tenis, Zapatos",Khaki,40
+750,Chaleco en Chambray Unicolor para Mujer 05110,59950.0,-50.0,MUJER,"Ropa, Chalecos",Azul Prusia,L
+751,Falda con Abertura para Mujer 34834,77935.0,-35.0,MUJER,"Ropa, Faldas",Beige,06
+752,Blusa Unicolor para Mujer 03080,90000.0,0.0,MUJER,"Ropa, Blusas y Camisas",Rosa Amaranto,S
+753,Abrigo Largo Unicolor para Mujer 38220,319900.0,0.0,MUJER,"Ropa, Abrigos y Blazers",Gris Ceniza,L
+754,Calzado Tacón en Punta para Mujer 35956,199900.0,0.0,MUJER,"Tacones, Zapatos",Khaki,38
+755,Camisa a Rayas para Mujer 38474,119900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Blanco,L
+756,Camiseta Estampada para Mujer 36254,59415.0,-15.0,MUJER,"Ropa, Camisetas",Blanco,L
+757,Blusa Corta para Mujer 02995,110000.0,0.0,MUJER,"Ropa, Blusas y Camisas",Beige,S
+758,Camisa Tejida Unicolor para Mujer 36828,119900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Khaki,L
+759,Sandalias para Mujer Playeras 02710,30000.0,-40.0,MUJER,"Zapatos, Sandalias",Negro,37-38
+760,Camisa Tejida Tipo Polo para Mujer 36290,109900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Marrón,L
+761,Camisa de Rayas Manga Larga para Mujer 36699,119900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Rosa Crepé,L
+762,Correa en Cuero para Mujer 30258,45435.0,-35.0,MUJER,"Accesorios, Cinturones y Correas",Granate,L
+763,Pantalón Estampado para Mujer 37543,129900.0,0.0,MUJER,"Pantalones, Ropa",Multicolor,14
+764,Camiseta Estampada para Mujer 35948,59415.0,-15.0,MUJER,"Ropa, Camisetas",Celeste,L
+765,Kimono para Mujer Composición Viscosa 02352,156000.0,-35.0,MUJER,"Kimono, Ropa",Multicolor,L
+766,Pantalón Unicolor Silueta Recta para Mujer 37095,149900.0,0.0,MUJER,"Pantalones, Ropa",Hueso,06
+767,Botas en Cuero Caña Media para Mujer 33412,175435.0,-35.0,MUJER,"Botas y Botines, Zapatos",Chocolate,40
+768,Botas en Cuero para Mujer 37569,329900.0,0.0,MUJER,"Botas y Botines, Zapatos",Marrón,38
+769,Polo Unicolor Clásica para Mujer 38124,59415.0,-15.0,MUJER,"Ropa, Camisetas",Amarillo Pálido,L
+770,Botas Tipo Chunky con Cierre para Mujer 05433,199900.0,0.0,MUJER,"Botas y Botines, Zapatos",Negro,38
+771,Sandalia con Velcro para Mujer 37703,101915.0,-15.0,MUJER,"Zapatos, Sandalias",Hueso,38
+772,Baletas con Efecto Piel para Mujer 37205,189900.0,0.0,MUJER,"Zapatos Planos, Zapatos, Baletas",Beige,38
+773,Sandalia Plana con Detalle en Capellada para Mujer 37229,152915.0,-15.0,MUJER,"Zapatos, Sandalias",Menta,38
+774,Buzo de Peluche con Cremallera para Mujer 05251,139900.0,0.0,MUJER,"Ropa, Buzos",Negro,L
+775,Chaqueta Larga para Mujer 36241,139900.0,0.0,MUJER,"Ropa, Chaquetas",Khaki,L
+776,Pantalón para Mujer en Viscosa 02768,250000.0,0.0,MUJER,"Pantalones, Ropa",Hueso,L
+777,Abrigo para Mujer 35726,279900.0,0.0,MUJER,"Ropa, Abrigos y Blazers",Hueso,L
+778,Short Elegante para Mujer 34835,77940.0,-40.0,MUJER,"Shorts, Ropa",Menta,06
+779,Camiseta Estampada para Mujer 37288,59415.0,-15.0,MUJER,"Ropa, Camisetas",Blanco,L
+780,Camisa Tejida para Mujer 36247,129900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Khaki,L
+781,Chaqueta Tipo Crop para Mujer 36240,229900.0,0.0,MUJER,"Ropa, Chaquetas",Blanco,L
+782,Pantalón Elegante para Mujer 35061,129900.0,0.0,MUJER,"Pantalones, Ropa",Gris Plata,06
+783,Blazer Desestructurado Manga Larga para Mujer 33862,94950.0,-50.0,MUJER,"Ropa, Abrigos y Blazers",Negro,L
+784,Camisa para Mujer Composición Viscosa 02906,220000.0,0.0,MUJER,"Ropa, Blusas y Camisas",Multicolor,L
+785,Suéter Tejido con Textura para Mujer 34967,77935.0,-35.0,MUJER,"Ropa, Suéteres y Cardigans",Beige,L
+786,Chaqueta Animal Print para Mujer 33863,114950.0,-50.0,MUJER,"Ropa, Chaquetas",Gris Grafito,L
+787,Blusa para Mujer Composición Poliéster 02761,120000.0,0.0,MUJER,"Ropa, Blusas y Camisas",Beige,L
+788,Blazer Formal Velvet para Mujer 35265,129935.0,-35.0,MUJER,"Ropa, Abrigos y Blazers",Negro,L
+789,Sandalia con Hebilla para Mujer 37228,110415.0,-15.0,MUJER,"Zapatos, Sandalias",Hueso,40
+790,Camiseta para Mujer Mezclas Algodón 02765,72000.0,-40.0,MUJER,"Ropa, Camisetas",Azul Malibú,L
+791,Camisa Tejida con Troquelado para Mujer 34845,71435.0,-35.0,MUJER,"Ropa, Blusas y Camisas",Habano,L
+792,Bota Texana en Gamuza para Mujer 32186,201435.0,-35.0,MUJER,"Botas y Botines, Zapatos",Abeto,40
+793,Blazer para Mujer 35609,155935.0,-35.0,MUJER,"Ropa, Abrigos y Blazers",Habano,L
+794,Polo Unicolor Clásica para Mujer 38124,59415.0,-15.0,MUJER,"Ropa, Camisetas","Fucsia, Rosa Lavanda, Azul Prusia, Blanco",L
+795,Baletas Acabado Tipo Charol para Mujer 32471,71435.0,-35.0,MUJER,"Zapatos Planos, Zapatos, Baletas",Palo de Rosa,40
+796,Camiseta Estampada para Mujer 37606,59415.0,-15.0,MUJER,"Ropa, Camisetas",Rosa Lavanda,L
+797,Sandalia Plana en Cuero para Mujer 37704,110415.0,-15.0,MUJER,"Zapatos, Sandalias",Avellana,40
+798,Botas Caña Baja Punta Cuadrada para Mujer 35258,299900.0,0.0,MUJER,"Botas y Botines, Zapatos",Blanco,40
+799,Jean Silueta Skinny para Mujer 38662,129900.0,0.0,MUJER,"Ropa, Jeans",Azul Prusia,14
+800,Jean Silueta Mom Fit para Mujer 38684,129900.0,0.0,MUJER,"Ropa, Jeans",Azul Claro,14
+801,Camisa Manga Larga para Mujer 36305,109900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Beige,L
+802,Jean Silueta Mom Fit para Mujer 37933,129900.0,0.0,MUJER,"Ropa, Jeans",Negro,14
+803,Camiseta Estampada para Mujer 37601,59415.0,-15.0,MUJER,"Ropa, Camisetas",Fucsia,L
+804,Vestido para Mujer en Poliéster 02678,78000.0,-35.0,MUJER,"Ropa, Vestidos y Enterizos",Menta,L
+805,Camiseta con Detalle en Manga para Mujer 38139,50915.0,-15.0,MUJER,"Ropa, Camisetas",Beige,L
+806,Tenis Efecto Gamuzado Tono Claro para Mujer 05435,139900.0,0.0,MUJER,"Tenis, Zapatos",Rosa Amaranto,38
+807,Camiseta Crop Unicolor para Mujer 01488,21165.0,-15.0,MUJER,"Ropa, Camisetas",Negro,L
+808,Pantalón Unicolor para Mujer 36841,149900.0,0.0,MUJER,"Pantalones, Ropa",Khaki,14
+809,Bermuda Unicolor para Mujer 37545,93415.0,-15.0,MUJER,"Shorts, Ropa",Hueso,14
+810,Sneakers para Mujer 35205,219900.0,0.0,MUJER,"Tenis, Zapatos",Marrón,40
+811,Camiseta Estampada para Mujer 37242,59415.0,-15.0,MUJER,"Ropa, Camisetas",Blanco,L
+812,Camisa Larga para Mujer 36676,119900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Mandarina,L
+813,Tenis Tipo Bota con Tonos Claros para Mujer 05434,149900.0,0.0,MUJER,"Tenis, Zapatos",Blanco,40
+814,Pantalón Formal para Mujer 34866,139900.0,0.0,MUJER,"Pantalones, Ropa",Menta,06
+815,Blazer de Dos Botones Y Bolsillo de Solapa para Mujer 30698,114950.0,-50.0,MUJER,"Ropa, Abrigos y Blazers","Hueso, Negro",L
+816,Camisa para Mujer Composición en Algodón 02573,105000.0,-25.0,MUJER,"Ropa, Blusas y Camisas",Arena,L
+817,Camisa para Mujer Mezclas Poliéster 02665,50000.0,-50.0,MUJER,"Ropa, Camisetas",Turquesa,XL
+818,Camiseta Nido de Abeja para Mujer 05102,42415.0,-15.0,MUJER,"Ropa, Camisetas",Arena,L
+819,Blazer Formal Unicolor para Mujer 38449,239900.0,0.0,MUJER,"Ropa, Abrigos y Blazers",Negro,L
+820,Suecos Metalizados Color Plata para Mujer 35724,103935.0,-35.0,MUJER,Zapatos,Gris Ceniza,40
+821,Blusa Cuello Nerú Manga Corta para Mujer 34859,51935.0,-35.0,MUJER,"Ropa, Blusas y Camisas",Celeste,L
+822,Jean Silueta Wide Leg para Mujer 33051,119900.0,0.0,MUJER,"Ropa, Jeans",Lila,14
+823,Falda Larga con Recogido para Mujer 36890,64935.0,-35.0,MUJER,"Ropa, Faldas",Abeto,06
+824,Camisa de Rayas Manga Larga para Mujer 38427,119900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Blanco,L
+825,Blusa Elegante para Mujer 34823,74900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Beige,L
+826,Suéter Tejido Motivo Ramas Cuello Redondo para Mujer 36915,129900.0,0.0,MUJER,"Ropa, Suéteres y Cardigans",Negro,L
+827,Camiseta Unicolor Cuello Redondo para Mujer 36291,50915.0,-15.0,MUJER,"Ropa, Camisetas","Negro, Blanco",L
+828,Short en Ojalillo para Mujer 37542,110415.0,-15.0,MUJER,"Shorts, Ropa",Blanco,06
+829,Pantalón Estilo Palazzo para Mujer 36264,189900.0,0.0,MUJER,"Pantalones, Ropa",Marrón,06
+830,Baletas en Cuero para Mujer 37204,199900.0,0.0,MUJER,"Zapatos Planos, Zapatos, Baletas",Negro,38
+831,Chaleco con Cinturón para Mujer 36239,139900.0,0.0,MUJER,"Ropa, Chalecos",Arena,L
+832,Suéter Tejido Cuello Redondo para Mujer 36218,119900.0,0.0,MUJER,"Ropa, Suéteres y Cardigans",Marrón,L
+833,Suéter Tejido Cuello V para Mujer 36845,119900.0,0.0,MUJER,"Ropa, Suéteres y Cardigans",Hueso,L
+834,Calzado Tacón en Punta para Mujer 37218,209900.0,0.0,MUJER,"Tacones, Zapatos",Palo de Rosa,38
+835,Chaqueta Corta en Tweed para Mujer 36285,254900.0,0.0,MUJER,"Ropa, Chaquetas",Negro,L
+836,Short para Mujer Composición Viscosa 02773,119000.0,-15.0,MUJER,"Shorts, Ropa",Hueso,L
+837,Enterizo Corto para Mujer 22589,94950.0,-50.0,MUJER,"Ropa, Vestidos y Enterizos",Arena,L
+838,Sandalia Plana con Detalle en Capellada para Mujer 37230,161415.0,-15.0,MUJER,"Zapatos, Sandalias",Negro,38
+839,Short en Lino para Mujer 36003,118915.0,-15.0,MUJER,"Shorts, Ropa",Navy,06
+840,Vestido de Baño Tipo Bikini para Mujer 01121,70000.0,-65.0,MUJER,"Vestidos de Baño, Ropa",Multicolor,L
+841,Camisa Manga Larga para Mujer 36261,77935.0,-35.0,MUJER,"Ropa, Blusas y Camisas",Beige,L
+842,Camisa Tejida Sisa para Mujer 36289,109900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Esmeralda,L
+843,Chaqueta en Tweed para Mujer 34801,159185.0,-35.0,MUJER,"Ropa, Chaquetas",Menta,L
+844,Blazer Formal Unicolor para Mujer 36242,229900.0,0.0,MUJER,"Ropa, Abrigos y Blazers",Rosado,L
+845,Pantalón Formal Unicolor para Mujer 36263,139900.0,0.0,MUJER,"Pantalones, Ropa",Rosado,06
+846,Camiseta con Textura para Mujer 04906,26940.0,-40.0,MUJER,"Ropa, Camisetas",Negro,L
+847,Polo Unicolor Clásica para Mujer 38124,59415.0,-15.0,MUJER,"Ropa, Camisetas","Fucsia, Rosa Lavanda, Azul Prusia, Blanco",L
+848,Zuecos para Mujer 35739,101915.0,-15.0,MUJER,"Zapatos, Sandalias",Lila,37-38
+849,Camiseta Estampada para Mujer 36542,59415.0,-15.0,MUJER,"Ropa, Camisetas",Marrón,L
+850,Falda Unicolor Tipo Cargo para Mujer 05115,144900.0,0.0,MUJER,"Ropa, Faldas",Hueso,L
+851,Camiseta Estampada para Mujer 36300,59415.0,-15.0,MUJER,"Ropa, Camisetas",Blanco,L
+852,Pantalón Formal para Mujer 38437,139900.0,0.0,MUJER,"Pantalones, Ropa",Negro,14
+853,Blusa Estampada con Volero para Mujer 05109,44950.0,-50.0,MUJER,"Ropa, Blusas y Camisas",Esmeralda,L
+854,Sneakers para Mujer 37906,219900.0,0.0,MUJER,"Tenis, Zapatos",Blanco,40
+855,Zuecos con Detalle de Cadena en Capellada para Mujer 35200,142425.0,-25.0,MUJER,Zapatos,Marrón,40
+856,Baleta Detalle Cadena para Mujer 37206,109900.0,0.0,MUJER,"Zapatos Planos, Zapatos, Baletas",Rosa Claro,40
+857,Blusas Cuello Nerú Manga Corta para Mujer 36830,99900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Blanco,L
+858,Blusa en Ojalillo para Mujer 37318,129900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Blanco,L
+859,Blazer Formal Unicolor para Mujer 37057,239900.0,0.0,MUJER,"Ropa, Abrigos y Blazers",Blanco,L
+860,Camiseta Básica Unicolor para Mujer 36294,59415.0,-15.0,MUJER,"Ropa, Camisetas",Habano,L
+861,Blusa Manga Sisa para Mujer 36525,119900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Negro,L
+862,Pantalón Tipo Cargo Unicolor para Mujer 05117,169900.0,0.0,MUJER,"Pantalones, Ropa",Negro,L
+863,Jean Silueta Skinny para Mujer 36808,159900.0,0.0,MUJER,"Ropa, Jeans",Azul Prusia,14
+864,Camiseta Estampada Manga Corta Cuello Redondo para Mujer 36296,59415.0,-15.0,MUJER,"Ropa, Camisetas",Verde Pino,L
+865,Sueco Unicolor Punta Metálica para Mujer 37203,229900.0,0.0,MUJER,Zapatos,Arena,40
+866,Blusa Unicolor para Mujer 37477,119900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Habano,L
+867,Botas Caña Alta en Cuero para Mujer 34612,240435.0,-35.0,MUJER,"Botas y Botines, Zapatos",Negro,40
+868,Blusa con Volantes Manga Larga para Mujer 37121,99900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Beige,L
+869,Pantalón Unicolor para Mujer 36262,139900.0,0.0,MUJER,"Pantalones, Ropa",Habano,14
+870,Short en Denim Liviano para Mujer 05114,38465.0,-65.0,MUJER,"Shorts, Ropa",Azul Prusia,L
+871,Pantalón Unicolor para Mujer 36842,169900.0,0.0,MUJER,"Pantalones, Ropa",Arena,14
+872,Suéter con Motivo de Corazones para Mujer 04905,54950.0,-50.0,MUJER,"Ropa, Suéteres y Cardigans",Negro,XL
+873,Camiseta Crop Unicolor para Mujer 02460,21165.0,-15.0,MUJER,"Ropa, Camisetas",Blanco,L
+874,Botas Tacón Cuadrado Y Caña Baja para Mujer 26507,174950.0,-50.0,MUJER,"Botas y Botines, Zapatos",Negro,40
+875,Camiseta con Escote en Espalda para Mujer 05188,33915.0,-15.0,MUJER,"Ropa, Camisetas","Escarlata, Khaki",L
+876,Pantalón Unicolor para Mujer 36677,129900.0,0.0,MUJER,"Pantalones, Ropa",Mandarina,14
+877,Camiseta Manga Sisa Unicolor para Mujer 37536,67915.0,-15.0,MUJER,"Ropa, Camisetas",Lima,L
+878,Camisa Clásica Manga Larga para Mujer 36698,119900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Rosa Crepé,L
+879,Blusa con Lazo en El Cuello para Mujer 36260,109900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Beige,L
+880,Calzado Sneakers para Mujer 35204,112425.0,-25.0,MUJER,"Tenis, Zapatos","Turquesa, Khaki",40
+881,Botas Texana en Gamuza para Mujer 32185,201435.0,-35.0,MUJER,"Botas y Botines, Zapatos",Café Mocca,40
+882,Jean Silueta Mom Fit para Mujer 04822,69950.0,-50.0,MUJER,"Ropa, Jeans",Lavanda,06
+883,Blusa Anudada Estampada para Mujer 37540,99900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Multicolor,L
+884,Buzo Cuello Redondo Bordado para Mujer 34840,58435.0,-35.0,MUJER,"Ropa, Buzos",Beige,L
+885,Jean Skinny High Waist para Mujer 01883,59900.0,0.0,MUJER,"Ropa, Jeans",Gris Granito,06
+886,Vestido de Baño Unicolor Enterizo para Mujer 22351,66465.0,-65.0,MUJER,"Vestidos de Baño, Ropa",Verde Oscuro,L
+887,Suéter Cuello V Unicolor para Mujer 30702,54950.0,-50.0,MUJER,"Ropa, Suéteres y Cardigans","Avellana, Negro",L
+888,Chaqueta en Denim Acolchada para Mujer 33577,114950.0,-50.0,MUJER,"Ropa, Chaquetas",Aguamarina,L
+889,Calzado Calado Monocromático para Mujer 21114,162435.0,-35.0,MUJER,Zapatos,Gris Perla,40
+890,Polo Unicolor Clásica para Mujer 32126,59415.0,-15.0,MUJER,"Ropa, Camisetas","Abeto, Verde Malaquita, Rosa Crepé",L
+891,Calzado Tacón en Punta para Mujer 32172,129935.0,-35.0,MUJER,"Tacones, Zapatos",Negro,40
+892,Vestido Ligero para Mujer 36573,169900.0,0.0,MUJER,"Ropa, Vestidos y Enterizos",Arena,L
+893,Jean Silueta Flare con Aberturas para Mujer 38170,129900.0,0.0,MUJER,"Ropa, Jeans",Azul Prusia,06
+894,Chaqueta Clásica Denim para Mujer 01880,99900.0,0.0,MUJER,"Ropa, Chaquetas","Azul Royal, Aguamarina",S
+895,Camiseta Estampada para Mujer 36540,59415.0,-15.0,MUJER,"Ropa, Camisetas",Rosa Lavanda,L
+896,Chaqueta Corta para Mujer 36278,129935.0,-35.0,MUJER,"Ropa, Chaquetas",Navy,L
+897,Kimono con Cinturon Estampado para Mujer 01269,115000.0,-50.0,MUJER,"Kimono, Ropa",Multicolor,L
+898,Falda Larga en Denim para Mujer 37934,119900.0,0.0,MUJER,"Ropa, Faldas",Beige,06
+899,Vestido Elegante para Mujer 36306,209900.0,0.0,MUJER,"Ropa, Vestidos y Enterizos",Negro,L
+900,Zuecos para Mujer 32436,101915.0,-15.0,MUJER,"Zapatos, Sandalias",Lila,37-38
+901,Tenis Unisex Chunky 04747,97435.0,-35.0,MUJER,"Tenis, Zapatos",Blanco,40
+902,Blusa de Tirantes Unicolor con Detalle de Moño en El Frente 04886,33215.0,-65.0,MUJER,"Ropa, Camisetas",Negro,L
+903,Camiseta Escote Cuadrado con Drapeado 04788,15715.0,-65.0,MUJER,"Ropa, Camisetas",Índigo,L
+904,Camiseta Unicolor Cuello Redondo para Mujer 36291,50915.0,-15.0,MUJER,"Ropa, Camisetas","Negro, Blanco",L
+905,Polo Unicolor Clásica para Mujer 38124,59415.0,-15.0,MUJER,"Ropa, Camisetas","Fucsia, Rosa Lavanda, Azul Prusia, Blanco",L
+906,Mocasín en Cuero para Mujer 37219,209900.0,0.0,MUJER,"Mocasines, Zapatos Planos, Zapatos",Negro,40
+907,Chaqueta Unicolor para Mujer 38221,149900.0,0.0,MUJER,"Ropa, Chaquetas",Fucsia,L
+908,Chaqueta Tipo Crop en Tweed para Mujer 34837,162435.0,-35.0,MUJER,"Ropa, Chaquetas",Celeste,L
+909,Sneakers con Detalle en Contraste para Mujer 37223,219900.0,0.0,MUJER,"Tenis, Zapatos",Habano,38
+910,Calzado Tacón en Punta Efecto Piel para Mujer 37216,209900.0,0.0,MUJER,"Tacones, Zapatos",Beige,38
+911,Vestido Estampado para Mujer 36015,159900.0,0.0,MUJER,"Ropa, Vestidos y Enterizos",Multicolor,L
+912,Camiseta Cruzada para Mujer 37330,67915.0,-15.0,MUJER,"Ropa, Camisetas",Blanco,L
+913,Camiseta Cuello V para Mujer 36251,67915.0,-15.0,MUJER,"Ropa, Camisetas",Beige,S
+914,Leggins Básico High Waist para Mujer 02456,27450.0,-50.0,MUJER,"Leggins, Ropa, Pantalones",Negro,L
+915,Camiseta Bordada para Mujer 36297,50915.0,-15.0,MUJER,"Ropa, Camisetas",Verde Manzana,L
+916,Camiseta Estampada Manga Sisa para Mujer 37329,42415.0,-15.0,MUJER,"Ropa, Camisetas",Arena,L
+917,Camisa Tejida Cuello Halter para Mujer 34844,109900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Navy,L
+918,Pantalón en Lino Unicolor para Mujer 34032,92450.0,-50.0,MUJER,"Pantalones, Ropa",Escarlata,06
+919,Pantalón Unicolor para Mujer 34833,149900.0,0.0,MUJER,"Pantalones, Ropa",Gris Plata,10
+920,Short para Mujer Composición Viscosa 02771,119000.0,-15.0,MUJER,"Shorts, Ropa",Multicolor,L
+921,Blusa Manga Sisa Cuello Redondo para Mujer 36257,79900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Marrón,L
+922,Camisa Formal para Mujer 34826,64935.0,-35.0,MUJER,"Ropa, Blusas y Camisas",Menta,L
+923,Camiseta Imitación Tejido para Mujer 05100,46665.0,-15.0,MUJER,"Ropa, Camisetas",Beige,L
+924,Chaqueta Clásica Denim para Mujer 01880,99900.0,0.0,MUJER,"Ropa, Chaquetas","Azul Royal, Aguamarina",L
+925,Camiseta Unicolor Manga Sisa para Mujer 36702,50915.0,-15.0,MUJER,"Ropa, Camisetas",Lima,L
+926,Jean Skinny Básicos Oscuros para Mujer 02817,59900.0,0.0,MUJER,"Ropa, Jeans",Negro,06
+927,Camiseta Estampada para Mujer 35498,34950.0,-50.0,MUJER,"Ropa, Camisetas",Blanco,L
+928,Short de Lino para Mujer 35608,67450.0,-50.0,MUJER,"Shorts, Ropa",Habano,06
+929,Camiseta Estampada para Mujer 35950,34950.0,-50.0,MUJER,"Ropa, Camisetas",Gris Claro,L
+930,Camiseta Tipo Cropped para Mujer 02461,21165.0,-15.0,MUJER,"Ropa, Camisetas",Negro,L
+931,Pantalón Formal para Mujer 35267,139900.0,0.0,MUJER,"Pantalones, Ropa",Beige,06
+932,Vestido Corto en Rib Unicolor para Mujer 04946,29950.0,-50.0,MUJER,"Ropa, Vestidos y Enterizos",Azul Prusia,L
+933,Camiseta con Escote Anudado para Mujer 33062,27965.0,-65.0,MUJER,"Ropa, Camisetas","Negro, Habano",L
+934,Sneakers Deportivos para Mujer 37222,169900.0,0.0,MUJER,"Tenis, Zapatos",Blanco,40
+935,Abrigo para Mujer 33942,233935.0,-35.0,MUJER,"Ropa, Abrigos y Blazers",Negro,L
+936,Camiseta Básica Manga Corta para Mujer 02462,21165.0,-15.0,MUJER,"Ropa, Camisetas",Blanco,L
+937,Camiseta Estampada para Mujer 35021,34950.0,-50.0,MUJER,"Ropa, Camisetas",Gris Perla,L
+938,Jean Silueta Skinny para Mujer 38663,119900.0,0.0,MUJER,"Ropa, Jeans",Negro,14
+939,Pantalón Encerado Cinco Bolsillos para Mujer 33919,79950.0,-50.0,MUJER,"Pantalones, Ropa",Mostaza,06
+940,Camisa Tejida Cuello Redondo Y Manga Corta para Mujer 36248,109900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Rosa Claro,L
+941,Jean Silueta Wide Leg con Cortes para Mujer 35775,139900.0,0.0,MUJER,"Ropa, Jeans",Azul Claro,14
+942,Camiseta Estampada para Mujer 36592,59415.0,-15.0,MUJER,"Ropa, Camisetas",Beige,L
+943,Camiseta Cuello Redondo Manga Corta para Mujer 36293,67915.0,-15.0,MUJER,"Ropa, Camisetas",Verde Manzana,L
+944,Camisa Tejida Cuello Redondo Manga Corta para Mujer 37544,119900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Avellana,L
+945,Jean Silueta Wide Leg para Mujer 36479,159900.0,0.0,MUJER,"Ropa, Jeans",Aguamarina,14
+946,Pantalón Formal Unicolor para Mujer 36313,149900.0,0.0,MUJER,"Pantalones, Ropa",Blanco,14
+947,Pantalón Tipo Jogger para Mujer 38040,119900.0,0.0,MUJER,"Pantalones, Ropa",Rosa Claro,14
+948,Chaleco Tipo Sastre para Mujer 04904,67425.0,-25.0,MUJER,"Ropa, Chalecos",Gris Carbón,L
+949,Pantalón Unicolor para Mujer. 36311,99900.0,0.0,MUJER,"Pantalones, Ropa",Verde Pino,14
+950,Camiseta Estampada para Mujer. 37978,59415.0,-15.0,MUJER,"Ropa, Camisetas",Blanco,L
+951,Pantalón Tejido Motivo Ramas para Mujer 37549,139900.0,0.0,MUJER,"Pantalones, Ropa",Avellana,14
+952,Camiseta Unicolor con Textura Tipo Tejido 04782,38165.0,-15.0,MUJER,"Ropa, Camisetas","Naranja Claro, Hueso",L
+953,Blusa Cuello V Manga Anudada para Mujer 37541,89900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Blanco,L
+954,Sneakers con Detalle en Contraste para Mujer 35206,219900.0,0.0,MUJER,"Tenis, Zapatos",Beige,40
+955,Tenis Unicolor con Detalle Plateado para Mujer 04996,97435.0,-35.0,MUJER,"Tenis, Zapatos",Blanco,40
+956,Jean Silueta Skinny para Mujer 36994,119900.0,0.0,MUJER,"Ropa, Jeans",Azul Prusia,14
+957,Calzado Sneakers para Dama 33409,142935.0,-35.0,MUJER,"Tenis, Zapatos",Habano,40
+958,Camiseta Estampada para Mujer 36591,59415.0,-15.0,MUJER,"Ropa, Camisetas",Rosa Crepé,L
+959,Blusa para Mujer 34858,77935.0,-35.0,MUJER,"Ropa, Blusas y Camisas",Beige,L
+960,Camiseta Estampada para Mujer 36253,59415.0,-15.0,MUJER,"Ropa, Camisetas",Esmeralda,L
+961,Botas de Cuero con Tacón para Mujer 35026,188435.0,-35.0,MUJER,"Botas y Botines, Zapatos",Negro,40
+962,Camiseta Manga Sisa para Mujer 37003,59415.0,-15.0,MUJER,"Ropa, Camisetas",Khaki,L
+963,Camisa Tejida para Mujer 35918,99900.0,0.0,MUJER,"Ropa, Blusas y Camisas",Navy,L
+964,Pantalón Unicolor con Cinturón para Mujer 34867,159900.0,0.0,MUJER,"Pantalones, Ropa",Khaki,14
+965,Camiseta Estampada para Mujer 35499,34950.0,-50.0,MUJER,"Ropa, Camisetas",Blanco,L
+966,Blusa Cruzada Escote en V para Mujer 00859,65000.0,-50.0,MUJER,"Ropa, Blusas y Camisas",Rosa Lavanda,S
+967,Pantalón Unicolor para Mujer 27435,69950.0,-50.0,MUJER,"Pantalones, Ropa","Negro, Verde Pino, Arena",06
+968,Sneakers para Mujer 32440,142935.0,-35.0,MUJER,"Tenis, Zapatos",Habano,40
+969,Botas Unicolor Tacón Cuadrado y Caña Baja para Mujer 32107,181935.0,-35.0,MUJER,"Botas y Botines, Zapatos",Negro,40
+970,Short en Denim Tiro Alto Deslavado 02823,42415.0,-15.0,MUJER,"Shorts, Ropa",Aguamarina,06
+971,Vestido de Baño Dos Piezas para Mujer 22358,59465.0,-65.0,MUJER,"Vestidos de Baño, Ropa",Mostaza,L
+972,Sandalia Resort Cerrada para Mujer 01613,134950.0,-50.0,MUJER,"Zapatos, Sandalias",Beige,40
+973,Vestido de Baño Estampado para Mujer 20424,62965.0,-65.0,MUJER,"Vestidos de Baño, Ropa",Azul Prusia,L
+974,Jean Skinny Básico para Mujer 02818,59900.0,0.0,MUJER,"Ropa, Jeans",Gris Granito,06
+975,Chaqueta en Denim Clásica para Mujer 02826,99900.0,0.0,MUJER,"Ropa, Chaquetas",Azul Claro,L
+976,Jean Básico Skinny Mujer 01315,59900.0,0.0,MUJER,"Ropa, Jeans",Negro,06
+977,Camiseta Estampada para Mujer 35054,29950.0,-50.0,MUJER,"Ropa, Camisetas",Avellana,L
+978,Jean Skinny High Waist para Mujer 01885,59900.0,0.0,MUJER,"Ropa, Jeans",Aguamarina,06
+979,Jean Skinny High Waist para Mujer 01882,59900.0,0.0,MUJER,"Ropa, Jeans",Negro,06
+980,Camisa Unicolor Basic para Mujer 02111,21165.0,-15.0,MUJER,"Ropa, Camisetas",Negro,L
+981,Cinturón en Cuero para Niño 12930,54900.0,0.0,KIDS,"Accesorios, Cinturones y Correas, Nino","Negro, Khaki, Azul Prusia",L
+982,Cinturón en Cuero para Niño 12930,54900.0,0.0,KIDS,"Accesorios, Cinturones y Correas, Nino","Negro, Khaki, Azul Prusia",L
+983,Blazer Desestructurado para Niño 13260,175435.0,-35.0,KIDS,"Ropa, Blazers, Nino",Azul Prusia,12
+984,Zapato Casual Color Café para Niño 14484,109900.0,0.0,KIDS,"Zapatos, Nino",Khaki,36
+985,Zapato Sin Cordones para Niño 14485,124900.0,0.0,KIDS,"Zapatos, Nino",Chocolate,36
+986,Camisa Unicolor de Lino para Niño 13560,119900.0,0.0,KIDS,"Camisas, Ropa, Nino",Blanco,12
+987,Jogger con Pretina Encauchada para Niño 14597,99900.0,0.0,KIDS,"Pantalones, Ropa, Nino",Khaki,8-9
+988,Pantaloneta de Baño en Poliéster para Niño 14369,59415.0,-15.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Verde Malaquita,12
+989,Camisa Manga Larga en Lino para Niño 03050,190000.0,0.0,KIDS,"Camisas, Ropa, Nino",Turquesa,8-9
+990,Buzo Estampado de Snoopy para Niño 14417,104900.0,0.0,KIDS,"Ropa, Buzos, Nino",Beige,12
+991,Chaleco en Poliéster para Niño 14251,74925.0,-25.0,KIDS,"Ropa, Chaquetas y Chalecos, Nino",Azul Malibú,12
+992,Camisa en Mezclas Lino para Niño 14415,99900.0,0.0,KIDS,"Camisas, Ropa, Nino","Aguamarina, Rosa Claro",12
+993,Pantaloneta de Baño en Poliéster para Niño 02898,110500.0,-15.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Aguamarina,8-9
+994,Camisa en Algodón para Niño 14353,92900.0,0.0,KIDS,"Camisas, Ropa, Nino",Blanco,12
+995,Polo Unicolor para Niño 14162,38940.0,-40.0,KIDS,"Polos, Ropa, Nino","Hueso, Azul Prusia, Azul Malibú, Amarillo Limón, Verde Manzana",12
+996,Cinturón Tipo Reata para Niño 13114,42900.0,0.0,KIDS,"Accesorios, Cinturones y Correas, Nino","Negro, Azul Prusia",L
+997,Gorra para Niño con Composición Algodón 14194,35175.0,-25.0,KIDS,"Accesorios, Gorras, Gorros y Boinas, Nino",Azul Claro,S
+998,Jean Pretina Ajustable para Niño 14574,124900.0,0.0,KIDS,"Ropa, Jeans, Nino",Azul Claro,8-9
+999,Jean en Mezclas Algodón para Niño 14214,82425.0,-25.0,KIDS,"Ropa, Jeans, Nino",Azul Claro,12
+1000,Camisa Manga Corta A Rayas para Niño 14685,89900.0,0.0,KIDS,"Camisas, Ropa, Nino",Azul Malibú,12
+1001,Falda Unicolor para Niña 14550,74900.0,0.0,KIDS,"Ropa, Nina, Faldas",Habano,12
+1002,Pantaloneta Estampada Looney Tunes para Niño 14649,67915.0,-15.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Verde Malaquita,12
+1003,Pantalón Unicolor Pana para Niño 13856,72735.0,-35.0,KIDS,"Pantalones, Ropa, Nino",Granate,12
+1004,Camiseta Estampada Looney Tunes para Niña 14542,48365.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Beige,12
+1005,Pantaloneta de Baño en Poliéster para Niño 14370,59415.0,-15.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Aguamarina,12
+1007,Polo Crema con Detalles en Azul para Niño 14557,59415.0,-15.0,KIDS,"Polos, Ropa, Nino",Beige,12
+1008,Pantaloneta de Baño con Estampado para Niño 14184,43740.0,-40.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Fucsia,12
+1009,Camiseta Sisa Unicolor para Niño 14655,55165.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Gris Claro,12
+1010,Pantalón Unicolor para Niña 14571,119900.0,0.0,KIDS,"Pantalones, Nina, Ropa",Beige,8-9
+1011,Polo a Rayas para Niño 14555,67915.0,-15.0,KIDS,"Polos, Ropa, Nino",Carmesí,12
+1012,Jogger Unicolor para Niño 14704,74900.0,0.0,KIDS,"Pantalones, Ropa, Nino",Gris Plata,12
+1013,Jean Pretina Ajustable para Niño 14577,114900.0,0.0,KIDS,"Ropa, Jeans, Nino",Aguamarina,8-9
+1014,Jean Pretina Ajustable para Niño 14575,119900.0,0.0,KIDS,"Ropa, Jeans, Nino",Gris Claro,8-9
+1017,Pantalón Unicolor para Niño 14662,104900.0,0.0,KIDS,"Pantalones, Ropa, Nino",Negro,8-9
+1018,Jean Pretina Ajustable para Niña 14582,104900.0,0.0,KIDS,"Pantalones, Nina, Ropa",Beige,12
+1019,Buzo en Mezclas Poliéster para Niño 14390,114900.0,0.0,KIDS,"Ropa, Buzos, Nino",Menta,12
+1020,Camiseta Estampada para Niño 14325,42415.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Aguamarina,12
+1021,Jean de Moda para Niña 14736,104900.0,0.0,KIDS,"Pantalones, Nina, Ropa",Navy,12
+1022,Camiseta Unicolor para Niño 03097,68000.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Rosa Amaranto,8-9
+1023,Camiseta con Corte en El Pecho para Niña 14441,33915.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Rosa Francés,12
+1024,Camiseta Aqua Estampada para Niño 14361,50915.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Azul Malibú,12
+1026,Camiseta Bob Esponja para Niño 14448,50915.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Pistacho,12
+1027,Buzo Oversize en Algodón para Niña 14440,59900.0,0.0,KIDS,"Ropa, Buzos, Nina",Verde Manzana,12
+1029,Bermuda Unicolor para Hombre 14635,80665.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Azul Marino,8-9
+1030,Camiseta Aqua Estampada para Niño 02889,68000.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Aguamarina,8-9
+1031,Camiseta Mezclas Poliéster para Niña 14452,38165.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Hueso,12
+1032,Vestido Estampado con Boleros 14007,97425.0,-25.0,KIDS,"Ropa, Vestidos, Nina",Multicolor,12
+1035,Camiseta en Mezclas de Algodón para Niña 14384,46665.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Rosa Francés,12
+1037,Buzo Estampado de Looney Tunes para Niña 14537,104900.0,0.0,KIDS,"Ropa, Buzos, Nina",Beige,12
+1038,Buzo Estampado Looney Tunes para Niño 14606,89900.0,0.0,KIDS,"Ropa, Buzos, Nino",Carmesí,12
+1039,Suéter Mezclas Acrílico para Niña 14438,111900.0,0.0,KIDS,"Suéteres, Nina, Ropa",Amarillo Pastel,12
+1040,Gorra Diseño Summer para Niño 14372,49900.0,0.0,KIDS,"Accesorios, Gorras, Gorros y Boinas, Nino",Beige,S
+1041,Tenis con Diseño en Contraste para Niña 14497,109900.0,0.0,KIDS,"Tenis, Nina, Zapatos",Blanco,35
+1042,Buzo para Niña Mezclas Poliéster 14341,69900.0,0.0,KIDS,"Ropa, Buzos, Nina",Azul Malibú,12
+1044,Bermuda Unicolor para Niño 14599,84915.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Beige,8-9
+1045,Bermuda en Lino para Niño 02935,178500.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Blanco,8-9
+1046,Pantalón Ajustable para Niño 14456,104900.0,0.0,KIDS,"Pantalones, Ropa, Nino",Avellana,8-9
+1047,Bermuda en Denim para Niño 14578,84915.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Azul Claro,8-9
+1048,Falda en Mezclas Viscosa para Niña 14373,79900.0,0.0,KIDS,"Ropa, Nina, Faldas",Rosa Amaranto,8-9
+1049,Jogger Ajustable para Niño 14457,89900.0,0.0,KIDS,"Pantalones, Ropa, Nino",Gris,12
+1050,Camiseta Estampada Looney Tunes para Niño 14646,50915.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Habano,12
+1051,"Pantalón para Niña, Mezclas Poliéster. 14350",79900.0,0.0,KIDS,"Pantalones, Nina, Ropa",Rosa Amaranto,12
+1052,Camiseta en Algodón para Niña 14382,50915.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Verde Manzana,12
+1053,Polo Unicolor para Niño 14304,55165.0,-15.0,KIDS,"Polos, Ropa, Nino",Aguamarina,12
+1055,Vestido Unicolor para Niña 14387,74900.0,0.0,KIDS,"Ropa, Vestidos, Nina",Beige,8-9
+1056,Tenis con Diseño en Contraste para Niña 14508,109900.0,0.0,KIDS,"Tenis, Nina, Zapatos",Beige,32
+1057,Jean Pretina Ajustable para Niño 14408,99900.0,0.0,KIDS,"Ropa, Jeans, Nino",Habano,12
+1058,Medias Baletas Color Azul para Niña 14041,10900.0,0.0,KIDS,"Medias, Ropa Interior, Nina, Ropa",Menta,9-11
+1059,Jogger en Mezclas Algodón para Niño 14426,119900.0,0.0,KIDS,"Pantalones, Ropa, Nino",Aguamarina,8-9
+1060,Polo A Rayas para Niño 02880,66000.0,-40.0,KIDS,"Polos, Ropa, Nino",Beige,8-9
+1061,Camisa en Mezclas Poliéster para Niño 14158,67425.0,-25.0,KIDS,"Camisas, Ropa, Nino",Carmesí,12
+1063,Camisa en Algodón para Niño 14423,84900.0,0.0,KIDS,"Camisas, Ropa, Nino",Blanco,12
+1064,Jogger con Cordón Ajustable para Niño 14363,104900.0,0.0,KIDS,"Pantalones, Ropa, Nino",Menta,12
+1065,Sobrecamisa Unicolor para Niña 14636,127415.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Lavanda,8-9
+1066,Camiseta Mezclas Poliéster para Niña 14407,50915.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Azul Malibú,12
+1067,Buzo para Niña con Mezclas Poliéster 14204,57675.0,-25.0,KIDS,"Ropa, Buzos, Nina",Beige,12
+1068,Camiseta Bob Esponja para Niño 14447,50915.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Beige,12
+1069,Pantalón para Niño Composición Algodón 02885,142500.0,-25.0,KIDS,"Pantalones, Ropa, Nino",Khaki,14
+1070,Bermuda para Niño en Mezclas Poliéster 14314,80665.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Sandía,12
+1071,Pantalón de Cuadros para Niño 13849,77935.0,-35.0,KIDS,"Pantalones, Ropa, Nino",Gris Granito,12
+1072,Suéter en Mezclas de Acrílico para Niña 14202,78675.0,-25.0,KIDS,"Suéteres, Nina, Ropa",Multicolor,12
+1073,Chaqueta Unicolor para Niña 14201,93675.0,-25.0,KIDS,"Ropa, Chaquetas, Nina",Hueso,12
+1074,Camisa Manga Corta Rayas para Niño 14045,68175.0,-25.0,KIDS,"Camisas, Ropa, Nino",Blanco,12
+1075,Camisa para Niña Composición Algodón 01305,38500.0,-65.0,KIDS,"Ropa, Nina, Camisetas",Multicolor,12
+1076,Buzo con Estampado para Niño 14259,56175.0,-25.0,KIDS,"Ropa, Buzos, Nino",Turquesa,12
+1077,Pantalón Lino Unicolor para Niño 13561,112900.0,0.0,KIDS,"Pantalones, Ropa, Nino",Blanco,12
+1078,Blusa con Detalle de Nido de Abeja para Niña 14206,63675.0,-25.0,KIDS,"Ropa, Camisas y Blusas, Nina",Rosa Lavanda,12
+1079,Camisa Manga de Snoopy para Niño 14056,74685.0,-35.0,KIDS,"Camisas, Ropa, Nino",Turquesa,12
+1080,Camiseta para Niña Mezclas Algodón 01812,31500.0,-65.0,KIDS,"Ropa, Nina, Camisetas",Beige,10-11
+1081,Blusa Mezclas en Algodón para Niña 14207,65175.0,-25.0,KIDS,"Ropa, Camisas y Blusas, Nina",Azul Malibú,12
+1082,Pantalón con Pretina Ajustable para Niña 14229,86175.0,-25.0,KIDS,"Pantalones, Nina, Ropa",Hueso,12
+1083,Medias Unicolor para Niño 13949,10900.0,0.0,KIDS,"Medias, Ropa Interior, Ropa, Nino",Azul Prusia,9-11
+1084,Pantalón Unicolor Tipo Chino para Niño 13851,74925.0,-25.0,KIDS,"Pantalones, Ropa, Nino",Ganache,12
+1085,Camiseta con Estampado para Niña 14217,26940.0,-40.0,KIDS,"Ropa, Nina, Camisetas",Rosa Lavanda,12
+1086,Sandalias Flip Flop para Niño 02953,34000.0,-15.0,KIDS,"Sandalias, Zapatos, Nino",Negro,33-34
+1087,Enterizo Estampado para Niña 14226,82425.0,-25.0,KIDS,"Ropa, Vestidos, Nina",Beige,12
+1088,Jogger con Estampado de Hot Wheels para Niño 14117,62175.0,-25.0,KIDS,"Pantalones, Ropa, Nino",Beige,12
+1089,Pantalón Unicolor para Niño 14228,59925.0,-25.0,KIDS,"Pantalones, Nina, Ropa",Rosa Lavanda,12
+1090,Chaqueta en Bloques de Color para Niña 13877,92175.0,-25.0,KIDS,"Ropa, Chaquetas, Nina",Fucsia,12
+1091,Chaqueta en Denim para Niña 12432,79885.0,-35.0,KIDS,"Ropa, Chaquetas, Nina",Azul,12
+1092,Blusa Unicolor para Niña 14205,59925.0,-25.0,KIDS,"Ropa, Camisas y Blusas, Nina",Beige,12
+1093,Sandalias Flip Flop para Niño 12581,24950.0,-50.0,KIDS,"Sandalias, Zapatos, Nino",Coral,33-34
+1094,Botas con Detalles en La Capellada para Niño 14459,109900.0,0.0,KIDS,"Zapatos, Nino",Blanco,36
+1095,Blusa Crop Top Unicolor para Niña 14008,50175.0,-25.0,KIDS,"Ropa, Camisas y Blusas, Nina",Amarillo Zinc,12
+1096,Tenis Capellada en Textil para Niño 14464,109900.0,0.0,KIDS,"Tenis, Zapatos, Nino",Gris Granito,36
+1097,Jean Silueta Balloon Fit para Niña 14147,78675.0,-25.0,KIDS,"Pantalones, Nina, Ropa",Aguamarina,12
+1098,Polo de Bob Esponja para Niño 14442,67915.0,-15.0,KIDS,"Polos, Ropa, Nino",Beige,12
+1099,Sandalias para Niña 14233,76415.0,-15.0,KIDS,"Nina, Zapatos, Sandalias",Multicolor,35
+1100,Pantaloneta de Baño para Niño en Poliéster 02897,110500.0,-15.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Aguamarina,14
+1101,Polo Estampada de Los Looney Tunes para Niño 14641,63665.0,-15.0,KIDS,"Polos, Ropa, Nino",Azul Prusia,12
+1102,Botas Color Negro para Niña 14102,149900.0,0.0,KIDS,"Nina, Zapatos, Botas",Negro,35
+1103,Pantaloneta Unicolor de Baño para Niño 14182,40140.0,-40.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Azul Marino,12
+1104,Suéter con Mezclas en Acrílico para Niño 14155,74925.0,-25.0,KIDS,"Suéteres, Ropa, Nino",Hueso,12
+1105,Bermuda con Pretina Ajustable para Niño 14368,59415.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Hueso,12
+1108,Camiseta Estampada Looney Tunes para Niño 14644,55165.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Verde Malaquita,12
+1109,Camiseta Estampada Minions para Niño 14394,59415.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Aguamarina,12
+1110,Camisa para Niño Mezclas Algodón 02875,170000.0,0.0,KIDS,"Camisas, Ropa, Nino",Hueso,14
+1111,Camiseta Bob Esponja para Niño 14444,50915.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Azul Malibú,12
+1113,Camiseta Estampada Looney Tunes para Niño 14643,50065.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Beige,12
+1114,Pantalón en Mezclas Poliéster para Niño 14425,79900.0,0.0,KIDS,"Pantalones, Ropa, Nino",Azul Prusia,12
+1115,Buzo con Estampado de Dinosaurio para Niño 14157,59925.0,-25.0,KIDS,"Ropa, Buzos, Nino",Negro,12
+1116,Camiseta Estampada Looney Tunes para Niño 14647,59415.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Escarlata,12
+1117,Jogger Cargo para Niño 14364,79900.0,0.0,KIDS,"Pantalones, Ropa, Nino",Abeto,12
+1118,Pantalón con Pretina Ajustable para Niño 12927,102900.0,0.0,KIDS,"Pantalones, Ropa, Nino","Khaki, Azul Prusia",12
+1119,Short en Jean para Niña 14419,76415.0,-15.0,KIDS,"Shorts, Nina, Ropa",Azul Claro,12
+1120,Pijama Estampada para Niño 14187,67425.0,-25.0,KIDS,"Ropa, Pijamas, Nino",Gris,12
+1121,Camiseta Estampada de Los Looney Tunes para Niño 14605,59415.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Beige,12
+1122,Buzo para Niño Mezclas Poliéster 14352,99900.0,0.0,KIDS,"Ropa, Buzos, Nino",Amarillo,12
+1123,Jogger Composición Algodón para Niña 14412,99900.0,0.0,KIDS,"Pantalones, Nina, Ropa",Beige,12
+1124,Camisa Unicolor Manga Corta para Niño 14706,119900.0,0.0,KIDS,"Camisas, Ropa, Nino",Índigo,12
+1125,Jogger con Estampado para Niño 14313,64900.0,0.0,KIDS,"Pantalones, Ropa, Nino",Aguamarina,12
+1126,Jogger con Estampado de Hot Wheels para Niño 14113,62175.0,-25.0,KIDS,"Pantalones, Ropa, Nino",Azul Marino,12
+1127,Camisa para Niño Mezclas Algodón 02936,97500.0,-25.0,KIDS,"Camisas, Ropa, Nino",Rosa Amaranto,12
+1128,Vestido para Niña en Mezclas Poliéster 14349,59900.0,0.0,KIDS,"Ropa, Vestidos, Nina",Azul Malibú,12
+1129,"Camiseta para Niña, Mezclas Poliéster. 14347",33915.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Rosa Amaranto,12
+1130,Polo Estampada para Niño 14328,42415.0,-15.0,KIDS,"Polos, Ropa, Nino",Beige,12
+1131,Sandalias Flip Flop para Niño 12582,17465.0,-65.0,KIDS,"Sandalias, Zapatos, Nino",Lima,33-34
+1132,Buzo en Bloque con Estampado para Niño 14156,63675.0,-25.0,KIDS,"Ropa, Buzos, Nino",Beige,12
+1133,Jean Diseño Bota Acampanada para Niña 14414,104900.0,0.0,KIDS,"Pantalones, Nina, Ropa",Aguamarina,12
+1134,Jean con Diseño Corte Delantero para Niña 14411,104900.0,0.0,KIDS,"Pantalones, Nina, Ropa",Azul Claro,12
+1135,"Chaqueta Tornasolada, para Niña . 14340",99900.0,0.0,KIDS,"Ropa, Chaquetas, Nina",Rosa Amaranto,12
+1136,Jean con Mezclas Algodón para Niño 14396,99900.0,0.0,KIDS,"Ropa, Jeans, Nino",Aguamarina,12
+1137,Falda con Cintura Elástica para Niña 14389,84900.0,0.0,KIDS,"Ropa, Nina, Faldas",Beige,12
+1138,Camisa en Algodón para Niño 14406,89900.0,0.0,KIDS,"Camisas, Ropa, Nino",Palo de Rosa,12
+1139,Camisa para Niño Mezclas Algodón 14269,59925.0,-25.0,KIDS,"Camisas, Ropa, Nino",Rosa Lavanda,12
+1140,Jean Composición en Algodón para Niña 14124,74925.0,-25.0,KIDS,"Pantalones, Nina, Ropa",Azul Prusia,12
+1141,Vestido Estampado para Niña 14245,89925.0,-25.0,KIDS,"Ropa, Vestidos, Nina",Multicolor,12
+1142,Tenis con Detalles en La Capellada para Niño 14472,89900.0,0.0,KIDS,"Tenis, Zapatos, Nino",Negro,36
+1143,Jean Pretina Ajustable para Niño 14409,114900.0,0.0,KIDS,"Ropa, Jeans, Nino",Azul Claro,12
+1144,Jogger Tipo Cargo para Niño 13855,82425.0,-25.0,KIDS,"Pantalones, Ropa, Nino",Café,12
+1145,Camiseta con Estampado para Niño 14171,25740.0,-40.0,KIDS,"Ropa, Camisetas, Nino",Azul Malibú,12
+1146,Pantalón con Mezclas de Algodón para Niño 14365,109900.0,0.0,KIDS,"Pantalones, Ropa, Nino",Gris,12
+1147,Blusa Rosa de Verano para Niña 14014,52425.0,-25.0,KIDS,"Ropa, Camisas y Blusas, Nina",Palo de Rosa,12
+1148,Medias Mezclas Algodón para Niño 14357,24900.0,0.0,KIDS,"Medias, Ropa Interior, Ropa, Nino",Multicolor,9-11
+1149,Short con Cintura Encauchada para Niña 13993,67915.0,-15.0,KIDS,"Shorts, Nina, Ropa",Fucsia,12
+1150,Suéter Tejido para Niño 13969,60385.0,-35.0,KIDS,"Suéteres, Ropa, Nino",Azul Royal,12
+1151,Vestido Fucsia para Niña 14244,71175.0,-25.0,KIDS,"Ropa, Vestidos, Nina",Fucsia,12
+1152,Falda en Denim para Niña 14230,63675.0,-25.0,KIDS,"Ropa, Nina, Faldas",Azul Royal,12
+1153,Bermuda Lino Unicolor para Niño 13559,97665.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Blanco,12
+1154,Tenis de Moda Cómodos para Niño 14336,129900.0,0.0,KIDS,"Tenis, Zapatos, Nino",Verde Enebro,36
+1155,Camiseta con Estampado de Palmeras para Niña 14221,25740.0,-40.0,KIDS,"Ropa, Nina, Camisetas",Aguamarina,12
+1156,Buzo de Colores para Niña 13881,52425.0,-25.0,KIDS,"Ropa, Buzos, Nina",Multicolor,12
+1157,Camiseta con Diseño en Frente para Niña 13928,28140.0,-40.0,KIDS,"Ropa, Nina, Camisetas",Blanco,12
+1158,Blusa con Detalles de Flores para Niña 14009,67425.0,-25.0,KIDS,"Ropa, Camisas y Blusas, Nina",Arena,12
+1159,Pantalón con Pretina Ajustable para Niño 13854,74925.0,-25.0,KIDS,"Pantalones, Ropa, Nino",Marrón,12
+1160,Pantaloneta de Baño en Bloques para Niño 13872,36450.0,-50.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Beige,2-3
+1161,Camisa Manga Unicolor para Niño 12922,99900.0,0.0,KIDS,"Camisas, Ropa, Nino","Azul Royal, Blanco",12
+1162,Camiseta Estampada Lentejuelas para Niña 13926,21450.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Khaki,12
+1163,Camiseta Estampada para Niña 14212,29940.0,-40.0,KIDS,"Ropa, Nina, Camisetas",Azul Malibú,12
+1164,Camiseta Unicolor con Estampado para Niña 14067,29450.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Amarillo,12
+1165,Gorro Tejido Diseño Sushi para Niño 11961,16450.0,-50.0,KIDS,"Accesorios, Gorras, Gorros y Boinas, Nino",Escarlata,UNICA
+1166,Pack x 3 Bóxer Estampado en Algodón para Niño 14424,74900.0,0.0,KIDS,"Ropa, Ropa Interior, Bóxers, Nino",Multicolor,12
+1167,Jean Pretina Interna Ajustable para Niño 12928,99900.0,0.0,KIDS,"Ropa, Jeans, Nino",Azul Prusia,12
+1168,Blusa Unicolor para Niña 13894,52425.0,-25.0,KIDS,"Ropa, Camisas y Blusas, Nina",Rosa Amaranto,12
+1169,Pantaloneta de Baño para Niño en Poliéster 02892,110500.0,-15.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Aguamarina,14
+1170,Tenis Unicolor Sin Cordones para Niña 12232,54950.0,-50.0,KIDS,"Tenis, Nina, Zapatos","Rosa Francés, Gris Grafito",35
+1171,Camisa Estampada de Los Looney Tuns para Niño 14639,94900.0,0.0,KIDS,"Camisas, Ropa, Nino",Beige,12
+1172,Jean Pretina Ajustable para Niño 14576,109900.0,0.0,KIDS,"Ropa, Jeans, Nino",Aguamarina,8-9
+1173,Pantalón con Pretina Ajustable para Niño 12927,102900.0,0.0,KIDS,"Pantalones, Ropa, Nino","Khaki, Azul Prusia",12
+1174,Polo con Bloques de Color para Niño 14317,50915.0,-15.0,KIDS,"Polos, Ropa, Nino",Beige,12
+1175,Pack x 3 Tops Estampados para Niña 10460,24950.0,-50.0,KIDS,"Ropa, Ropa Interior, Tops, Nina",Multicolor,12
+1176,Jean Pretina Ajustable para Niño 14249,83925.0,-25.0,KIDS,"Ropa, Jeans, Nino",Azul Prusia,12
+1177,Camiseta Estampada para Niño 14322,46665.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Beige,12
+1178,Buzo Estampado para Niña 14563,89900.0,0.0,KIDS,"Ropa, Buzos, Nina",Violeta,12
+1179,Short con Pretina Ajustable para Niña 14586,76415.0,-15.0,KIDS,"Shorts, Nina, Ropa",Aguamarina,12
+1180,Polo Estampada de Los Looney Tunes para Niño 14640,63665.0,-15.0,KIDS,"Polos, Ropa, Nino",Beige,12
+1181,Camiseta Estampada para Niña 14545,48365.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Beige,12
+1182,Polo Azul con Mangas Crema para Niño 14561,55165.0,-15.0,KIDS,"Polos, Ropa, Nino",Azul Royal,12
+1183,Camiseta Unicolor para Niña 14637,42415.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Aguamarina,12
+1184,Polo Diseño en Contraste para Niño 14657,59415.0,-15.0,KIDS,"Polos, Ropa, Nino",Verde Malaquita,12
+1185,Buzo para Niña Mezclas Poliéster 14378,64900.0,0.0,KIDS,"Ropa, Buzos, Nina",Beige,12
+1186,Buzo en Mezclas Viscosa para Niña 14377,69900.0,0.0,KIDS,"Ropa, Buzos, Nina",Rosa Francés,12
+1187,Camiseta Estampada Looney Tunes para Niña 14543,48365.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Fucsia,12
+1188,Jean Pretina Ajustable para Niño 13795,71175.0,-25.0,KIDS,"Ropa, Jeans, Nino",Café Mocca,12
+1191,Camiseta Unicolor para Niña 14453,42415.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Beige,12
+1192,Camisa para Niño Mezclas Algodón 02937,130000.0,0.0,KIDS,"Camisas, Ropa, Nino",Blanco,12
+1193,Bermuda Unicolor para Niño 14672,80665.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Abeto,8-9
+1194,Camiseta Aqua Estampada para Niño 14360,50915.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Menta,12
+1195,Camiseta Unicolor para Niño 14428,33915.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Blanco,12
+1196,Camiseta en Algodón para Niña 14385,42415.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Beige,12
+1197,Camisa Manga Larga para Niño 14528,104900.0,0.0,KIDS,"Camisas, Ropa, Nino",Abeto,12
+1198,Bermuda Encauchada para Niño 14600,80665.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Carmesí,8-9
+1199,Blusa Composición en Viscosa para Niña 14380,54900.0,0.0,KIDS,"Ropa, Camisas y Blusas, Nina",Rosa Francés,8-9
+1200,Bermuda con Pretina Ajustable para Niño 14315,76415.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Habano,12
+1201,Pantalón para Niño Composición Algodón. 13857,83925.0,-25.0,KIDS,"Pantalones, Ropa, Nino",Azul Marino,12
+1202,Jean Pretina Ajustable para Niño 14215,82425.0,-25.0,KIDS,"Ropa, Jeans, Nino",Aguamarina,12
+1203,Camisa para Niña Mezclas Poliéster 01621,28000.0,-65.0,KIDS,"Ropa, Nina, Camisetas",Beige,12
+1204,Camiseta Composición Algodón para Niña 14213,28140.0,-40.0,KIDS,"Ropa, Nina, Camisetas",Beige,12
+1205,Tenis para Niño 14076,71435.0,-35.0,KIDS,"Tenis, Zapatos, Nino",Chocolate,36
+1206,Pantalón Casual para Niña 14035,67425.0,-25.0,KIDS,"Pantalones, Nina, Ropa",Turquesa,12
+1207,Botas Unicolor para Niño 14335,129900.0,0.0,KIDS,"Zapatos, Nino",Beige,36
+1208,Camisa Unicolor Manga Larga para Niño 13909,67425.0,-25.0,KIDS,"Camisas, Ropa, Nino",Amarillo Zinc,12
+1209,Camiseta con Estampado de Tigre para Niño 14167,28140.0,-40.0,KIDS,"Ropa, Camisetas, Nino",Azul Malibú,12
+1210,Camiseta Estampada para Niña 14211,32940.0,-40.0,KIDS,"Ropa, Nina, Camisetas",Beige,12
+1211,Maleta de Viaje Mediana Textil Ruedas 360° 00137,254915.0,-15.0,VIAJE,"Maletas de Viaje, Maletas de viaje medianas","Turquesa, Azul Prusia",24.5
+1215,Maleta de Viaje Mediana Ruedas 360° 00143,203940.0,-40.0,VIAJE,"Maletas de Viaje, Maletas de viaje medianas","Morado, Rojo, Gris, Gris Ceniza",24.5
+1216,Maleta de Viaje Mediana Textil Ruedas 20211,203940.0,-40.0,VIAJE,"Maletas de Viaje, Maletas de viaje medianas",Azul Royal,24.5
+1217,Balanza Digital para Equipaje 82480,26900.0,0.0,VIAJE,Accesorios de Viaje,Negro,UNICA
+1218,Identificador de Maletas 89139,9500.0,0.0,VIAJE,Accesorios de Viaje,"Azul, Negro, Aguamarina, Naranja, Azul Prusia, Sandía, Lima, Escarlata",UNICA
+1219,Maleta Rígida Unicolor 08284,186915.0,-15.0,VIAJE,Maletas de Viaje,"Azul Marino, Negro",24
+1220,Maleta Rígida Unicolor 08284,186915.0,-15.0,VIAJE,Maletas de Viaje,"Azul Marino, Negro",24
+1221,Bolsas Organizadoras de Equipaje Multifuncional 88858,27900.0,0.0,VIAJE,Accesorios de Viaje,"Negro, Azul Prusia, Azul Marino, Gris, Escarlata",L
+1222,Bermuda de Jean con Bolsillos Tipo Chino 38470,110415.0,-15.0,HOMBRE,"Ropa, Bermudas",Azul Prusia,42
+1223,Zapato Formal con Suela en Contraste para Hombre 31597,239900.0,0.0,HOMBRE,"Zapatos Formales, Zapatos","Negro, Chocolate",42
+1226,Pantalón Formal para Hombre Silueta Semi Slim Fit 32038,100035.0,-35.0,HOMBRE,"Pantalones, Pantalones Formales, Ropa",Negro,42
+1227,Suéter Cuello V Básico para Hombre 10860,74925.0,-25.0,HOMBRE,"Ropa, Suéteres y Cardigans","Negro, Abeto, Gris Grafito",L
+1228,Camisa Formal Silueta Regular Fit para Hombre 32260,67950.0,-50.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+1229,Blazer Business Slim Fit para Hombre 21071,174450.0,-50.0,HOMBRE,"Ropa, Blazers",Abeto,L
+1230,Camiseta Semioversize con Estampado para Hombre 04949,41940.0,-40.0,HOMBRE,"Ropa, Camisetas",Café Oscuro,L
+1231,Pantalón Unicolor Slim Fit para Hombre 10928,74925.0,-25.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales","Negro, Verde Oscuro, Navy, Gris Oscuro, Ganache",38
+1232,Pantalón Unicolor Regular Fit para Hombre 09951,67425.0,-25.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales","Negro, Navy, Abeto, Gris Oscuro, Arena",42
+1233,Camiseta Moda Slim Fit para Hombre 24907,34950.0,-50.0,HOMBRE,"Ropa, Camisetas",Multicolor,L
+1234,Bota Bussines Chelsea Contraste de Cueros 30010,180635.0,-35.0,HOMBRE,"Zapatos, Botas","Chocolate, Azul Prusia",42
+1235,Bota Bussines Chelsea Contraste de Cueros 30010,180635.0,-35.0,HOMBRE,"Zapatos, Botas","Chocolate, Azul Prusia",42
+1236,Mocasín Driver con Sesgo Moda 31872,166335.0,-35.0,HOMBRE,"Mocasines, Zapatos","Café Mocca, Negro",42
+1237,Jean Slim Fit Unicolor para Hombre 10770,77935.0,-35.0,HOMBRE,"Ropa, Jeans",Aguamarina,40
+1238,Camiseta en Silueta Slim Fit para Hombre 00965,49000.0,-65.0,HOMBRE,"Ropa, Camisetas",Naranja,L
+1239,Camisa Formal Slim Fit para Hombre 07100,59925.0,-25.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+1240,Pantalón Formal para Hombre 05112,77450.0,-50.0,HOMBRE,"Pantalones, Pantalones Formales, Ropa",Gris Carbón,42
+1241,Traje Rayas Actual Fit 92645,374985.0,-35.0,HOMBRE,"Ropa, Trajes",Gris Oscuro,42
+1242,Camisa Casual Unicolor Manga Larga para Hombre 08959,45435.0,-35.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul,L
+1243,Camiseta Básica Estampada para Hombre 11639,22450.0,-50.0,HOMBRE,"Ropa, Camisetas",Navy,L
+1244,Camisa Casual Cuadros Slim Fit para Hombre 10572,38935.0,-35.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Navy,L
+1245,Camisa Unicolor para Niño 13906,67425.0,-25.0,KIDS,"Camisas, Ropa, Nino",Khaki,12
+1246,Jogger Cargo Unicolor para Niño 14145,69675.0,-25.0,KIDS,"Pantalones, Ropa, Nino",Azul Marino,12
+1247,Chaleco Cuello Alto para Hombre 23611,148785.0,-35.0,HOMBRE,"Ropa, Chalecos, Chalecos Casuales","Índigo, Gris Oscuro",L
+1248,Polo Rayas Moda Regular Fit para Hombre 33530,59940.0,-40.0,HOMBRE,"Polos, Ropa",Arena,L
+1249,Chaqueta Clásica en Denim para Hombre 11725,107185.0,-35.0,HOMBRE,"Ropa, Chaquetas",Azul Prusia,L
+1250,Tenis Unicolor con Combinación de Textura 03563,132450.0,-50.0,HOMBRE,"Tenis, Zapatos","Beige, Negro",42
+1251,Camiseta Estampada para Niña 14034,23450.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Lima,12
+1252,Camiseta con Estampado en Frente para Niña 13938,21450.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Azul Claro,12
+1253,Pantalón para Hombre en Mezclas Algodón 02537,115000.0,-50.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Blanco,42
+1254,Pijama Estampada para Niño 13975,65175.0,-25.0,KIDS,"Ropa, Pijamas, Nino",Beige,12
+1255,Vestido de Baño Dos Piezas para Niña 11700,52465.0,-65.0,KIDS,"Vestidos de Baño, Nina, Ropa",Mostaza,12
+1256,Pantaloneta de Baño Estampada para Hombre 02401,59500.0,-65.0,HOMBRE,"Ropa, Pantalonetas",Beige,L
+1257,Camiseta Estampada para Hombre 12522,29940.0,-40.0,HOMBRE,"Ropa, Camisetas",Beige,L
+1258,Camiseta Oversize con Estampado para Hombre 04809,35940.0,-40.0,HOMBRE,"Ropa, Camisetas",Blanco,L
+1259,Zapato Formal Tipo Oxford 27639,167635.0,-35.0,HOMBRE,"Zapatos Formales, Zapatos","Canela, Negro",42
+1260,Camiseta Estampada de Barbie para Niña 14090,28450.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Beige,12
+1261,Camiseta Unicolor para Niña 13923,23450.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Rosa Sachet,12
+1262,Camiseta con Estampado en Frente para Hombre 04948,32940.0,-40.0,HOMBRE,"Ropa, Camisetas",Negro,L
+1263,Bota Diseño Deportivo para Niño 14070,77935.0,-35.0,KIDS,"Zapatos, Nino",Gris Grafito,36
+1264,Camiseta Unicolor con Estampado en Frente para Niña 13925,23450.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Beige,12
+1265,Camiseta con Estampado en Frente para Niña 14010,23450.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Hueso,12
+1266,Camisa de Rayas Tipo Crop para Niña 14082,32450.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Lavanda,12
+1267,Pantalón Casual Wf Unicolor Regular Fit para Hombre 32451,110435.0,-35.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Granate,42
+1268,Pantalón Casual Wf Regular Fit para Hombre 36183,84950.0,-50.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Granate,42
+1269,Camichaqueta Cuadros para Hombre 34417,108450.0,-50.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Hueso,L
+1270,Mocasín Casual en Cuero para Hombre 34623,104950.0,-50.0,HOMBRE,"Mocasines, Zapatos","Café Mocca, Negro",42
+1271,Pantalon Business Slim Fit para Hombre 24331,104950.0,-50.0,HOMBRE,"Pantalones Business, Ropa, Pantalones",Verde Oscuro,40
+1272,Pantaloneta de Baño Estampada para Hombre 02396,59500.0,-65.0,HOMBRE,"Ropa, Pantalonetas",Beige,L
+1273,Pantalón para Hombre Composición Algodón 02373,95000.0,-50.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Avellana,40
+1274,Camisa para Hombre Mezclas Algodón 02093,104000.0,-35.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Claro,L
+1275,Bermuda para Hombre Composición Poliéster 02029,59500.0,-65.0,HOMBRE,"Ropa, Pantalonetas",Amarillo,L
+1276,Pantalón Unicolor Regular Fit para Hombre 29971,77450.0,-50.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Negro,42
+1277,Chaqueta Unicolor Acolchada para Hombre 11238,108675.0,-25.0,HOMBRE,"Ropa, Chaquetas","Gris Oscuro, Granate, Negro, Navy",L
+1278,Camisa Formal Silueta Regular Fit para Hombre 31585,79235.0,-35.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Turquesa,40
+1279,Pantalón Unicolor Slim Fit para Hombre 29691,74950.0,-50.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Gris Granito,42
+1280,Botas Formales para Hombre 23978,116950.0,-50.0,HOMBRE,"Zapatos, Botas","Negro, Chocolate",42
+1281,Camisa Formal Algodón Premium para Hombre Regular Fit 25405,81950.0,-50.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+1282,Zapato Business en Cuero con Brogue y Acabado Vintage 35417,220935.0,-35.0,HOMBRE,"Zapatos Casual, Zapatos","Marrón, Negro",42
+1283,Zapato Business en Cuero con Brogue y Acabado Vintage 34626,194935.0,-35.0,HOMBRE,"Zapatos Casual, Zapatos","Canela, Negro",42
+1284,Pantalón Tipo Slouchy Unicolor para Hombre 05145,64950.0,-50.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Verde Enebro,36
+1285,Pantalón Unicolor Súper Slim Fit para Hombre 34147,54950.0,-50.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Granate,38
+1286,Mocasín Unicolor para Niña 14128,77935.0,-35.0,KIDS,"Tenis, Nina, Zapatos",Arena,35
+1287,Polo Textura Bicolor para Hombre 34935,71940.0,-40.0,HOMBRE,"Polos, Ropa","Pistacho, Azul Prusia",L
+1288,Camisa Rayas Manga Larga para Hombre 30243,71950.0,-50.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Prusia,L
+1289,Camisa con Estampado en Espalda para Niña 14083,37450.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Azul Claro,12
+1290,Falda Tipo Tull con Short para Niña 13991,52425.0,-25.0,KIDS,"Ropa, Nina, Faldas",Fucsia,12
+1291,Camisa Manga Larga para Niño 13905,130425.0,-25.0,KIDS,"Camisas, Ropa, Nino",Hueso,12
+1292,Botas Color Cafe para Niño 14075,81185.0,-35.0,KIDS,"Zapatos, Nino",Chocolate,36
+1293,Buzo Abierto para Niño 13820,72675.0,-25.0,KIDS,"Ropa, Buzos, Nino",Verde Malaquita,12
+1294,Pantalón Bota Recta Efecto Platinado 04797,84435.0,-35.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Gris Perla,L
+1295,Saco para Niños 12099,112950.0,-50.0,KIDS,"Ropa, Blazers, Nino",Azul Marino,12
+1296,Pantalón Unicolor Súper Slim Fit para Hombre 32635,84435.0,-35.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Negro,42
+1297,Pantalón Unicolor Súper Slim Fit para Hombre 30547,64950.0,-50.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Gris Granito,38
+1298,Zapato Formal Suela Translúcida 23966,175435.0,-35.0,HOMBRE,"Zapatos Formales, Zapatos","Canela, Negro",42
+1299,Chaqueta Cuello Alto para Hombre 23594,245925.0,-25.0,HOMBRE,"Ropa, Chaquetas","Negro, Ganache",L
+1300,Camiseta Oversize con Estampado para Hombre 04925,20965.0,-65.0,HOMBRE,"Ropa, Camisetas",Blanco,L
+1301,Chaqueta Cuello Alto para Hombre 18057,262425.0,-25.0,HOMBRE,"Ropa, Chaquetas","Negro, Ganache",L
+1302,Camiseta Estampada Regular Fit para Hombre 27003,28950.0,-50.0,HOMBRE,"Ropa, Camisetas",Amarillo Zinc,L
+1303,Polo con Miniprint para Hombre 11295,29950.0,-50.0,HOMBRE,"Polos, Ropa",Amarillo Limón,L
+1304,Camisa Business Unicolor para Hombre 09756,51935.0,-35.0,HOMBRE,"Camisas, Camisas Business, Ropa",Vinotinto,L
+1305,Blusa Unicolor para Niña 13899,52425.0,-25.0,KIDS,"Ropa, Camisas y Blusas, Nina",Blanco,12
+1306,Chaleco Estampado Snoopy para Hombre 04922,67425.0,-25.0,HOMBRE,"Ropa, Chalecos, Chalecos Casuales",Verde Oscuro,L
+1307,Zapato Diseño Casual Azul para Niño 14026,71435.0,-35.0,KIDS,"Zapatos, Nino",Azul Marino,36
+1308,Camiseta Unicolor Detalle Frente para Niña 13933,21450.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Lavanda,12
+1309,Blusa Diseño Unicolor para Niña 13922,23450.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Amarillo,12
+1310,Camiseta Estampada Regular Fit para Hombre 08798,28950.0,-50.0,HOMBRE,"Ropa, Camisetas",Gris Carbón,L
+1311,Falsa Diseño Volantes Estampados para Niña 14037,59925.0,-25.0,KIDS,"Ropa, Nina, Faldas",Turquesa,12
+1312,Buzo Estampado Snoopy para Niña 13882,67425.0,-25.0,KIDS,"Ropa, Buzos, Nina",Verde Malaquita,12
+1313,Pantalón Unicolor Slim Fit para Hombre 10924,78675.0,-25.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales","Beige, Café Oscuro, Vinotinto, Azul Prusia",32
+1314,Pantalón Aglobado Tipo Jogger Unicolor 04818,97425.0,-25.0,HOMBRE,"Pantalones, Ropa, Joggers",Hueso,L
+1315,Polo Colección Snoopy para Niño 13827,41450.0,-50.0,KIDS,"Polos, Ropa, Nino",Beige,12
+1316,Suéter Tejido Cuello Redondo para Niño 13967,60385.0,-35.0,KIDS,"Suéteres, Ropa, Nino",Verde,12
+1317,Camiseta Unicolor para Niña 13934,19950.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Blanco,12
+1318,Jean Regular Fit para Hombre 34451,100035.0,-35.0,HOMBRE,"Ropa, Jeans",Azul Prusia,42
+1319,Camisa Manga Larga para Niño 13904,50950.0,-50.0,KIDS,"Camisas, Ropa, Nino",Blanco,12
+1320,Camisa Manga Larga Estampada para Hombre 04972,67450.0,-50.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Blanco,L
+1321,Camiseta Estampada de Barbie para Niña 14091,27450.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Rosado,12
+1322,Jogger en Tejido de Punto para Hombre 11387,48675.0,-25.0,HOMBRE,"Pantalones, Ropa, Joggers","Negro, Gris Granito, Azul Prusia",L
+1323,Pantalón Tipo Parachutte Unicolor 04794,64950.0,-50.0,HOMBRE,"Pantalones, Ropa, Joggers",Gris Ceniza,L
+1324,Camisa Cuadros Manga Larga para Hombre 33004,73450.0,-50.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Blanco,L
+1325,Camisa Business Textura para Hombre 09647,45435.0,-35.0,HOMBRE,"Camisas, Camisas Business, Ropa",Granate,L
+1326,Camisa Business Estampada Manga Larga para Hombre 21688,62950.0,-50.0,HOMBRE,"Camisas, Camisas Business, Ropa",Azul Malibú,L
+1327,Suéter Cuello Alto para Hombre 25140,81185.0,-35.0,HOMBRE,"Ropa, Suéteres y Cardigans","Ganache, Verde Oscuro",L
+1328,Pantalón Unicolor para Niña 13624,52450.0,-50.0,KIDS,"Pantalones, Nina, Ropa",Habano,12
+1329,Jean Slim para Hombre 32665,85450.0,-50.0,HOMBRE,"Ropa, Jeans",Aguamarina,38
+1330,Camisa Formal Silueta Regular Fit para Hombre 30968,77935.0,-35.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Palo de Rosa,42
+1331,Bermuda en Denim Slim Fit para Hombre 31489,39515.0,-65.0,HOMBRE,"Ropa, Bermudas",Ganache,42
+1332,Pantalón Business Regular Fit para Hombre 33854,71950.0,-50.0,HOMBRE,"Pantalones Business, Ropa, Pantalones",Nuez,40
+1333,Camisa Formal Algodón Pima para Hombre Semi Slim Fit 32035,66950.0,-50.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+1334,Zapato Suela Casual 31870,122950.0,-50.0,HOMBRE,"Zapatos Casual, Zapatos",Canela,42
+1335,Zapato Formal con Vena en Puntera 27640,172185.0,-35.0,HOMBRE,"Zapatos Formales, Zapatos","Canela, Negro",42
+1336,Camisa Formal Silueta Semi Slim Fit para Hombre 32452,67450.0,-50.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+1337,Saco para Niño 13262,128450.0,-50.0,KIDS,"Ropa, Blazers, Nino",Khaki,12
+1338,Suéter Cuello V Moda para Hombre 10691,64935.0,-35.0,HOMBRE,"Ropa, Suéteres y Cardigans","Gris Granito, Azul Prusia",L
+1339,Pantalón Unicolor Slim Fit para Hombre 10522,67425.0,-25.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales","Gris Oscuro, Negro, Navy, Verde Oscuro",38
+1340,Camisa Estampada Manga Corta para Hombre 26075,56950.0,-50.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Prusia,L
+1341,Camisa Cuadros Manga Larga para Hombre 26122,93535.0,-35.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Navy,L
+1342,Zapatos Tipo Mocasín en Cuero para Hombre 30072,157235.0,-35.0,HOMBRE,"Mocasines, Zapatos","Café, Negro",42
+1343,Tenis Unicolor de Amarrar para Niño 13444,34965.0,-65.0,KIDS,"Tenis, Zapatos, Nino","Negro, Blanco",36
+1344,Bermuda Unicolor Slim Fit para Hombre 30973,69540.0,-40.0,HOMBRE,"Ropa, Bermudas","Orquídea, Navy",40
+1345,Pantalón Unicolor Súper Slim Fit para Hombre 30546,64950.0,-50.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Azul Prusia,38
+1346,Camisa Formal Silueta Regular Fit para Hombre 30972,77935.0,-35.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+1347,Camisa Formal Silueta Semi Slim Fit para Hombre 25398,58950.0,-50.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+1348,Camisa Formal Algodón Premium para Hombre 25384,79950.0,-50.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+1349,Botas Casuales en Cuero para Hombre 25436,168935.0,-35.0,HOMBRE,"Zapatos, Botas","Negro, Chocolate",42
+1350,Pantalón Casual WF Unicolor Regular Fit para Hombre 12231,110435.0,-35.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales","Gris, Azul Prusia, Nuez",42
+1351,Tenis Detalle en Talon para Niña 13133,44950.0,-50.0,KIDS,"Tenis, Nina, Zapatos",Blanco,35
+1352,Correa para Hombre Freedom 03244,27450.0,-50.0,HOMBRE,"Accesorios, Correas, Cinturones y Correas",Negro,L
+1353,Suéter Cuello Redondo Silueta Regular para Hombre 27506,68950.0,-50.0,HOMBRE,"Ropa, Suéteres y Cardigans","Beige, Negro",L
+1354,Botas en Cuero para Hombre 27039,164385.0,-35.0,HOMBRE,"Zapatos, Botas","Canela, Negro",42
+1355,Vestido de Baño Estampado para Niña 11973,59465.0,-65.0,KIDS,"Vestidos de Baño, Nina, Ropa",Multicolor,12
+1356,Jean con Efecto Patchworck para Hombre Freedom 03494,74950.0,-50.0,HOMBRE,"Ropa, Jeans",Índigo,36
+1357,Pantaloneta de Baño Estampada para Niño 01690,45500.0,-65.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Multicolor,14
+1358,Jean Cargo Silueta Skinny Hombre 02072,56950.0,-50.0,HOMBRE,"Ropa, Jeans",Aguamarina,36
+1359,Vestido de Baño Enterizo para Niña 11722,31465.0,-65.0,KIDS,"Vestidos de Baño, Nina, Ropa",Rosa Claro,12
+1360,Short Estampado Tiro Alto para Niña 11736,25515.0,-65.0,KIDS,"Shorts, Nina, Ropa",Negro,12
+1361,Vestido de Baño Estampado para Niña 10746,24465.0,-65.0,KIDS,"Vestidos de Baño, Nina, Ropa",Violeta,12
+1362,Polo Básica Ecológica para Niño 09871,29450.0,-50.0,KIDS,"Polos, Ropa, Nino","Índigo, Carmesí, Azul Prusia, Azul Malibú, Cadmio, Blanco",12
+1363,Camiseta Cuello Redondo Unicolor para Niño 13149,19950.0,-50.0,KIDS,"Ropa, Camisetas, Nino",Azul Malibú,12
+1364,Camiseta Unicolor Básica para Niño 13119,19950.0,-50.0,KIDS,"Ropa, Camisetas, Nino",Aguamarina,12
+1365,Camisa Casual Unicolor Slim Fit para Hombre 10097,51935.0,-35.0,HOMBRE,"Ropa, Camisas Casuales, Camisas",Negro,L
+1366,Camisa Business Estampada para Hombre 09261,45435.0,-35.0,HOMBRE,"Camisas, Camisas Business, Ropa",Granate,L
+1367,Camiseta Básica Unicolor para Hombre 09699,17450.0,-50.0,HOMBRE,"Ropa, Camisetas",Gris,L
+1368,Camisa Business Cuadros para Hombre 10671,38935.0,-35.0,HOMBRE,"Camisas, Camisas Business, Ropa",Blanco,L
+1369,Camisa Sport de Rayas Slim Fit para Hombre 10578,45435.0,-35.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul Malibú,L
+1370,Camisa Business Estampada para Hombre 10552,45435.0,-35.0,HOMBRE,"Camisas, Camisas Business, Ropa",Azul Malibú,L
+1371,Camiseta Estampada para Hombre 11305,22450.0,-50.0,HOMBRE,"Ropa, Camisetas",Navy,S
+1372,Camisa Casual Cuadros Manga Larga para Hombre 10592,48685.0,-35.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Esmeralda,L
+1373,Camiseta Estampada para Hombre 11187,17450.0,-50.0,HOMBRE,"Ropa, Camisetas",Navy,L
+1374,Pantaloneta de Baño Estampada para Hombre 10494,32450.0,-50.0,HOMBRE,"Ropa, Pantalonetas",Esmeralda,L
+1375,Camiseta Estampada para Hombre 11885,17450.0,-50.0,HOMBRE,"Ropa, Camisetas",Gris,L
+1376,Camiseta Estampada para Hombre 11303,17450.0,-50.0,HOMBRE,"Ropa, Camisetas",Navy,L
+1377,Pantaloneta de Baño Estampada para Hombre 10490,29950.0,-50.0,HOMBRE,"Ropa, Pantalonetas",Azul Marino,L
+1378,Blazer Unicolor para Niño 12893,135785.0,-35.0,KIDS,"Ropa, Blazers, Nino",Abeto,12
+1379,Blusa Diseño Unicolor Sin Mangas para Niña 13621,32450.0,-50.0,KIDS,"Ropa, Camisas y Blusas, Nina",Lavanda,12
+1380,Blusa Diseño Unicolor Manga Larga para Niña 13622,39950.0,-50.0,KIDS,"Ropa, Camisas y Blusas, Nina",Beige,12
+1381,Jean Pretina Ajustable para Niño 13797,74925.0,-25.0,KIDS,"Ropa, Jeans, Nino",Aguamarina,12
+1382,Jean Pretina Paper Bag para Niña 13798,67425.0,-25.0,KIDS,"Pantalones, Nina, Ropa",Beige,12
+1383,Jean Silueta Mom para Niña 13805,74925.0,-25.0,KIDS,"Pantalones, Nina, Ropa",Aguamarina,12
+1384,Jean Cargo Pretina Ajustable para Niño 13810,77175.0,-25.0,KIDS,"Ropa, Jeans, Nino",Beige,12
+1385,Jogger Cargo Pretina Ajustable para Niño 13812,67425.0,-25.0,KIDS,"Pantalones, Ropa, Nino",Canela,12
+1386,Buzo con Estampado para Niño 13818,56175.0,-25.0,KIDS,"Ropa, Buzos, Nino",Rojo Persa,12
+1387,Suéter Tejido para Niño 13823,60385.0,-35.0,KIDS,"Suéteres, Ropa, Nino",Gris,12
+1388,Camisa Tipo Polo con Estampado para Niño 13829,26450.0,-50.0,KIDS,"Polos, Ropa, Nino",Beige,12
+1389,Camiseta con Estampado en Frente para Niño 13838,24950.0,-50.0,KIDS,"Ropa, Camisetas, Nino",Azul Marino,12
+1390,Camiseta Estampada para Niño 13847,27450.0,-50.0,KIDS,"Ropa, Camisetas, Nino",Beige,12
+1391,Pantalón con Pretina Ajustable para Niño 13852,74925.0,-25.0,KIDS,"Pantalones, Ropa, Nino",Negro,12
+1392,Pantalón con Pretina Ajustable para Niño 13853,74925.0,-25.0,KIDS,"Pantalones, Ropa, Nino",Gris Grafito,12
+1393,Camiseta con Estampado para Niño 13864,21450.0,-50.0,KIDS,"Ropa, Camisetas, Nino",Verde Malaquita,12
+1395,Pantaloneta de Baño en Rayas para Niño 13870,34950.0,-50.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Azul Royal,12
+1396,Pijama Estampada para Niño 13875,59925.0,-25.0,KIDS,"Ropa, Pijamas, Nino",Azul Marino,12
+1397,Pijama Estampada para Niño 13876,54675.0,-25.0,KIDS,"Ropa, Pijamas, Nino",Beige,2-3
+1398,Suéter Tejido Unicolor para Niña 13880,69675.0,-25.0,KIDS,"Suéteres, Nina, Ropa",Beige,12
+1399,Vestido Unicolor para Niña 13884,61685.0,-35.0,KIDS,"Ropa, Vestidos, Nina",Khaki,12
+1400,Camisa Manga Corta para Niño 13900,67425.0,-25.0,KIDS,"Camisas, Ropa, Nino",Carmesí,12
+1401,Camisa Manga Larga Rayas para Niño 13902,69485.0,-35.0,KIDS,"Camisas, Ropa, Nino",Azul Marino,12
+1402,Camisa Manga Larga para Niño 13907,67425.0,-25.0,KIDS,"Camisas, Ropa, Nino",Rojo Persa,12
+1403,Camisa Unicolor Manga Corta para Niño 13911,67425.0,-25.0,KIDS,"Camisas, Ropa, Nino",Rosa Claro,12
+1404,Camiseta Unicolor Azul para Niña 13932,17450.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Azul Royal,12
+1405,Camiseta con Estampado en Frente para Niña 13935,21450.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Verde Malaquita,12
+1406,Camiseta Lila para Niña 13936,19950.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Lavanda,12
+1407,Camiseta con Estampado en Frente para Niña 13937,22450.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Beige,12
+1408,Pijama Estampada para Niño 13942,52425.0,-25.0,KIDS,"Ropa, Pijamas, Nino",Beige,12
+1409,Short en Demin Azul con Cinturón 13943,39950.0,-50.0,KIDS,"Shorts, Nina, Ropa",Azul Claro,12
+1410,Camisa Manga Corta Diseño Rayas para Niño 13953,65175.0,-25.0,KIDS,"Camisas, Ropa, Nino",Azul Royal,12
+1411,Pantalón Unicolor para Niño 13955,67425.0,-25.0,KIDS,"Pantalones, Ropa, Nino",Habano,12
+1412,Bermuda Unicolor para Niño 13962,36450.0,-50.0,KIDS,"Ropa, Bermudas, Nino",Amarillo Zinc,12
+1413,Bermuda Cargo para Niño 13963,46450.0,-50.0,KIDS,"Ropa, Bermudas, Nino",Khaki,12
+1414,Pantalón Paper Bag Tipo Pana para Niña 14036,59925.0,-25.0,KIDS,"Pantalones, Nina, Ropa",Lima,12
+1415,Camisa Unicolor Manga Corta para Niño 14044,63675.0,-25.0,KIDS,"Camisas, Ropa, Nino",Esmeralda,12
+1416,Camisa Manga Larga de Cuadros para Niño 14048,67425.0,-25.0,KIDS,"Camisas, Ropa, Nino",Blanco,12
+1417,Camisetas X 2 Tipo Crop con Cut Off para Niña 14077,44950.0,-50.0,KIDS,"Ropa, Nina, Camisetas",Turquesa,2-3
+1418,Jean Silueta Wide Leg para Niña 14122,72675.0,-25.0,KIDS,"Pantalones, Nina, Ropa",Rosa Francés,12
+1419,Jean Silueta Wide Leg para Niña 14123,67425.0,-25.0,KIDS,"Pantalones, Nina, Ropa",Lavanda,12
+1420,Jean Silueta Carpintero para Hombre 04702,74950.0,-50.0,HOMBRE,"Ropa, Jeans",Azul Prusia,36
+1421,Camisa Formal con Textura para Hombre 09205,52425.0,-25.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Amarillo Pastel,42
+1422,Buzo Unicolor con Cremallera para Hombre 03569,69950.0,-50.0,HOMBRE,"Ropa, Buzos",Vinotinto,L
+1423,Jogger Unicolor Plano para Hombre 03593,67450.0,-50.0,HOMBRE,"Pantalones, Ropa, Joggers","Negro, Vinotinto",L
+1424,Camiseta Semi Oversize Estampada para Hombre 05103,20965.0,-65.0,HOMBRE,"Ropa, Camisetas",Rosa Sachet,L
+1425,Camiseta Oversize de Bob Esponja para Hombre 05135,24465.0,-65.0,HOMBRE,"Ropa, Camisetas",Blanco,L
+1426,Pantalón Tipo Jogger Unicolor para Hombre 05141,64950.0,-50.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Hueso,L
+1427,Pantalón Recto con Ajustable para Hombre 05142,64950.0,-50.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Beige,L
+1428,Bermuda Unicolor Bolsillo Cargo para Hombre 04911,56940.0,-40.0,HOMBRE,"Ropa, Bermudas",Gris Ceniza,L
+1429,Vestido Estilo Jardinera para Niña 13886,63675.0,-25.0,KIDS,"Ropa, Vestidos, Nina",Khaki,12
+1430,Camisa Rayas Manga Corta para Hombre 33278,68950.0,-50.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Blanco,L
+1431,Camiseta Moda Regular Fit para Hombre 26982,32450.0,-50.0,HOMBRE,"Ropa, Camisetas",Sangría,L
+1432,Camiseta Estampada Regular Fit para Hombre 26999,20265.0,-65.0,HOMBRE,"Ropa, Camisetas",Cereza,L
+1433,Camiseta Business Manga Corta 27080,29715.0,-65.0,HOMBRE,"Ropa, Camisetas","Blanco, Verde Oscuro",L
+1434,Polo Textura Bicolor para Hombre 33519,49950.0,-50.0,HOMBRE,"Polos, Ropa","Azul Malibú, Ocaso",L
+1435,Polo Moda Preteñido Rayas para Hombre 33520,59940.0,-40.0,HOMBRE,"Polos, Ropa",Beige,L
+1436,Camiseta Moda Slim Fit para Hombre 33551,32450.0,-50.0,HOMBRE,"Ropa, Camisetas",Índigo,L
+1437,Camiseta Moda Regular Fit para Hombre 33554,32450.0,-50.0,HOMBRE,"Ropa, Camisetas",Amarillo Zinc,L
+1438,Polo Piqué Unicolor Regular Fit para Hombre 35253,49140.0,-40.0,HOMBRE,"Polos, Ropa",Menta,L
+1439,Camisa Formal Algodón Premium para Hombre Regular Fit 21306,102675.0,-25.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+1440,Camisa Business Manga Larga para Hombre 24316,101925.0,-25.0,HOMBRE,"Camisas, Camisas Business, Ropa",Azul Claro,L
+1441,Camisa Business Manga Larga para Hombre 24317,107175.0,-25.0,HOMBRE,"Camisas, Camisas Business, Ropa",Gris Ceniza,L
+1442,Camisa Business Manga Larga para Hombre 24319,105675.0,-25.0,HOMBRE,"Camisas, Camisas Business, Ropa",Azul Claro,L
+1443,Camisa Business Unicolor Manga Larga para Hombre 24323,112425.0,-25.0,HOMBRE,"Camisas, Camisas Business, Ropa",Gris Plata,L
+1444,Camisa Business Manga Larga para Hombre 24325,108675.0,-25.0,HOMBRE,"Camisas, Camisas Business, Ropa",Lila,L
+1445,Camisa Business Manga Larga para Hombre 24327,109425.0,-25.0,HOMBRE,"Camisas, Camisas Business, Ropa",Azul Malibú,L
+1446,Camisa Textura Manga Larga para Hombre 26089,104925.0,-25.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Blanco,L
+1447,Camisa Business Premium Slim Fit para Hombre 27349,138675.0,-25.0,HOMBRE,"Camisas, Camisas Business, Ropa",Índigo,L
+1448,Camisa Business Algodón Europeo para Hombre 27366 27377,119925.0,-25.0,HOMBRE,"Camisas, Camisas Business, Ropa",Rosa Crepé,L
+1449,Sobrecamisa Textura Manga Larga para Hombre 29881,90285.0,-35.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Taupe,L
+1450,Pantalón Business Slim Fit para Hombre 30447,104175.0,-25.0,HOMBRE,"Pantalones Business, Ropa, Pantalones",Khaki,40
+1451,Pantalón Business Slim Fit para Hombre 30508,107925.0,-25.0,HOMBRE,"Pantalones Business, Ropa, Pantalones",Gris Carbón,40
+1452,Traje Diseño Cuadros Silueta Slim Fit para Hombre 32462,476925.0,-25.0,HOMBRE,"Ropa, Trajes",Gris Carbón,40
+1453,Camisa Formal Algodón Pima para Hombre Semi Slim Fit 33121,90285.0,-35.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+1454,Camisa Textura Manga Larga para Hombre 33283,119925.0,-25.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Cereza,L
+1455,Camisa Formal Algodón Pima para Hombre Regular Fit 33929,104925.0,-25.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Rosa Claro,42
+1456,Camisa Cuadros Manga Larga para Hombre 34431,102675.0,-25.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Blanco,L
+1457,Pantalón Formal para Hombre Slim Fit 34677,107175.0,-25.0,HOMBRE,"Pantalones, Pantalones Formales, Ropa",Canela,38
+1458,Pantalón Business Regular Fit para Hombre 35077,152175.0,-25.0,HOMBRE,"Pantalones Business, Ropa, Pantalones",Negro,40
+1459,Pantalón Formal para Hombre Semi Slim Fit 35137,95175.0,-25.0,HOMBRE,"Pantalones, Pantalones Formales, Ropa","Gris Granito, Azul Prusia",42
+1460,Pantalón Casual WF Unicolor Regular Fit para Hombre 35815,127425.0,-25.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Beige,40
+1461,Camisa Formal Algodón Premium para Hombre Slim Fit 35885,149925.0,-25.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Blanco,42
+1462,Bermuda Unicolor Bolsillo Cargo para Hombre 04911,33215.0,-65.0,HOMBRE,"Ropa, Bermudas",Negro,L
+1463,Camisa Formal Regular Fit para Hombre 10827,48685.0,-35.0,HOMBRE,"Camisas, Ropa, Camisas Formales",Azul Claro,42
+1464,Chaqueta Unicolor para Hombre 10845,110435.0,-35.0,HOMBRE,"Ropa, Chaquetas","Escarlata, Navy",L
+1465,Camiseta Estampada Batman para Hombre 12518,29940.0,-40.0,HOMBRE,"Ropa, Camisetas",Negro,L
+1466,Camiseta Estampada Batman para Hombre 12520,29940.0,-40.0,HOMBRE,"Ropa, Camisetas",Blanco,L
+1467,Camiseta Estampada Superman para Hombre 12521,29940.0,-40.0,HOMBRE,"Ropa, Camisetas",Blanco,L
+1468,Zapato Casual con Suela Deportiva 32730,127985.0,-35.0,HOMBRE,"Zapatos Casual, Zapatos",Ganache,42
+1469,Camisa Estampada Manga Larga para Hombre 04884,67450.0,-50.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Blanco,L
+1470,Tenis Unicolor de Suela Alta con Sistema de Amarre Cordón Plano 04081,117585.0,-35.0,HOMBRE,"Tenis, Zapatos","Negro, Blanco",42
+1471,Traje Lana Silueta Regular para Hombre 21347,374950.0,-50.0,HOMBRE,"Ropa, Trajes",Chocolate,43
+1472,Traje Lavado en Casa Actual Fit para Hombre 22539,448435.0,-35.0,HOMBRE,"Ropa, Trajes",Gris Granito,42
+1473,Pantalón Unicolor Slim Fit para Hombre 29692,62450.0,-50.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Habano,38
+1474,Suéter Cuello Caracol para Hombre 30299,87685.0,-35.0,HOMBRE,"Ropa, Suéteres y Cardigans",Mostaza,L
+1475,Camisa Unicolor Manga Corta para Hombre 31649,85735.0,-35.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Vinotinto,L
+1476,Mocasín Tipo Driver con Costura Expuesta 31905,83265.0,-65.0,HOMBRE,"Mocasines, Zapatos",Habano,42
+1477,Traje Unicolor Regular Fit para Hombre 32164,283985.0,-35.0,HOMBRE,"Ropa, Trajes",Gris Granito,42
+1478,Camisa Unicolor Manga Corta para Hombre 33612,93675.0,-25.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Verde Enebro,L
+1479,Zapato Formal con Doble Costura Decorativa en El Lateral 35721,118140.0,-40.0,HOMBRE,"Zapatos Formales, Zapatos",Negro,42
+1480,Pack x 2 Panties Combinados para Niña 10212,15000.0,-50.0,KIDS,"Ropa, Ropa Interior, Nina, Panties",Multicolor,12
+1481,Tenis de Ajuste Automático para Niña 10906,45435.0,-35.0,KIDS,"Tenis, Nina, Zapatos",Negro,26-27
+1482,Jean Pretina Ajustable para Niño 13793,62985.0,-35.0,KIDS,"Ropa, Jeans, Nino",Gris Carbón,12
+1483,Pantalón Unicolor Regular Fit para Hombre 08934,59925.0,-25.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales","Negro, Azul Prusia",42
+1484,Camisa Business Unicolor para Hombre 11559,45435.0,-35.0,HOMBRE,"Camisas, Camisas Business, Ropa",Blanco,L
+1485,Pantaloneta de Baño Estampada para Hombre 11657,29950.0,-50.0,HOMBRE,"Ropa, Pantalonetas",Granate,L
+1486,Bermuda de Ribetes para Hombre 12417,37450.0,-50.0,HOMBRE,"Ropa, Bermudas","Negro, Abeto, Blanco",42
+1487,Polo Estampada para Hombre 02506,78000.0,-40.0,HOMBRE,"Polos, Ropa",Amarillo,L
+1488,Camiseta para Hombre en Mezclas Poliéster 02517,50000.0,-50.0,HOMBRE,"Ropa, Camisetas",Khaki,L
+1489,Camisa para Hombre en Algodón 02551,97500.0,-35.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul,L
+1490,Zapatos Cerrados para Hombre en Cuero 02741,150000.0,-25.0,HOMBRE,"Zapatos Casual, Zapatos",Azul Royal,43
+1491,Camisa para Hombre en Mezclas Algodón 02792,120000.0,-25.0,HOMBRE,"Camisas, Ropa, Camisas Lino",Rosa Amaranto,L
+1492,Camiseta para Hombre Composición Algodón 02809,72000.0,-40.0,HOMBRE,"Ropa, Camisetas",Aguamarina,L
+1493,Camiseta para Hombre en Algodón 02811,54000.0,-40.0,HOMBRE,"Ropa, Camisetas",Blanco,L
+1494,Camiseta para Hombre Mezclas Poliester 02812,60000.0,-40.0,HOMBRE,"Ropa, Camisetas",Rosa Sachet,L
+1495,Camisa para Hombre Composición Algodón 02825,142500.0,-25.0,HOMBRE,"Camisas, Camisas Casuales, Ropa",Azul,L
+1496,Polo para Hombre Composición Algodón 02840,72000.0,-40.0,HOMBRE,"Polos, Ropa",Carmesí,L
+1497,Pantaloneta de Baño para Hombre Mezclas Poliester 02922,102000.0,-40.0,HOMBRE,"Ropa, Pantalonetas",Azul Prusia,L
+1498,Camiseta en Mezclas Poliéster para Niño 02928,48000.0,-40.0,KIDS,"Ropa, Camisetas, Nino",Rosa Sachet,12
+1499,Chaqueta Unicolor Acolchada para Hombre 23590,234675.0,-25.0,HOMBRE,"Ropa, Chaquetas","Negro, Azul Prusia",L
+1500,Pantaloneta Estampada para Niño 14137,43740.0,-40.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Blanco,12
+1501,Polo Unicolor para Niño 14162,38940.0,-40.0,KIDS,"Polos, Ropa, Nino","Hueso, Azul Prusia, Azul Malibú, Amarillo Limón, Verde Manzana",2-3
+1502,Polo Unicolor para Niño 14162,38940.0,-40.0,KIDS,"Polos, Ropa, Nino","Hueso, Azul Prusia, Azul Malibú, Amarillo Limón, Verde Manzana",12
+1503,Camiseta Unicolor para Niño 14170,25740.0,-40.0,KIDS,"Ropa, Camisetas, Nino",Verde Manzana,12
+1504,Camiseta con Estampado de Jungle para Niño 14172,28140.0,-40.0,KIDS,"Ropa, Camisetas, Nino",Beige,12
+1505,Camiseta Aqua Unicolor para Niño 14174,32940.0,-40.0,KIDS,"Ropa, Camisetas, Nino",Lima,12
+1506,Bermuda con Pretina Ajustable para Niño 14180,47940.0,-40.0,KIDS,"Ropa, Bermudas, Nino",Carmesí,12
+1507,Bermuda para Niño Mezclas Algodón 14181,47940.0,-40.0,KIDS,"Ropa, Bermudas, Nino",Avellana,12
+1508,Pantaloneta de Baño en Bloques para Niño 14183,43740.0,-40.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Esmeralda,12
+1509,Pantaloneta de Baño para Niño 14185,43740.0,-40.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Berenjena,12
+1510,Bermuda Unicolor para Niño 14195,46140.0,-40.0,KIDS,"Ropa, Bermudas, Nino",Habano,12
+1511,Camiseta Estampada de Jirafa para Niña 14209,23940.0,-40.0,KIDS,"Ropa, Nina, Camisetas",Rosa Lavanda,12
+1512,Camiseta Estampada para Niña 14218,20940.0,-40.0,KIDS,"Ropa, Nina, Camisetas",Multicolor,12
+1513,Camiseta con Estampado para Niña 14220,26940.0,-40.0,KIDS,"Ropa, Nina, Camisetas",Beige,12
+1514,Camiseta con Estampado de Palmeras para Niña 14223,26940.0,-40.0,KIDS,"Ropa, Nina, Camisetas",Beige,12
+1515,Short en Dril para Niña 14231,47940.0,-40.0,KIDS,"Shorts, Nina, Ropa",Hueso,12
+1516,Camiseta con Estampado para Niño 14255,35340.0,-40.0,KIDS,"Ropa, Camisetas, Nino",Rojo Persa,12
+1517,Camisa Business Manga Larga para Hombre 24321,106425.0,-25.0,HOMBRE,"Camisas, Camisas Business, Ropa",Menta,L
+1518,Pantalón Casual Wf Unicolor Regular Fit Para Hombre 36184,127425.0,-25.0,HOMBRE,"Pantalones, Ropa, Pantalones Casuales",Verde Pino,38
+1519,Jean Silueta Skinny para Niña 14148,80175.0,-25.0,KIDS,"Pantalones, Nina, Ropa",Aguamarina,12
+1520,Pantalón con Pretina Ajustable para Niño 14175,74925.0,-25.0,KIDS,"Pantalones, Ropa, Nino",Negro,12
+1521,Jogger Unicolor para Niño 14178,84675.0,-25.0,KIDS,"Pantalones, Ropa, Nino",Khaki,12
+1522,Blusa Unicolor para Niña 14208,59925.0,-25.0,KIDS,"Ropa, Camisas y Blusas, Nina",Beige,12
+1523,Camisa Manga Larga Estampada para Niño 13903,101900.0,0.0,KIDS,"Camisas, Ropa, Nino",Gris,12
+1524,Camiseta Básica Ecológica para Niño 09850,29665.0,-15.0,KIDS,"Ropa, Camisetas, Nino","Azul Malibú, Violeta, Blanco",12
+1525,Camiseta Estampada de Los Looney Tunes para Niña 14546,46665.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Azul Malibú,12
+1526,Camiseta en Algodón para Niña 14439,42415.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Amarillo Limón,12
+1527,Camiseta con Detalle en El Cuello para Niña 14451,33915.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Verde Manzana,12
+1528,Tenis Deportivos de Amarrar para Niña 14234,129900.0,0.0,KIDS,"Tenis, Nina, Zapatos",Beige,35
+1529,Zapatos con Capellada en Sintético para Niño 14473,89900.0,0.0,KIDS,"Zapatos, Nino",Café,36
+1530,Camiseta en Algodón para Niño 14402,42415.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Beige,12
+1531,Pack x 3 Medias Unicolor para Niño 05549,24900.0,0.0,KIDS,"Medias, Ropa Interior, Ropa, Nino",Multicolor,9-11
+1532,"Camiseta para Niña, en Mezclas Poliéster. 14346",52615.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Rosa Amaranto,12
+1533,Pack x 3 Medias para Niño 13113,22900.0,0.0,KIDS,"Medias, Ropa Interior, Ropa, Nino",Multicolor,9-11
+1534,Pantalón de Lino para Niño 14427,114900.0,0.0,KIDS,"Pantalones, Ropa, Nino",Habano,12
+1535,Bermuda con Pretina Ajustable para Niño 14316,50915.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Aguamarina,12
+1536,Camiseta Estampado Minions para Niño 14392,50915.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Menta,12
+1537,Pantaloneta Estampada para Niño 14318,59415.0,-15.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Aguamarina,12
+1538,Bóxer Mezclas Algodón para Niño 14197,49900.0,0.0,KIDS,"Ropa, Ropa Interior, Bóxers, Nino",Esmeralda,12
+1539,Camisa Manga Larga en Lino para Niño 03052,170000.0,0.0,KIDS,"Camisas, Ropa, Nino",Marfil,2-3
+1540,"Falda para Niña, Mezclas Viscosa. 14388",99900.0,0.0,KIDS,"Ropa, Nina, Faldas",Plateado,12
+1541,Camiseta Estampada en Frente para Niño 14400,42415.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Amarillo,12
+1542,Bermuda en Algodón para Niño 14410,80665.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Azul Claro,12
+1543,Bermuda para Niño Mezclas Algodón 02887,144500.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Aguamarina,14
+1544,"Camiseta para Niña, con Estampado en Algodón. 14343",46665.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Beige,12
+1545,Pijama para Niño Composición Algodón 14260,52425.0,-25.0,KIDS,"Ropa, Pijamas, Nino",Turquesa,12
+1546,Short en Algodón para Niña 14374,67915.0,-15.0,KIDS,"Shorts, Nina, Ropa",Azul Malibú,12
+1547,Blazer Mezclas Algodón para Niño 14332,199900.0,0.0,KIDS,"Ropa, Blazers, Nino",Hueso,12
+1548,Camiseta Estampada de Barbie para Niña 14222,42415.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Rosa Lavanda,12
+1549,Camiseta con Estampado de Barbie para Niña 14219,48365.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Negro,12
+1550,Tenis de Amarrar para Niña 14143,119900.0,0.0,KIDS,"Tenis, Nina, Zapatos",Multicolor,35
+1551,Camiseta con Detalles en Lentejuelas para Niña 14142,44965.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Beige,12
+1552,Pantalón Unicolor para Niño 13850,102900.0,0.0,KIDS,"Pantalones, Ropa, Nino",Khaki,2-3
+1553,Camiseta con Estampado en Algodón para Niña 14381,46665.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Beige,12
+1554,Camiseta en Algodón para Niña 14383,46665.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Beige,12
+1555,Tenis con Capellada en Sintético para Niño 14263,129900.0,0.0,KIDS,"Tenis, Zapatos, Nino",Blanco,36
+1556,Pantaloneta de Baño Estampada para Niño 03120,110500.0,-15.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Habano,14
+1557,Pantaloneta de Baño Estampada para Niño 03119,110500.0,-15.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Rosa Amaranto,14
+1558,Blusa Unicolor para Niña 14342,49900.0,0.0,KIDS,"Ropa, Camisas y Blusas, Nina",Rosa Amaranto,12
+1559,Camiseta Estampada para Niña 14210,42415.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Negro,12
+1560,Tenis Deportivos de Amarrar para Niña 14235,129900.0,0.0,KIDS,"Tenis, Nina, Zapatos",Multicolor,35
+1561,"Bóxer para Niño, Composición Algodón. 14196",74900.0,0.0,KIDS,"Ropa, Ropa Interior, Bóxers, Nino",Multicolor,12
+1562,Medias Mezclas Algodón para Niño 14356,22900.0,0.0,KIDS,"Medias, Ropa Interior, Ropa, Nino",Multicolor,9-11
+1563,Tenis con Capellada en Sintético para Niño 14264,129900.0,0.0,KIDS,"Tenis, Zapatos, Nino",Blanco,36
+1564,Vestido de Rayas con Moños para Niña 14068,104900.0,0.0,KIDS,"Ropa, Vestidos, Nina",Blanco,12
+1565,Camiseta Bob Esponja para Niño 14449,42415.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Amarillo Pastel,12
+1566,Polo con Bloques de Color para Niño 14326,50915.0,-15.0,KIDS,"Polos, Ropa, Nino",Azul Malibú,12
+1567,Camisa para Niño Mezclas Lino 02876,150000.0,0.0,KIDS,"Camisas, Ropa, Nino",Aguamarina,12
+1568,Camiseta Estampado Minions para Niño 14393,46665.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Rosa,12
+1569,Camiseta Composición Algodón para Niño 14401,33915.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Sandía,12
+1570,Camisa con Diseño en Contraste para Niño 14337,81900.0,0.0,KIDS,"Camisas, Ropa, Nino",Blanco,12
+1571,Bermuda con Pretina Ajustable para Niño 14367,76415.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Menta,12
+1572,Pantalón Cargo para Niña 14272,44925.0,-25.0,KIDS,"Pantalones, Nina, Ropa",Hueso,12
+1573,Buzo con Estampado para Niño 14252,47175.0,-25.0,KIDS,"Ropa, Buzos, Nino",Blanco,12
+1574,"Camiseta con Estampado, para Niña. 14344",42415.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Azul Malibú,12
+1575,Jean Pretina Ajustable para Niño 13999,99900.0,0.0,KIDS,"Ropa, Jeans, Nino",Aguamarina,12
+1576,Pantaloneta de Baño para Niño en Poliéster 02893,110500.0,-15.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Rosa Sachet,14
+1577,Medias para Niño con Mezclas Algodón 14198,22900.0,0.0,KIDS,"Medias, Ropa Interior, Ropa, Nino",Multicolor,9-11
+1578,Chaqueta Acolchada con Capota para Niño 11184,116900.0,0.0,KIDS,"Ropa, Chaquetas y Chalecos, Nino","Verde Enebro, Negro, Azul Prusia",12
+1579,Medias para Niño en Mezclas Algodón. 14191,16900.0,0.0,KIDS,"Medias, Ropa Interior, Ropa, Nino",Gris Plata,9-11
+1580,Camisa en Mezclas Lino para Niño 14415,99900.0,0.0,KIDS,"Camisas, Ropa, Nino","Aguamarina, Rosa Claro",12
+1581,Polo para Niño Mezclas Poliéster 02882,76500.0,-15.0,KIDS,"Polos, Ropa, Nino",Blanco,12
+1582,Medias Invisibles para Niña 14060,10900.0,0.0,KIDS,"Medias, Ropa Interior, Nina, Ropa",Beige,9-11
+1583,Camisa Manga Unicolor para Niño 12922,99900.0,0.0,KIDS,"Camisas, Ropa, Nino","Azul Royal, Blanco",2-3
+1584,Jean Silueta Skinny para Niña 13627,99900.0,0.0,KIDS,"Pantalones, Nina, Ropa",Aguamarina,12
+1585,Jogger Tipo Cargo para Niño 14248,82425.0,-25.0,KIDS,"Pantalones, Ropa, Nino",Azul Claro,12
+1586,Bóxer Px2 para Niño 13948,49900.0,0.0,KIDS,"Ropa, Ropa Interior, Bóxers, Nino",Carmesí,12
+1587,Pantaloneta de Baño para Niño en Poliéster 02899,110500.0,-15.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Azul Prusia,14
+1588,Bermuda Unicolor Diseño Casual para Niño 13964,73865.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Azul Marino,12
+1589,Camisa Manga Larga para Niña 14080,76415.0,-15.0,KIDS,"Ropa, Nina, Camisetas",Blanco,12
+1590,Bermuda Unicolor para Niño 13974,59415.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Amarillo Zinc,12
+1591,Pantaloneta de Baño para Niño en Poliéster 02896,110500.0,-15.0,KIDS,"Ropa, Pantalonetas de Baño, Nino",Esmeralda,14
+1592,Camiseta Estampada en Frente para Niño 13868,26450.0,-50.0,KIDS,"Ropa, Camisetas, Nino",Gris Grafito,12
+1593,Jean Pretina Ajustable para Niño 13794,96900.0,0.0,KIDS,"Ropa, Jeans, Nino",Negro,12
+1594,Divertido Suéter Tejido para Niña 13623,89900.0,0.0,KIDS,"Suéteres, Nina, Ropa",Lavanda,12
+1595,Camiseta Básica Ecológica para Niño 09850,29665.0,-15.0,KIDS,"Ropa, Camisetas, Nino","Azul Malibú, Violeta, Blanco",12
+1596,Pack x 2 Camisillas Tipo Esqueleto para Niño 04610,56900.0,0.0,KIDS,"Camisillas, Ropa Interior, Ropa, Nino",Blanco,12
+1597,Pack x 2 Camisillas para Niño 07085,64900.0,0.0,KIDS,"Camisillas, Ropa Interior, Ropa, Nino",Blanco,14
+1598,Camiseta Unicolor para Niño 03096,68000.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Habano,14
+1599,Bermuda para Niño en Mezclas Viscosa 02933,161500.0,-15.0,KIDS,"Ropa, Bermudas, Nino",Hueso,14
+1600,Camiseta con Estampado para Niño 14116,50915.0,-15.0,KIDS,"Ropa, Camisetas, Nino",Azul,12
+1601,Pack x 3 de Tops Estampados para Niña 10214,49900.0,0.0,KIDS,"Ropa, Ropa Interior, Tops, Nina",Multicolor,12

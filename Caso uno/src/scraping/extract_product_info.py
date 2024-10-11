@@ -181,7 +181,7 @@ def scrape_product(url, position, pagination, max_retries=3, wait_time=2):
 start_time_total = time.time()
 
 # Cargar el archivo CSV con las URLs, posiciones y paginaciones
-csv_file = "productos_limpios.csv"
+csv_file = "C:/Users/johan/Desktop/Data/Caso uno/src/scraping/productos_20241006_165851.csv"
 product_df = pd.read_csv(csv_file)
 
 # Lista para almacenar los datos de todos los productos
@@ -202,11 +202,11 @@ for index, row in product_df.iterrows():
 products_df = pd.DataFrame(all_products)
 
 # Guardar los datos en un archivo CSV
-products_df.to_csv('productos_scrapeados_v2.csv', index=False, encoding='utf-8')
-logging.info("Datos estructurados y almacenados en productos_scrapeados_v2.csv")
+products_df.to_csv('productos_scrapeados_v4.csv', index=False, encoding='utf-8')
+logging.info("Datos estructurados y almacenados en productos_scrapeados_v4.csv")
 
 # Calcular el tiempo total de ejecución
 end_time_total = time.time()
 execution_time = end_time_total - start_time_total
 logging.info(f"Tiempo total de ejecución: {execution_time:.2f} segundos")
-print(f"Datos estructurados y almacenados en 'productos_scrapeados_v2.csv'")
+print(f"Datos estructurados y almacenados en 'productos_scrapeados_v4.csv'")

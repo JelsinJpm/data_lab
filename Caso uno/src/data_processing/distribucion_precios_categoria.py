@@ -47,3 +47,5 @@ plt.xticks(rotation=45)
 
 # Mostramos el gráfico generado
 plt.show()
+
+print(df_precios)

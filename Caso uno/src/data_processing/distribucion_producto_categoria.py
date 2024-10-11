@@ -21,6 +21,12 @@ df_categorias = pd.read_sql(query, engine)
 # Cerramos la conexión a la base de datos después de la consulta
 engine.dispose()
 
+# Calcular total de productos
+total_productos = df_categorias['cantidad_productos'].sum()
+
+# Agregar columna de porcentaje
+df_categorias['porcentaje'] = (df_categorias['cantidad_productos'] / total_productos) * 100
+
 # Configuramos el estilo del gráfico utilizando Seaborn (estilo de cuadrícula blanca)
 sns.set(style="whitegrid")
 
@@ -35,3 +41,5 @@ plt.ylabel('Categoría', fontsize=12)
 
 # Mostramos el gráfico generado
 plt.show()
+
+print(df_categorias)

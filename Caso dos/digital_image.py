@@ -4,7 +4,23 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.interpolate import interp1d
 
-def solicitar_datos_usuario():
+def solicitar_datos_recorte():
+    while True:
+        # Pedir al usuario los porcentajes de recorte para la imagen
+        x_start_percent = float(input("Ingrese el porcentaje de inicio en X para recortar la imagen (e.g., 15 para 15%): "))
+        x_end_percent = float(input("Ingrese el porcentaje de fin en X para recortar la imagen (e.g., 95 para 95%): "))
+        y_start_percent = float(input("Ingrese el porcentaje de inicio en Y para recortar la imagen (e.g., 10 para 10%): "))
+        y_end_percent = float(input("Ingrese el porcentaje de fin en Y para recortar la imagen (e.g., 50 para 50%): "))
+
+        # Convertir los porcentajes a fracciones (e.g., 15% -> 0.15)
+        x_start = x_start_percent / 100
+        x_end = x_end_percent / 100
+        y_start = y_start_percent / 100
+        y_end = y_end_percent / 100
+
+        return x_start, x_end, y_start, y_end
+
+def solicitar_datos_escalado():
     # Pedir al usuario el número de muestras
     num_muestras = int(input("Ingrese el número de muestras (e.g., 1000): "))
 
@@ -14,19 +30,7 @@ def solicitar_datos_usuario():
     y_min = float(input("Ingrese el valor mínimo del eje Y (e.g., 0): "))
     y_max = float(input("Ingrese el valor máximo del eje Y (e.g., 500): "))
 
-    # Pedir al usuario los porcentajes de recorte para la imagen
-    x_start_percent = float(input("Ingrese el porcentaje de inicio en X para recortar la imagen (e.g., 15 para 15%): "))
-    x_end_percent = float(input("Ingrese el porcentaje de fin en X para recortar la imagen (e.g., 95 para 95%): "))
-    y_start_percent = float(input("Ingrese el porcentaje de inicio en Y para recortar la imagen (e.g., 10 para 10%): "))
-    y_end_percent = float(input("Ingrese el porcentaje de fin en Y para recortar la imagen (e.g., 50 para 50%): "))
-
-    # Convertir los porcentajes a fracciones (e.g., 15% -> 0.15)
-    x_start = x_start_percent / 100
-    x_end = x_end_percent / 100
-    y_start = y_start_percent / 100
-    y_end = y_end_percent / 100
-
-    return num_muestras, x_min, x_max, y_min, y_max, x_start, x_end, y_start, y_end
+    return num_muestras, x_min, x_max, y_min, y_max
 
 def cargar_y_recortar_imagen(image_path, x_start, x_end, y_start, y_end):
     # Cargar la imagen del gráfico de líneas
@@ -41,6 +45,17 @@ def cargar_y_recortar_imagen(image_path, x_start, x_end, y_start, y_end):
     cropped_img = img[y_start_px:y_end_px, x_start_px:x_end_px]
     
     return cropped_img, width, height
+
+def mostrar_imagen(cropped_img):
+    # Mostrar la imagen recortada y pedir confirmación al usuario
+    plt.figure(figsize=(10, 6))
+    plt.imshow(cv2.cvtColor(cropped_img, cv2.COLOR_BGR2RGB))
+    plt.title("Imagen Recortada - Verifique si es Correcta")
+    plt.axis('off')
+    plt.show()
+
+    respuesta = input("¿Está satisfecho con el recorte? (s/n): ").strip().lower()
+    return respuesta == 's'
 
 def procesar_imagen(cropped_img):
     # Convertir a escala de grises y aplicar desenfoque
@@ -117,22 +132,25 @@ def graficar_puntos(df_muestreado, edges_cropped, cropped_img):
     plt.grid()
     plt.show()
 
-    # Visualizar los bordes detectados
-    plt.figure(figsize=(10, 6))
-    plt.imshow(edges_cropped, cmap='gray')
-    plt.title("Bordes Detectados del Gráfico (Recortado)")
-    plt.axis('off')
-    plt.show()
-
 def main():
     image_path = input("Ingrese la ruta del archivo de imagen: ")
-    
-    # Solicitar los datos necesarios al usuario
-    num_muestras, x_min, x_max, y_min, y_max, x_start, x_end, y_start, y_end = solicitar_datos_usuario()
 
-    # Cargar y recortar la imagen
-    cropped_img, width, height = cargar_y_recortar_imagen(image_path, x_start, x_end, y_start, y_end)
-    
+    # Solicitar los datos de recorte
+    while True:
+        x_start, x_end, y_start, y_end = solicitar_datos_recorte()
+
+        # Cargar y recortar la imagen
+        cropped_img, width, height = cargar_y_recortar_imagen(image_path, x_start, x_end, y_start, y_end)
+
+        # Mostrar la imagen recortada para verificación del usuario
+        if mostrar_imagen(cropped_img):
+            break
+        else:
+            print("Por favor, ajuste los valores de recorte y vuelva a intentar.")
+
+    # Solicitar los datos de escalado
+    num_muestras, x_min, x_max, y_min, y_max = solicitar_datos_escalado()
+
     # Procesar imagen y obtener contornos
     contours_cropped, edges_cropped = procesar_imagen(cropped_img)
     
@@ -159,7 +177,7 @@ def main():
     archivo_salida = input("Ingrese el nombre del archivo CSV de salida (o presione Enter para omitir): ")
     if archivo_salida:
         df_muestreado.to_csv(archivo_salida, index=False)
-        print(f"Resultados guardados en {archivo_salida}")
+        print(f"Resultados guardados en {archivo_salida}.csv")
 
 if __name__ == "__main__":
     main()

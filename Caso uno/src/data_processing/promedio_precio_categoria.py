@@ -48,3 +48,5 @@ plt.gca().yaxis.set_major_formatter(FuncFormatter(format_cop))
 # Mostramos gráfico
 plt.xticks(rotation=45)
 plt.show()
+
+print(precio_promedio)
